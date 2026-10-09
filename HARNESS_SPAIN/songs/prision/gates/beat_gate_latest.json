@@ -1,0 +1,1288 @@
+{
+ "round": 1,
+ "n_pass": 2,
+ "n_total": 9,
+ "stage_ok": true,
+ "rows": [
+  {
+   "name": "b1_cl_s7",
+   "metrics": {
+    "voice_pct": 0.0,
+    "accordion_pct": 91.7,
+    "sax_pct": 8.2,
+    "lock_corr": 0.58,
+    "lock_iqr_ms": 23,
+    "skips": 2,
+    "start_lag_ms": 5,
+    "start_corr": 0.465,
+    "sims": {
+     "loi1": 0.6,
+     "giua": 0.6,
+     "loi2": 0.61
+    },
+    "sim_orig_max": 0.61,
+    "dur_ratio": 0.995,
+    "flat_hf": 0.716,
+    "flat_hf_ref": 0.619,
+    "intro_chroma": 0.709,
+    "intro_onset": 0.371,
+    "intro_first_onset_dev_s": 0.081,
+    "first_onset_beat_s": 0.301859410430839,
+    "first_onset_ref_s": 0.22058956916099773
+   },
+   "score": 0.992,
+   "passed": true,
+   "results": [
+    {
+     "id": "voice_pct",
+     "mode": "hard",
+     "x": 0.0,
+     "op": "<=",
+     "v": 15,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "accordion_pct",
+     "mode": "hard",
+     "x": 91.7,
+     "op": ">=",
+     "v": 40,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "lock_corr",
+     "mode": "hard",
+     "x": 0.58,
+     "op": ">=",
+     "v": 0.3,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "lock_iqr_ms",
+     "mode": "hard",
+     "x": 23,
+     "op": "<=",
+     "v": 60,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "beat_skips",
+     "mode": "hard",
+     "x": 2,
+     "op": "<=",
+     "v": 2,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "dur_ratio",
+     "mode": "hard",
+     "x": 0.995,
+     "op": ">=",
+     "v": 0.9,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "sim_orig_max",
+     "mode": "hard",
+     "x": 0.61,
+     "op": "<=",
+     "v": 0.62,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "start_lag_ms",
+     "mode": "report",
+     "x": 5,
+     "op": "<=",
+     "v": 120,
+     "pass": true,
+     "provisional": true
+    },
+    {
+     "id": "start_corr",
+     "mode": "report",
+     "x": 0.465,
+     "op": ">=",
+     "v": 0.2,
+     "pass": true,
+     "provisional": true
+    },
+    {
+     "id": "intro_chroma",
+     "mode": "report",
+     "x": 0.709,
+     "op": ">=",
+     "v": 0.8,
+     "pass": false,
+     "provisional": true
+    },
+    {
+     "id": "intro_onset",
+     "mode": "report",
+     "x": 0.371,
+     "op": ">=",
+     "v": 0.33,
+     "pass": true,
+     "provisional": true
+    },
+    {
+     "id": "intro_first_onset_dev_s",
+     "mode": "report",
+     "x": 0.081,
+     "op": "<=",
+     "v": 0.2,
+     "pass": true,
+     "provisional": true
+    }
+   ],
+   "fails": []
+  },
+  {
+   "name": "b1_am_s7",
+   "metrics": {
+    "voice_pct": 0.0,
+    "accordion_pct": 56.8,
+    "sax_pct": 11.6,
+    "lock_corr": 0.62,
+    "lock_iqr_ms": 23,
+    "skips": 1,
+    "start_lag_ms": 5,
+    "start_corr": 0.597,
+    "sims": {
+     "loi1": 0.55,
+     "giua": 0.56,
+     "loi2": 0.52
+    },
+    "sim_orig_max": 0.56,
+    "dur_ratio": 0.994,
+    "flat_hf": 0.623,
+    "flat_hf_ref": 0.619,
+    "intro_chroma": 0.858,
+    "intro_onset": 0.62,
+    "intro_first_onset_dev_s": 0.023,
+    "first_onset_beat_s": 0.2438095238095238,
+    "first_onset_ref_s": 0.22058956916099773
+   },
+   "score": 0.808,
+   "passed": true,
+   "results": [
+    {
+     "id": "voice_pct",
+     "mode": "hard",
+     "x": 0.0,
+     "op": "<=",
+     "v": 15,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "accordion_pct",
+     "mode": "hard",
+     "x": 56.8,
+     "op": ">=",
+     "v": 40,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "lock_corr",
+     "mode": "hard",
+     "x": 0.62,
+     "op": ">=",
+     "v": 0.3,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "lock_iqr_ms",
+     "mode": "hard",
+     "x": 23,
+     "op": "<=",
+     "v": 60,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "beat_skips",
+     "mode": "hard",
+     "x": 1,
+     "op": "<=",
+     "v": 2,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "dur_ratio",
+     "mode": "hard",
+     "x": 0.994,
+     "op": ">=",
+     "v": 0.9,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "sim_orig_max",
+     "mode": "hard",
+     "x": 0.56,
+     "op": "<=",
+     "v": 0.62,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "start_lag_ms",
+     "mode": "report",
+     "x": 5,
+     "op": "<=",
+     "v": 120,
+     "pass": true,
+     "provisional": true
+    },
+    {
+     "id": "start_corr",
+     "mode": "report",
+     "x": 0.597,
+     "op": ">=",
+     "v": 0.2,
+     "pass": true,
+     "provisional": true
+    },
+    {
+     "id": "intro_chroma",
+     "mode": "report",
+     "x": 0.858,
+     "op": ">=",
+     "v": 0.8,
+     "pass": true,
+     "provisional": true
+    },
+    {
+     "id": "intro_onset",
+     "mode": "report",
+     "x": 0.62,
+     "op": ">=",
+     "v": 0.33,
+     "pass": true,
+     "provisional": true
+    },
+    {
+     "id": "intro_first_onset_dev_s",
+     "mode": "report",
+     "x": 0.023,
+     "op": "<=",
+     "v": 0.2,
+     "pass": true,
+     "provisional": true
+    }
+   ],
+   "fails": []
+  },
+  {
+   "name": "b1_cl_s2",
+   "metrics": {
+    "voice_pct": 0.0,
+    "accordion_pct": 87.0,
+    "sax_pct": 7.3,
+    "lock_corr": 0.58,
+    "lock_iqr_ms": 557,
+    "skips": 5,
+    "start_lag_ms": 0,
+    "start_corr": 0.401,
+    "sims": {
+     "loi1": 0.48,
+     "giua": 0.49,
+     "loi2": 0.48
+    },
+    "sim_orig_max": 0.49,
+    "dur_ratio": 0.996,
+    "flat_hf": 0.65,
+    "flat_hf_ref": 0.619,
+    "intro_chroma": 0.665,
+    "intro_onset": 0.627,
+    "intro_first_onset_dev_s": 0.163,
+    "first_onset_beat_s": 0.058049886621315196,
+    "first_onset_ref_s": 0.22058956916099773
+   },
+   "score": 0.705,
+   "passed": false,
+   "results": [
+    {
+     "id": "voice_pct",
+     "mode": "hard",
+     "x": 0.0,
+     "op": "<=",
+     "v": 15,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "accordion_pct",
+     "mode": "hard",
+     "x": 87.0,
+     "op": ">=",
+     "v": 40,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "lock_corr",
+     "mode": "hard",
+     "x": 0.58,
+     "op": ">=",
+     "v": 0.3,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "lock_iqr_ms",
+     "mode": "hard",
+     "x": 557,
+     "op": "<=",
+     "v": 60,
+     "pass": false,
+     "provisional": false
+    },
+    {
+     "id": "beat_skips",
+     "mode": "hard",
+     "x": 5,
+     "op": "<=",
+     "v": 2,
+     "pass": false,
+     "provisional": false
+    },
+    {
+     "id": "dur_ratio",
+     "mode": "hard",
+     "x": 0.996,
+     "op": ">=",
+     "v": 0.9,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "sim_orig_max",
+     "mode": "hard",
+     "x": 0.49,
+     "op": "<=",
+     "v": 0.62,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "start_lag_ms",
+     "mode": "report",
+     "x": 0,
+     "op": "<=",
+     "v": 120,
+     "pass": true,
+     "provisional": true
+    },
+    {
+     "id": "start_corr",
+     "mode": "report",
+     "x": 0.401,
+     "op": ">=",
+     "v": 0.2,
+     "pass": true,
+     "provisional": true
+    },
+    {
+     "id": "intro_chroma",
+     "mode": "report",
+     "x": 0.665,
+     "op": ">=",
+     "v": 0.8,
+     "pass": false,
+     "provisional": true
+    },
+    {
+     "id": "intro_onset",
+     "mode": "report",
+     "x": 0.627,
+     "op": ">=",
+     "v": 0.33,
+     "pass": true,
+     "provisional": true
+    },
+    {
+     "id": "intro_first_onset_dev_s",
+     "mode": "report",
+     "x": 0.163,
+     "op": "<=",
+     "v": 0.2,
+     "pass": true,
+     "provisional": true
+    }
+   ],
+   "fails": [
+    "lock_iqr_ms",
+    "beat_skips"
+   ]
+  },
+  {
+   "name": "b1_su_s2",
+   "metrics": {
+    "voice_pct": 0.0,
+    "accordion_pct": 40.0,
+    "sax_pct": 23.8,
+    "lock_corr": 0.64,
+    "lock_iqr_ms": 23,
+    "skips": 3,
+    "start_lag_ms": 11,
+    "start_corr": 0.276,
+    "sims": {
+     "loi1": 0.57,
+     "giua": 0.55,
+     "loi2": 0.62
+    },
+    "sim_orig_max": 0.62,
+    "dur_ratio": 0.996,
+    "flat_hf": 0.733,
+    "flat_hf_ref": 0.619,
+    "intro_chroma": 0.881,
+    "intro_onset": 0.548,
+    "intro_first_onset_dev_s": 0.046,
+    "first_onset_beat_s": 0.17414965986394557,
+    "first_onset_ref_s": 0.22058956916099773
+   },
+   "score": 0.43,
+   "passed": false,
+   "results": [
+    {
+     "id": "voice_pct",
+     "mode": "hard",
+     "x": 0.0,
+     "op": "<=",
+     "v": 15,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "accordion_pct",
+     "mode": "hard",
+     "x": 40.0,
+     "op": ">=",
+     "v": 40,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "lock_corr",
+     "mode": "hard",
+     "x": 0.64,
+     "op": ">=",
+     "v": 0.3,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "lock_iqr_ms",
+     "mode": "hard",
+     "x": 23,
+     "op": "<=",
+     "v": 60,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "beat_skips",
+     "mode": "hard",
+     "x": 3,
+     "op": "<=",
+     "v": 2,
+     "pass": false,
+     "provisional": false
+    },
+    {
+     "id": "dur_ratio",
+     "mode": "hard",
+     "x": 0.996,
+     "op": ">=",
+     "v": 0.9,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "sim_orig_max",
+     "mode": "hard",
+     "x": 0.62,
+     "op": "<=",
+     "v": 0.62,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "start_lag_ms",
+     "mode": "report",
+     "x": 11,
+     "op": "<=",
+     "v": 120,
+     "pass": true,
+     "provisional": true
+    },
+    {
+     "id": "start_corr",
+     "mode": "report",
+     "x": 0.276,
+     "op": ">=",
+     "v": 0.2,
+     "pass": true,
+     "provisional": true
+    },
+    {
+     "id": "intro_chroma",
+     "mode": "report",
+     "x": 0.881,
+     "op": ">=",
+     "v": 0.8,
+     "pass": true,
+     "provisional": true
+    },
+    {
+     "id": "intro_onset",
+     "mode": "report",
+     "x": 0.548,
+     "op": ">=",
+     "v": 0.33,
+     "pass": true,
+     "provisional": true
+    },
+    {
+     "id": "intro_first_onset_dev_s",
+     "mode": "report",
+     "x": 0.046,
+     "op": "<=",
+     "v": 0.2,
+     "pass": true,
+     "provisional": true
+    }
+   ],
+   "fails": [
+    "beat_skips"
+   ]
+  },
+  {
+   "name": "b1_su_s1",
+   "metrics": {
+    "voice_pct": 0.0,
+    "accordion_pct": 91.7,
+    "sax_pct": 8.3,
+    "lock_corr": 0.57,
+    "lock_iqr_ms": 23,
+    "skips": 9,
+    "start_lag_ms": 0,
+    "start_corr": 0.621,
+    "sims": {
+     "loi1": 0.53,
+     "giua": 0.53,
+     "loi2": 0.55
+    },
+    "sim_orig_max": 0.55,
+    "dur_ratio": 0.987,
+    "flat_hf": 0.69,
+    "flat_hf_ref": 0.619,
+    "intro_chroma": 0.876,
+    "intro_onset": 0.679,
+    "intro_first_onset_dev_s": 0.012,
+    "first_onset_beat_s": 0.23219954648526078,
+    "first_onset_ref_s": 0.22058956916099773
+   },
+   "score": 0.312,
+   "passed": false,
+   "results": [
+    {
+     "id": "voice_pct",
+     "mode": "hard",
+     "x": 0.0,
+     "op": "<=",
+     "v": 15,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "accordion_pct",
+     "mode": "hard",
+     "x": 91.7,
+     "op": ">=",
+     "v": 40,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "lock_corr",
+     "mode": "hard",
+     "x": 0.57,
+     "op": ">=",
+     "v": 0.3,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "lock_iqr_ms",
+     "mode": "hard",
+     "x": 23,
+     "op": "<=",
+     "v": 60,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "beat_skips",
+     "mode": "hard",
+     "x": 9,
+     "op": "<=",
+     "v": 2,
+     "pass": false,
+     "provisional": false
+    },
+    {
+     "id": "dur_ratio",
+     "mode": "hard",
+     "x": 0.987,
+     "op": ">=",
+     "v": 0.9,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "sim_orig_max",
+     "mode": "hard",
+     "x": 0.55,
+     "op": "<=",
+     "v": 0.62,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "start_lag_ms",
+     "mode": "report",
+     "x": 0,
+     "op": "<=",
+     "v": 120,
+     "pass": true,
+     "provisional": true
+    },
+    {
+     "id": "start_corr",
+     "mode": "report",
+     "x": 0.621,
+     "op": ">=",
+     "v": 0.2,
+     "pass": true,
+     "provisional": true
+    },
+    {
+     "id": "intro_chroma",
+     "mode": "report",
+     "x": 0.876,
+     "op": ">=",
+     "v": 0.8,
+     "pass": true,
+     "provisional": true
+    },
+    {
+     "id": "intro_onset",
+     "mode": "report",
+     "x": 0.679,
+     "op": ">=",
+     "v": 0.33,
+     "pass": true,
+     "provisional": true
+    },
+    {
+     "id": "intro_first_onset_dev_s",
+     "mode": "report",
+     "x": 0.012,
+     "op": "<=",
+     "v": 0.2,
+     "pass": true,
+     "provisional": true
+    }
+   ],
+   "fails": [
+    "beat_skips"
+   ]
+  },
+  {
+   "name": "b1_su_s7",
+   "metrics": {
+    "voice_pct": 0.0,
+    "accordion_pct": 21.5,
+    "sax_pct": 76.8,
+    "lock_corr": 0.62,
+    "lock_iqr_ms": 23,
+    "skips": 3,
+    "start_lag_ms": 290,
+    "start_corr": 0.269,
+    "sims": {
+     "loi1": 0.59,
+     "giua": 0.55,
+     "loi2": 0.58
+    },
+    "sim_orig_max": 0.59,
+    "dur_ratio": 0.99,
+    "flat_hf": 0.73,
+    "flat_hf_ref": 0.619,
+    "intro_chroma": 0.735,
+    "intro_onset": 0.612,
+    "intro_first_onset_dev_s": 0.128,
+    "first_onset_beat_s": 0.09287981859410431,
+    "first_onset_ref_s": 0.22058956916099773
+   },
+   "score": 0.24,
+   "passed": false,
+   "results": [
+    {
+     "id": "voice_pct",
+     "mode": "hard",
+     "x": 0.0,
+     "op": "<=",
+     "v": 15,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "accordion_pct",
+     "mode": "hard",
+     "x": 21.5,
+     "op": ">=",
+     "v": 40,
+     "pass": false,
+     "provisional": false
+    },
+    {
+     "id": "lock_corr",
+     "mode": "hard",
+     "x": 0.62,
+     "op": ">=",
+     "v": 0.3,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "lock_iqr_ms",
+     "mode": "hard",
+     "x": 23,
+     "op": "<=",
+     "v": 60,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "beat_skips",
+     "mode": "hard",
+     "x": 3,
+     "op": "<=",
+     "v": 2,
+     "pass": false,
+     "provisional": false
+    },
+    {
+     "id": "dur_ratio",
+     "mode": "hard",
+     "x": 0.99,
+     "op": ">=",
+     "v": 0.9,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "sim_orig_max",
+     "mode": "hard",
+     "x": 0.59,
+     "op": "<=",
+     "v": 0.62,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "start_lag_ms",
+     "mode": "report",
+     "x": 290,
+     "op": "<=",
+     "v": 120,
+     "pass": false,
+     "provisional": true
+    },
+    {
+     "id": "start_corr",
+     "mode": "report",
+     "x": 0.269,
+     "op": ">=",
+     "v": 0.2,
+     "pass": true,
+     "provisional": true
+    },
+    {
+     "id": "intro_chroma",
+     "mode": "report",
+     "x": 0.735,
+     "op": ">=",
+     "v": 0.8,
+     "pass": false,
+     "provisional": true
+    },
+    {
+     "id": "intro_onset",
+     "mode": "report",
+     "x": 0.612,
+     "op": ">=",
+     "v": 0.33,
+     "pass": true,
+     "provisional": true
+    },
+    {
+     "id": "intro_first_onset_dev_s",
+     "mode": "report",
+     "x": 0.128,
+     "op": "<=",
+     "v": 0.2,
+     "pass": true,
+     "provisional": true
+    }
+   ],
+   "fails": [
+    "accordion_pct",
+    "beat_skips"
+   ]
+  },
+  {
+   "name": "b1_am_s2",
+   "metrics": {
+    "voice_pct": 0.0,
+    "accordion_pct": 66.4,
+    "sax_pct": 25.7,
+    "lock_corr": 0.63,
+    "lock_iqr_ms": 46,
+    "skips": 8,
+    "start_lag_ms": 597,
+    "start_corr": 0.34,
+    "sims": {
+     "loi1": 0.62,
+     "giua": 0.63,
+     "loi2": 0.57
+    },
+    "sim_orig_max": 0.63,
+    "dur_ratio": 0.996,
+    "flat_hf": 0.567,
+    "flat_hf_ref": 0.619,
+    "intro_chroma": 0.879,
+    "intro_onset": 0.769,
+    "intro_first_onset_dev_s": 0.046,
+    "first_onset_beat_s": 0.17414965986394557,
+    "first_onset_ref_s": 0.22058956916099773
+   },
+   "score": 0.179,
+   "passed": false,
+   "results": [
+    {
+     "id": "voice_pct",
+     "mode": "hard",
+     "x": 0.0,
+     "op": "<=",
+     "v": 15,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "accordion_pct",
+     "mode": "hard",
+     "x": 66.4,
+     "op": ">=",
+     "v": 40,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "lock_corr",
+     "mode": "hard",
+     "x": 0.63,
+     "op": ">=",
+     "v": 0.3,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "lock_iqr_ms",
+     "mode": "hard",
+     "x": 46,
+     "op": "<=",
+     "v": 60,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "beat_skips",
+     "mode": "hard",
+     "x": 8,
+     "op": "<=",
+     "v": 2,
+     "pass": false,
+     "provisional": false
+    },
+    {
+     "id": "dur_ratio",
+     "mode": "hard",
+     "x": 0.996,
+     "op": ">=",
+     "v": 0.9,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "sim_orig_max",
+     "mode": "hard",
+     "x": 0.63,
+     "op": "<=",
+     "v": 0.62,
+     "pass": false,
+     "provisional": false
+    },
+    {
+     "id": "start_lag_ms",
+     "mode": "report",
+     "x": 597,
+     "op": "<=",
+     "v": 120,
+     "pass": false,
+     "provisional": true
+    },
+    {
+     "id": "start_corr",
+     "mode": "report",
+     "x": 0.34,
+     "op": ">=",
+     "v": 0.2,
+     "pass": true,
+     "provisional": true
+    },
+    {
+     "id": "intro_chroma",
+     "mode": "report",
+     "x": 0.879,
+     "op": ">=",
+     "v": 0.8,
+     "pass": true,
+     "provisional": true
+    },
+    {
+     "id": "intro_onset",
+     "mode": "report",
+     "x": 0.769,
+     "op": ">=",
+     "v": 0.33,
+     "pass": true,
+     "provisional": true
+    },
+    {
+     "id": "intro_first_onset_dev_s",
+     "mode": "report",
+     "x": 0.046,
+     "op": "<=",
+     "v": 0.2,
+     "pass": true,
+     "provisional": true
+    }
+   ],
+   "fails": [
+    "beat_skips",
+    "sim_orig_max"
+   ]
+  },
+  {
+   "name": "b1_cl_s1",
+   "metrics": {
+    "voice_pct": 0.0,
+    "accordion_pct": 13.0,
+    "sax_pct": 84.7,
+    "lock_corr": 0.59,
+    "lock_iqr_ms": 23,
+    "skips": 14,
+    "start_lag_ms": 603,
+    "start_corr": 0.508,
+    "sims": {
+     "loi1": 0.63,
+     "giua": 0.63,
+     "loi2": 0.64
+    },
+    "sim_orig_max": 0.64,
+    "dur_ratio": 0.999,
+    "flat_hf": 0.625,
+    "flat_hf_ref": 0.619,
+    "intro_chroma": 0.627,
+    "intro_onset": 0.329,
+    "intro_first_onset_dev_s": 0.151,
+    "first_onset_beat_s": 0.37151927437641724,
+    "first_onset_ref_s": 0.22058956916099773
+   },
+   "score": -1.0,
+   "passed": false,
+   "results": [
+    {
+     "id": "voice_pct",
+     "mode": "hard",
+     "x": 0.0,
+     "op": "<=",
+     "v": 15,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "accordion_pct",
+     "mode": "hard",
+     "x": 13.0,
+     "op": ">=",
+     "v": 40,
+     "pass": false,
+     "provisional": false
+    },
+    {
+     "id": "lock_corr",
+     "mode": "hard",
+     "x": 0.59,
+     "op": ">=",
+     "v": 0.3,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "lock_iqr_ms",
+     "mode": "hard",
+     "x": 23,
+     "op": "<=",
+     "v": 60,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "beat_skips",
+     "mode": "hard",
+     "x": 14,
+     "op": "<=",
+     "v": 2,
+     "pass": false,
+     "provisional": false
+    },
+    {
+     "id": "dur_ratio",
+     "mode": "hard",
+     "x": 0.999,
+     "op": ">=",
+     "v": 0.9,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "sim_orig_max",
+     "mode": "hard",
+     "x": 0.64,
+     "op": "<=",
+     "v": 0.62,
+     "pass": false,
+     "provisional": false
+    },
+    {
+     "id": "start_lag_ms",
+     "mode": "report",
+     "x": 603,
+     "op": "<=",
+     "v": 120,
+     "pass": false,
+     "provisional": true
+    },
+    {
+     "id": "start_corr",
+     "mode": "report",
+     "x": 0.508,
+     "op": ">=",
+     "v": 0.2,
+     "pass": true,
+     "provisional": true
+    },
+    {
+     "id": "intro_chroma",
+     "mode": "report",
+     "x": 0.627,
+     "op": ">=",
+     "v": 0.8,
+     "pass": false,
+     "provisional": true
+    },
+    {
+     "id": "intro_onset",
+     "mode": "report",
+     "x": 0.329,
+     "op": ">=",
+     "v": 0.33,
+     "pass": false,
+     "provisional": true
+    },
+    {
+     "id": "intro_first_onset_dev_s",
+     "mode": "report",
+     "x": 0.151,
+     "op": "<=",
+     "v": 0.2,
+     "pass": true,
+     "provisional": true
+    }
+   ],
+   "fails": [
+    "accordion_pct",
+    "beat_skips",
+    "sim_orig_max"
+   ]
+  },
+  {
+   "name": "b1_am_s1",
+   "metrics": {
+    "voice_pct": 7.4,
+    "accordion_pct": 19.1,
+    "sax_pct": 35.0,
+    "lock_corr": 0.63,
+    "lock_iqr_ms": 23,
+    "skips": 28,
+    "start_lag_ms": 11,
+    "start_corr": 0.549,
+    "sims": {
+     "loi1": 0.6,
+     "giua": 0.6,
+     "loi2": 0.54
+    },
+    "sim_orig_max": 0.6,
+    "dur_ratio": 0.932,
+    "flat_hf": 0.655,
+    "flat_hf_ref": 0.619,
+    "intro_chroma": 0.906,
+    "intro_onset": 0.497,
+    "intro_first_onset_dev_s": 0.035,
+    "first_onset_beat_s": 0.25541950113378686,
+    "first_onset_ref_s": 0.22058956916099773
+   },
+   "score": -2.279,
+   "passed": false,
+   "results": [
+    {
+     "id": "voice_pct",
+     "mode": "hard",
+     "x": 7.4,
+     "op": "<=",
+     "v": 15,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "accordion_pct",
+     "mode": "hard",
+     "x": 19.1,
+     "op": ">=",
+     "v": 40,
+     "pass": false,
+     "provisional": false
+    },
+    {
+     "id": "lock_corr",
+     "mode": "hard",
+     "x": 0.63,
+     "op": ">=",
+     "v": 0.3,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "lock_iqr_ms",
+     "mode": "hard",
+     "x": 23,
+     "op": "<=",
+     "v": 60,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "beat_skips",
+     "mode": "hard",
+     "x": 28,
+     "op": "<=",
+     "v": 2,
+     "pass": false,
+     "provisional": false
+    },
+    {
+     "id": "dur_ratio",
+     "mode": "hard",
+     "x": 0.932,
+     "op": ">=",
+     "v": 0.9,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "sim_orig_max",
+     "mode": "hard",
+     "x": 0.6,
+     "op": "<=",
+     "v": 0.62,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "start_lag_ms",
+     "mode": "report",
+     "x": 11,
+     "op": "<=",
+     "v": 120,
+     "pass": true,
+     "provisional": true
+    },
+    {
+     "id": "start_corr",
+     "mode": "report",
+     "x": 0.549,
+     "op": ">=",
+     "v": 0.2,
+     "pass": true,
+     "provisional": true
+    },
+    {
+     "id": "intro_chroma",
+     "mode": "report",
+     "x": 0.906,
+     "op": ">=",
+     "v": 0.8,
+     "pass": true,
+     "provisional": true
+    },
+    {
+     "id": "intro_onset",
+     "mode": "report",
+     "x": 0.497,
+     "op": ">=",
+     "v": 0.33,
+     "pass": true,
+     "provisional": true
+    },
+    {
+     "id": "intro_first_onset_dev_s",
+     "mode": "report",
+     "x": 0.035,
+     "op": "<=",
+     "v": 0.2,
+     "pass": true,
+     "provisional": true
+    }
+   ],
+   "fails": [
+    "accordion_pct",
+    "beat_skips"
+   ]
+  }
+ ]
+}

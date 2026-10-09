@@ -1,0 +1,218 @@
+X:1
+T:
+M:2/4
+L:1/32
+Q:1/4=100
+V: Vocal clef=treble name="Vocal Melody" snm="Vocal"
+V: Ins clef=treble name="Ins Melody" snm="Inst."
+K:A
+% intro
+V: Vocal
+Z4|
+V: Ins
+z4E2E2E4A4|c4c4c4c4|c2d8z2c4|c2d8z2B4|
+V: Vocal
+Z4|
+V: Ins
+c2c12-c2-|c2z2E2E2A4c4|e4e4e4e4|f2f12z2|
+V: Vocal
+Z4|
+V: Ins
+e2e12-e2-|e2c2e4e2d2c4|e6d8-d2-|d2d4d2d2c4B2|
+V: Vocal
+Z4|
+V: Ins
+c6B2A8|z2F2C2E2c2B4A2|c6B2B8|z2A2A2A2A2G4A2|
+V: Vocal
+Z3|
+V: Ins
+A2B2B2G2G2F2d2F2|C2C2E2E2D2D2B2D2|C12C4|
+V: Vocal
+M:1/4
+Z|
+V: Ins
+M:1/4
+C4C4|
+V: Vocal
+M:2/4
+Z4|
+V: Ins
+M:2/4
+Z|z4C8C4|C16|z4C4C4C4|
+V: Vocal
+Z4|
+V: Ins
+Z2|F12A4|G4G4E4G4|
+V: Vocal
+Z4|
+V: Ins
+B4A8E2^E2|F16|z4F4G4G4-|G4F4F4A4|
+V: Vocal
+Z4|
+V: Ins
+G12E2F2|G4F2F2E4D4|C16|z4C4D4C4-|
+V: Vocal
+Z|
+V: Ins
+C12B,4|
+V: Vocal
+M:1/4
+Z|
+V: Ins
+M:1/4
+c4B4|
+V: Vocal
+M:2/4
+Z4|
+V: Ins
+M:2/4
+c4e2f2e2c2c2B2|c16|z4c4c4B4-|B16-|
+V: Vocal
+Z4|
+V: Ins
+B12z4|F12F4|G4G4A4G4|B4A8E2^E2|
+V: Vocal
+Z4|
+V: Ins
+F16|z4B8B4-|B4B4A4A4|G4c2c2a4c2c2|
+V: Vocal
+Z|
+V: Ins
+g4c2c2f4e4|
+% interlude
+V: Vocal
+Z4|
+V: Ins
+e4e4e4c4|f4e4e4B4|e4e8c2d2|c16|
+V: Vocal
+Z4|
+V: Ins
+c4c4c4A4|f4e4c4A4|G12G2A2|G16|
+V: Vocal
+Z4|
+V: Ins
+F4F4F4F4|G4G4G4G4|B4A8E2E2|F8C4C4|
+V: Vocal
+Z4|
+V: Ins
+F4F8F4-|F4F4F4A4|G4c2c2a4c2c2|g4c2c2f4e4|
+V: Vocal
+Z4|
+V: Ins
+e4e4e4c4|f4e4e4B4|e4e8c2d2|c16|
+V: Vocal
+Z4|
+V: Ins
+c4c4c4A4|f4e4c4A4|G12G2A2|G16|
+V: Vocal
+Z4|
+V: Ins
+F4F8F4|G4G4G4F4|B4A8E2E2|F8C4C4|
+V: Vocal
+Z4|
+V: Ins
+F4z8F4-|F4F4F4F4|A16|z4E2E2E4A4|
+V: Vocal
+Z4|
+V: Ins
+c4c4c4c4|c2d8z2B4|d2c12-c2-|c2z2E2E2A4c4|
+V: Vocal
+Z4|
+V: Ins
+e4e4e4e4|f12f4|e2e12-e2-|e2c2e4e2d4c2|
+V: Vocal
+Z4|
+V: Ins
+e6d8-d2-|d2d4d2d2c4B2|c6B2A8|z2F2C2E2c2B4A2|
+V: Vocal
+Z4|
+V: Ins
+c6B2B8|z2A2A2A2A2G4A2|A2B2B2G2G2F2d2F2|E2C2E2E2D2D2B2D2|
+V: Vocal
+Z4|
+V: Ins
+C4C12-|C4C4D4C4|C16|z4C4D4E4|
+V: Vocal
+Z4|
+V: Ins
+C16|z4C4D4C4|E16-|E8z4G4|
+V: Vocal
+Z4|
+V: Ins
+F12F4|G4G4G4G4|B12E2^E2|F16|
+V: Vocal
+Z4|
+V: Ins
+F4z12|z8F4B4|e4z4a4g4|g4e4f4e4|
+V: Vocal
+Z4|
+V: Ins
+e4e4e8|f8d8|e4c4z4c2d2|c12e4|
+V: Vocal
+Z4|
+V: Ins
+e4c4c4c4|d8c8|e16|e16|
+V: Vocal
+Z4|
+V: Ins
+f12f4|e8e4d4|c12e2e2|f8c4e4|
+V: Vocal
+Z4|
+V: Ins
+f16|z4e4c4B4|A4z4a4c4|g4c2c2f4e4|
+V: Vocal
+Z4|
+V: Ins
+e4c4c4c4|c2d8z2e4|d2c8z2c2d2|c8c4e4|
+V: Vocal
+Z4|
+V: Ins
+g4e4g4e4|a4f4a4g4|g12e2e2|e16|
+V: Vocal
+Z4|
+V: Ins
+f4f4f4f4|e4e4e4d4|d4c8e2e2|f8c4c4|
+V: Vocal
+Z4|
+V: Ins
+B16|z4B4d4B4|A16|z4E2E2E4A4|
+V: Vocal
+Z4|
+V: Ins
+c4c4c4c4|c2d8z2e4|d2c12-c2-|c2z2E2E2A4c4|
+V: Vocal
+Z4|
+V: Ins
+e4e4e4e4|e2f8z2f4|e2e12-e2-|e2c2e4e2d4c2|
+V: Vocal
+Z4|
+V: Ins
+e6d8-d2-|d2d2d4d2c4B2|c6B2A8|z2F2C2E2c2B4A2|
+V: Vocal
+Z|
+V: Ins
+c6B6c2B2-|
+V: Vocal
+M:1/4
+Z|
+V: Ins
+M:1/4
+B8-|
+V: Vocal
+M:2/4
+Z4|
+V: Ins
+M:2/4
+B2z2D2E2F2=G2^G2B2|A4D2E2F2=G2^G2B2|A8A8-|A4D2E2F2=G2^G2B2|
+V: Vocal
+Z4|
+V: Ins
+A8A8-|A4D2E2F2=G2^G2B2|A8A8-|A4D2E2F2=G2^G2B2|
+V: Vocal
+Z4|
+V: Ins
+A8A8-|A4D2E2F2=G2^G2B2|A8A8-|A4D2E2F2=G2^G2B2|
+V: Vocal
+Z4|
+V: Ins
+A8A8-|A16-|A16-|A8z8|

@@ -1,0 +1,25 @@
+# Audio, video, archives, models and local environments are not part of this data repo.
+*.wav
+*.flac
+*.mp3
+*.mp4
+*.rar
+*.zip
+*.7z
+*.aac
+*.m4a
+*.ogg
+*.wma
+*.aiff
+*.mov
+*.mkv
+*.avi
+*.safetensors
+*.ckpt
+*.pth
+*.pt
+.venv*/
+__pycache__/
+*.pyc
+.env
+.env.*

@@ -1,0 +1,26 @@
+** WARNING: connection is not using a post-quantum key exchange algorithm.
+** This session may be vulnerable to "store now, decrypt later" attacks.
+** The server may need to be upgraded. See https://openssh.com/pq.html
+
+Loaded the voice encoder model on cuda in 0.63 seconds.
+v4_NP_vozA_s42.wav giong_giong_goc 0.923
+v4_NP_vozA_s7.wav giong_giong_goc 0.916
+v4_NP_vozB_s42.wav giong_giong_goc 0.922
+v4_NP_vozB_s7.wav giong_giong_goc 0.912
+Loaded the voice encoder model on cuda in 0.15 seconds.
+v4_PR_vozA_s42.wav giong_giong_goc 0.885
+v4_PR_vozA_s7.wav giong_giong_goc 0.905
+v4_PR_vozB_s42.wav giong_giong_goc 0.889
+v4_PR_vozB_s7.wav giong_giong_goc 0.906
+v4_NP_vozA_s42.wav WER 0.29 | số từ nghe được 245 / 191
+v4_NP_vozA_s7.wav WER 1.39 | số từ nghe được 447 / 191
+v4_NP_vozB_s42.wav WER 0.29 | số từ nghe được 245 / 191
+v4_NP_vozB_s7.wav WER 1.96 | số từ nghe được 557 / 191
+es_no_pude_vocals.wav WER 3.68 | số từ nghe được 825 / 191
+v4_PR_vozA_s42.wav WER 0.26 | số từ nghe được 211 / 176
+v4_PR_vozA_s7.wav WER 0.21 | số từ nghe được 210 / 176
+v4_PR_vozB_s42.wav WER 0.24 | số từ nghe được 216 / 176
+v4_PR_vozB_s7.wav WER 1.53 | số từ nghe được 381 / 176
+es_prision_vocals.wav WER 2.21 | số từ nghe được 511 / 176
+
+

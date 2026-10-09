@@ -1,0 +1,92 @@
+[
+ {
+  "audio": "project spain/LAB/suno/SU_beat.wav",
+  "abc": "songs/es_no_pude/abc/suno_beat_A_q98.abc",
+  "style": "Norteño pop instrumental, Mexican regional, button accordion and alto saxophone trading melody phrases, drum kit with snare, bajo sexto strumming, electric bass on the downbeat, two-step rhythm, bright modern studio mix.",
+  "lyrics": "[Intro]\n\n[Verse]\n\n[Chorus]\n\n[Bridge]\n\n[Verse]\n\n[Chorus]\n\n[Outro]\n",
+  "seed": 1,
+  "max": "auto",
+  "cfg": 1.0,
+  "name": "su_B_su_s1"
+ },
+ {
+  "audio": "project spain/LAB/suno/SU_beat.wav",
+  "abc": "songs/es_no_pude/abc/suno_beat_A_q98.abc",
+  "style": "Norteño pop instrumental, Mexican regional, button accordion and alto saxophone trading melody phrases, drum kit with snare, bajo sexto strumming, electric bass on the downbeat, two-step rhythm, bright modern studio mix.",
+  "lyrics": "[Intro]\n\n[Verse]\n\n[Chorus]\n\n[Bridge]\n\n[Verse]\n\n[Chorus]\n\n[Outro]\n",
+  "seed": 2,
+  "max": "auto",
+  "cfg": 1.0,
+  "name": "su_B_su_s2"
+ },
+ {
+  "audio": "project spain/LAB/suno/SU_beat.wav",
+  "abc": "songs/es_no_pude/abc/suno_beat_A_q98.abc",
+  "style": "Norteño pop instrumental, Mexican regional, button accordion and alto saxophone trading melody phrases, drum kit with snare, bajo sexto strumming, electric bass on the downbeat, two-step rhythm, bright modern studio mix.",
+  "lyrics": "[Intro]\n\n[Verse]\n\n[Chorus]\n\n[Bridge]\n\n[Verse]\n\n[Chorus]\n\n[Outro]\n",
+  "seed": 7,
+  "max": "auto",
+  "cfg": 1.0,
+  "name": "su_B_su_s7"
+ },
+ {
+  "audio": "project spain/LAB/suno/SU_beat.wav",
+  "abc": "songs/es_no_pude/abc/suno_beat_A_q98.abc",
+  "style": "Norteño instrumental, Mexican regional, button accordion lead playing the intro melody and answering phrases, bajo sexto strumming on the offbeat, electric bass on the downbeat, light drums, two-step polka rhythm, warm clean studio recording.",
+  "lyrics": "[Intro]\n\n[Verse]\n\n[Chorus]\n\n[Bridge]\n\n[Verse]\n\n[Chorus]\n\n[Outro]\n",
+  "seed": 1,
+  "max": "auto",
+  "cfg": 1.0,
+  "name": "su_B_cl_s1"
+ },
+ {
+  "audio": "project spain/LAB/suno/SU_beat.wav",
+  "abc": "songs/es_no_pude/abc/suno_beat_A_q98.abc",
+  "style": "Norteño instrumental, Mexican regional, button accordion lead playing the intro melody and answering phrases, bajo sexto strumming on the offbeat, electric bass on the downbeat, light drums, two-step polka rhythm, warm clean studio recording.",
+  "lyrics": "[Intro]\n\n[Verse]\n\n[Chorus]\n\n[Bridge]\n\n[Verse]\n\n[Chorus]\n\n[Outro]\n",
+  "seed": 2,
+  "max": "auto",
+  "cfg": 1.0,
+  "name": "su_B_cl_s2"
+ },
+ {
+  "audio": "project spain/LAB/suno/SU_beat.wav",
+  "abc": "songs/es_no_pude/abc/suno_beat_A_q98.abc",
+  "style": "Norteño instrumental, Mexican regional, button accordion lead playing the intro melody and answering phrases, bajo sexto strumming on the offbeat, electric bass on the downbeat, light drums, two-step polka rhythm, warm clean studio recording.",
+  "lyrics": "[Intro]\n\n[Verse]\n\n[Chorus]\n\n[Bridge]\n\n[Verse]\n\n[Chorus]\n\n[Outro]\n",
+  "seed": 7,
+  "max": "auto",
+  "cfg": 1.0,
+  "name": "su_B_cl_s7"
+ },
+ {
+  "audio": "project spain/LAB/suno/SU_beat.wav",
+  "abc": "songs/es_no_pude/abc/suno_beat_A_q98.abc",
+  "style": "Norteño romántico instrumental, warm expressive button accordion lead, bajo sexto and acoustic bass, soft light drums, two-step rhythm, smooth heartfelt, clean polished recording.",
+  "lyrics": "[Intro]\n\n[Verse]\n\n[Chorus]\n\n[Bridge]\n\n[Verse]\n\n[Chorus]\n\n[Outro]\n",
+  "seed": 1,
+  "max": "auto",
+  "cfg": 1.0,
+  "name": "su_B_am_s1"
+ },
+ {
+  "audio": "project spain/LAB/suno/SU_beat.wav",
+  "abc": "songs/es_no_pude/abc/suno_beat_A_q98.abc",
+  "style": "Norteño romántico instrumental, warm expressive button accordion lead, bajo sexto and acoustic bass, soft light drums, two-step rhythm, smooth heartfelt, clean polished recording.",
+  "lyrics": "[Intro]\n\n[Verse]\n\n[Chorus]\n\n[Bridge]\n\n[Verse]\n\n[Chorus]\n\n[Outro]\n",
+  "seed": 2,
+  "max": "auto",
+  "cfg": 1.0,
+  "name": "su_B_am_s2"
+ },
+ {
+  "audio": "project spain/LAB/suno/SU_beat.wav",
+  "abc": "songs/es_no_pude/abc/suno_beat_A_q98.abc",
+  "style": "Norteño romántico instrumental, warm expressive button accordion lead, bajo sexto and acoustic bass, soft light drums, two-step rhythm, smooth heartfelt, clean polished recording.",
+  "lyrics": "[Intro]\n\n[Verse]\n\n[Chorus]\n\n[Bridge]\n\n[Verse]\n\n[Chorus]\n\n[Outro]\n",
+  "seed": 7,
+  "max": "auto",
+  "cfg": 1.0,
+  "name": "su_B_am_s7"
+ }
+]

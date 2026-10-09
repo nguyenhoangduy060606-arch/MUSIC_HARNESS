@@ -1,0 +1,82 @@
+{
+ "project spain/LAB/suno/SU_beat.wav": {
+  "instr": {
+   "sax": 40.6,
+   "accordion": 40.4,
+   "drum_kit": 17.4,
+   "trumpets": 0.5,
+   "tuba_brass": 0.5,
+   "elec_guitar": 0.4,
+   "requinto": 0.0,
+   "elec_bass": 0.0,
+   "ac_guitar": 0.0,
+   "voice_duet": 0.0,
+   "piano": 0.0,
+   "bajo_sexto": 0.0,
+   "synth": 0.0,
+   "upright_bass": 0.0,
+   "voice_male": 0.0,
+   "violin": 0.0
+  },
+  "style": {
+   "rock": 73.8,
+   "norteno": 22.3,
+   "banda": 2.8,
+   "pop_ballad": 1.0,
+   "sierreno": 0.0,
+   "polka": 0.0,
+   "mariachi": 0.0,
+   "waltz": 0.0,
+   "cumbia": 0.0,
+   "bolero": 0.0,
+   "ranchera": 0.0,
+   "corrido": 0.0
+  },
+  "bpm": 95.7,
+  "accent_period_corr": {
+   "2": 0.296,
+   "3": 0.214,
+   "4": 0.238
+  }
+ },
+ "project spain/LAB/shift/NP_inst_V1.wav": {
+  "instr": {
+   "requinto": 59.2,
+   "sax": 27.0,
+   "tuba_brass": 11.1,
+   "bajo_sexto": 1.9,
+   "accordion": 0.9,
+   "trumpets": 0.0,
+   "ac_guitar": 0.0,
+   "elec_guitar": 0.0,
+   "elec_bass": 0.0,
+   "voice_duet": 0.0,
+   "upright_bass": 0.0,
+   "drum_kit": 0.0,
+   "piano": 0.0,
+   "voice_male": 0.0,
+   "violin": 0.0,
+   "synth": 0.0
+  },
+  "style": {
+   "rock": 45.6,
+   "norteno": 33.4,
+   "banda": 21.0,
+   "sierreno": 0.0,
+   "polka": 0.0,
+   "bolero": 0.0,
+   "mariachi": 0.0,
+   "pop_ballad": 0.0,
+   "ranchera": 0.0,
+   "cumbia": 0.0,
+   "waltz": 0.0,
+   "corrido": 0.0
+  },
+  "bpm": 99.4,
+  "accent_period_corr": {
+   "2": 0.387,
+   "3": 0.211,
+   "4": 0.38
+  }
+ }
+}

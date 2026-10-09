@@ -1,0 +1,62 @@
+[
+ {
+  "audio": "project spain/LAB/v4/PR_beatgoc.wav",
+  "abc": "songs/es_prision/abc/es_prision_beat_v4_G_q96.abc",
+  "style": "Norteño instrumental, Mexican regional, button accordion lead playing the intro melody and answering phrases, bajo sexto strumming on the offbeat, electric bass on the downbeat, light drums, two-step polka rhythm, warm clean studio recording.",
+  "lyrics": "[Intro]\n\n[Verse]\n\n[Chorus]\n\n[Bridge]\n\n[Verse]\n\n[Chorus]\n\n[Outro]\n",
+  "seed": 3,
+  "max": "auto",
+  "cfg": 1.0,
+  "name": "v4_PR_cl_s3"
+ },
+ {
+  "audio": "project spain/LAB/v4/PR_beatgoc.wav",
+  "abc": "songs/es_prision/abc/es_prision_beat_v4_G_q96.abc",
+  "style": "Norteño instrumental, Mexican regional, button accordion lead playing the intro melody and answering phrases, bajo sexto strumming on the offbeat, electric bass on the downbeat, light drums, two-step polka rhythm, warm clean studio recording.",
+  "lyrics": "[Intro]\n\n[Verse]\n\n[Chorus]\n\n[Bridge]\n\n[Verse]\n\n[Chorus]\n\n[Outro]\n",
+  "seed": 4,
+  "max": "auto",
+  "cfg": 1.0,
+  "name": "v4_PR_cl_s4"
+ },
+ {
+  "audio": "project spain/LAB/v4/PR_beatgoc.wav",
+  "abc": "songs/es_prision/abc/es_prision_beat_v4_G_q96.abc",
+  "style": "Norteño instrumental, Mexican regional, button accordion lead playing the intro melody and answering phrases, bajo sexto strumming on the offbeat, electric bass on the downbeat, light drums, two-step polka rhythm, warm clean studio recording.",
+  "lyrics": "[Intro]\n\n[Verse]\n\n[Chorus]\n\n[Bridge]\n\n[Verse]\n\n[Chorus]\n\n[Outro]\n",
+  "seed": 5,
+  "max": "auto",
+  "cfg": 1.0,
+  "name": "v4_PR_cl_s5"
+ },
+ {
+  "audio": "project spain/LAB/v4/PR_beatgoc.wav",
+  "abc": "songs/es_prision/abc/es_prision_beat_v4_G_q96.abc",
+  "style": "Norteño romántico instrumental, warm expressive button accordion lead, bajo sexto and acoustic bass, soft light drums, two-step rhythm, smooth heartfelt, clean polished recording.",
+  "lyrics": "[Intro]\n\n[Verse]\n\n[Chorus]\n\n[Bridge]\n\n[Verse]\n\n[Chorus]\n\n[Outro]\n",
+  "seed": 3,
+  "max": "auto",
+  "cfg": 1.0,
+  "name": "v4_PR_am_s3"
+ },
+ {
+  "audio": "project spain/LAB/v4/PR_beatgoc.wav",
+  "abc": "songs/es_prision/abc/es_prision_beat_v4_G_q96.abc",
+  "style": "Norteño romántico instrumental, warm expressive button accordion lead, bajo sexto and acoustic bass, soft light drums, two-step rhythm, smooth heartfelt, clean polished recording.",
+  "lyrics": "[Intro]\n\n[Verse]\n\n[Chorus]\n\n[Bridge]\n\n[Verse]\n\n[Chorus]\n\n[Outro]\n",
+  "seed": 4,
+  "max": "auto",
+  "cfg": 1.0,
+  "name": "v4_PR_am_s4"
+ },
+ {
+  "audio": "project spain/LAB/v4/PR_beatgoc.wav",
+  "abc": "songs/es_prision/abc/es_prision_beat_v4_G_q96.abc",
+  "style": "Norteño romántico instrumental, warm expressive button accordion lead, bajo sexto and acoustic bass, soft light drums, two-step rhythm, smooth heartfelt, clean polished recording.",
+  "lyrics": "[Intro]\n\n[Verse]\n\n[Chorus]\n\n[Bridge]\n\n[Verse]\n\n[Chorus]\n\n[Outro]\n",
+  "seed": 5,
+  "max": "auto",
+  "cfg": 1.0,
+  "name": "v4_PR_am_s5"
+ }
+]

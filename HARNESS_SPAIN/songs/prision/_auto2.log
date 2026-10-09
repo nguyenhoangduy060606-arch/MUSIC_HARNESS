@@ -1,0 +1,44 @@
+[18:14:20] ▶ abc — Chép nốt beat gốc (SheetSage2) → bản nốt dời cung
+[18:14:28]    (không cắt được dạo đầu riêng: đoạn 0-1: nốt đoạn KHÁC bản đầy đủ (0 vs 20 nốt): dừng; bỏ qua ứng viên intro)
+[18:14:28]    (không cắt được dạo đầu riêng: đoạn 0-1: nốt đoạn KHÁC bản đầy đủ (0 vs 20 nốt): dừng; bỏ qua ứng viên intro)
+[18:14:28] Chép nốt xong: cung Ab → G, Q=100, 251 nốt (1.36 nốt/s). Nốt đầu ở 0.9 s, tiếng đầu thật ở 0.23219954648526078 s.
+[18:14:28]    cổng abc: ĐẠT — đạt
+[18:14:28] ▶ beat_render — YuE2 đánh beat (một vòng = vài seed × kiểu) (vòng 1)
+[18:14:28] [1/9] YuE2 đánh beat b1_cl_s1 (kiểu cl, seed 1, cfg 1.0) ~2 phút
+[18:16:26] [2/9] YuE2 đánh beat b1_cl_s2 (kiểu cl, seed 2, cfg 1.0) ~2 phút
+[18:18:17] [3/9] YuE2 đánh beat b1_cl_s7 (kiểu cl, seed 7, cfg 1.0) ~2 phút
+[18:20:06] [4/9] YuE2 đánh beat b1_am_s1 (kiểu am, seed 1, cfg 1.0) ~2 phút
+[18:21:46] [5/9] YuE2 đánh beat b1_am_s2 (kiểu am, seed 2, cfg 1.0) ~2 phút
+[18:23:36] [6/9] YuE2 đánh beat b1_am_s7 (kiểu am, seed 7, cfg 1.0) ~2 phút
+[18:25:25] [7/9] YuE2 đánh beat b1_su_s1 (kiểu su, seed 1, cfg 1.0) ~2 phút
+[18:27:11] [8/9] YuE2 đánh beat b1_su_s2 (kiểu su, seed 2, cfg 1.0) ~2 phút
+[18:28:58] [9/9] YuE2 đánh beat b1_su_s7 (kiểu su, seed 7, cfg 1.0) ~2 phút
+[18:30:46] ▶ beat_gate — Căn phách + lọc máy; không đủ bản đạt → vòng mới (vòng 1)
+[18:33:41]    cổng beat: ĐẠT — 2/9 bản đạt. b1_cl_s7: ĐẠT; b1_am_s7: ĐẠT; b1_cl_s2: loại (lock_iqr_ms,beat_skips); b1_su_s2: loại (beat_skips); b1_su_s1: loại (beat_skips); b1_su_s7: loại (accordion_pct,beat_skips); b1_am_s2: loại (beat_skips,sim_orig_max); b1_cl_s1: loại (accordion_pct,beat_skips,sim_orig_max); b1_am_s1: loại (accordion_pct,beat_skips)
+[18:34:00] Gói nghe beat: C:\Users\PC\Downloads\project music\project spain\HARNESS_SPAIN\songs\prision\NGHE\1_beat (2 beat + 0 dạo đầu riêng). Chờ tai Duy (HG1).
+--- review độc lập ---
+ ĐẠT  R10: ngưỡng cổng không bị sửa ngoài gate-set
+ ĐẠT  R14: có nhật ký (32 dòng)
+ ĐẠT  R1: log/state không nhắc tới tool thật
+ ĐẠT  R6: log/state không chứa 5 từ liền của lời bài
+ ĐẠT  R2: không có khóa lab bị bỏ quên
+ ĐẠT  R4: bản nốt chỉ bị dời cung -1, không thêm/bớt/đổi nốt (251 nốt)
+ ĐẠT  cổng: intake: có hồ sơ chấm cổng
+ ĐẠT  cổng: abc: có hồ sơ chấm cổng
+ ĐẠT  cổng: beat_gate: có hồ sơ chấm cổng
+KẾT LUẬN: ĐẠT
+== prision ==  vòng beat 1/3, vòng giọng 1/3
+  ✔ intake                Nhận bài: đo nhịp/cung/bố cục, dọn lời (thử 1/2)
+  ✔ abc                   Chép nốt beat gốc (SheetSage2) → bản nốt dời cung (thử 1/3)
+  ✔ beat_render           YuE2 đánh beat (một vòng = vài seed × kiểu) (thử 1/3)
+  ✔ beat_gate             Căn phách + lọc máy; không đủ bản đạt → vòng mới (thử 1/3)
+ ▶· HG1           [NGƯỜI] TAI DUY #1: nghe beat (dạo đầu trước)
+  · finalize_beat         Ghép dạo đầu đã chọn vào beat đã chọn (cùng lưới phách)
+  · vocal_render          ACE hát lại giọng (lời chuẩn) trên giờ của beat đã chọn
+  · vocal_gate            Làm sạch xì + đo giọng; không đạt → vòng mới
+  · mix                   Trộn beat + giọng, master -14 LUFS
+  · pack                  Đóng gói nghe (Audacity .lof) + bản giao
+  · HG2           [NGƯỜI] TAI DUY #2 + bên yêu cầu: nghe cả bài, upload thử Content ID
+  · memory                Ghi bài học + hiệu chuẩn
+NEXT: HUMAN HG1 — Nghe NGHE/1_beat. Dạo đầu 25 s: so với beat gốc (file 0). Chọn beat chính (--pick) và, nếu thích, một dạo đầu riêng (--intro i1_...). Chê thì nói chỗ nào/giây nào (--note).
+      Sau khi Duy trả lời: python run.py human prision HG1 pass|fail --pick ... --note "..."

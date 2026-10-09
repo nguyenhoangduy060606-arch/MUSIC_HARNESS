@@ -1,0 +1,14 @@
+** WARNING: connection is not using a post-quantum key exchange algorithm.
+** This session may be vulnerable to "store now, decrypt later" attacks.
+** The server may need to be upgraded. See https://openssh.com/pq.html
+
+[21:16:44] XONG NP_B_beat_a18 sau 29 s -> C:\claude_lab\outputs\ace\NP_B_beat_a18.flac
+[21:17:02] XONG NP_B_beat_a35 sau 18 s -> C:\claude_lab\outputs\ace\NP_B_beat_a35.flac
+[21:17:19] XONG NP_C_voz_a60 sau 18 s -> C:\claude_lab\outputs\ace\NP_C_voz_a60.flac
+[21:17:37] XONG NP_C_voz_a80 sau 18 s -> C:\claude_lab\outputs\ace\NP_C_voz_a80.flac
+[21:17:53] XONG PR_B_beat_a18 sau 16 s -> C:\claude_lab\outputs\ace\PR_B_beat_a18.flac
+[21:18:09] XONG PR_B_beat_a35 sau 16 s -> C:\claude_lab\outputs\ace\PR_B_beat_a35.flac
+[21:18:24] XONG PR_C_voz_a60 sau 16 s -> C:\claude_lab\outputs\ace\PR_C_voz_a60.flac
+[21:18:40] XONG PR_C_voz_a80 sau 16 s -> C:\claude_lab\outputs\ace\PR_C_voz_a80.flac
+
+

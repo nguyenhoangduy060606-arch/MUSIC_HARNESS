@@ -1,0 +1,322 @@
+{
+ "project spain/LAB/r6/NP_V3_beat_sax_s42.flac": {
+  "instr": {
+   "ac_guitar": 58.5,
+   "trumpets": 37.8,
+   "piano": 3.2,
+   "accordion": 0.4,
+   "bajo_sexto": 0.1,
+   "elec_guitar": 0.0,
+   "elec_bass": 0.0,
+   "voice_duet": 0.0,
+   "tuba_brass": 0.0,
+   "violin": 0.0,
+   "requinto": 0.0,
+   "upright_bass": 0.0,
+   "drum_kit": 0.0,
+   "sax": 0.0,
+   "synth": 0.0,
+   "voice_male": 0.0
+  },
+  "style": {
+   "rock": 94.5,
+   "mariachi": 4.1,
+   "norteno": 0.9,
+   "sierreno": 0.4,
+   "banda": 0.2,
+   "pop_ballad": 0.0,
+   "waltz": 0.0,
+   "bolero": 0.0,
+   "polka": 0.0,
+   "ranchera": 0.0,
+   "cumbia": 0.0,
+   "corrido": 0.0
+  },
+  "bpm": 99.4,
+  "accent_period_corr": {
+   "2": 0.5,
+   "3": 0.036,
+   "4": 0.479
+  }
+ },
+ "project spain/LAB/r6/NP_V3_beat_sierreno_s42.flac": {
+  "instr": {
+   "ac_guitar": 81.8,
+   "trumpets": 15.1,
+   "bajo_sexto": 2.3,
+   "accordion": 0.5,
+   "elec_guitar": 0.1,
+   "piano": 0.1,
+   "tuba_brass": 0.0,
+   "requinto": 0.0,
+   "voice_duet": 0.0,
+   "sax": 0.0,
+   "elec_bass": 0.0,
+   "drum_kit": 0.0,
+   "synth": 0.0,
+   "upright_bass": 0.0,
+   "violin": 0.0,
+   "voice_male": 0.0
+  },
+  "style": {
+   "rock": 92.6,
+   "sierreno": 7.3,
+   "banda": 0.0,
+   "norteno": 0.0,
+   "mariachi": 0.0,
+   "pop_ballad": 0.0,
+   "polka": 0.0,
+   "bolero": 0.0,
+   "waltz": 0.0,
+   "ranchera": 0.0,
+   "cumbia": 0.0,
+   "corrido": 0.0
+  },
+  "bpm": 99.4,
+  "accent_period_corr": {
+   "2": 0.462,
+   "3": -0.068,
+   "4": 0.465
+  }
+ },
+ "project spain/LAB/r6/PR_V3_beat_sax_s42.flac": {
+  "instr": {
+   "ac_guitar": 47.8,
+   "accordion": 40.6,
+   "trumpets": 10.8,
+   "bajo_sexto": 0.5,
+   "piano": 0.3,
+   "elec_guitar": 0.0,
+   "tuba_brass": 0.0,
+   "requinto": 0.0,
+   "violin": 0.0,
+   "sax": 0.0,
+   "upright_bass": 0.0,
+   "drum_kit": 0.0,
+   "elec_bass": 0.0,
+   "synth": 0.0,
+   "voice_duet": 0.0,
+   "voice_male": 0.0
+  },
+  "style": {
+   "sierreno": 55.5,
+   "rock": 27.7,
+   "norteno": 7.7,
+   "mariachi": 7.7,
+   "banda": 1.4,
+   "pop_ballad": 0.0,
+   "polka": 0.0,
+   "waltz": 0.0,
+   "bolero": 0.0,
+   "ranchera": 0.0,
+   "cumbia": 0.0,
+   "corrido": 0.0
+  },
+  "bpm": 99.4,
+  "accent_period_corr": {
+   "2": 0.561,
+   "3": 0.093,
+   "4": 0.395
+  }
+ },
+ "project spain/LAB/r6/PR_V3_beat_sierreno_s42.flac": {
+  "instr": {
+   "ac_guitar": 60.6,
+   "accordion": 30.6,
+   "trumpets": 3.6,
+   "bajo_sexto": 3.4,
+   "piano": 1.6,
+   "elec_guitar": 0.2,
+   "drum_kit": 0.0,
+   "requinto": 0.0,
+   "voice_duet": 0.0,
+   "tuba_brass": 0.0,
+   "elec_bass": 0.0,
+   "sax": 0.0,
+   "upright_bass": 0.0,
+   "synth": 0.0,
+   "violin": 0.0,
+   "voice_male": 0.0
+  },
+  "style": {
+   "sierreno": 48.3,
+   "rock": 45.9,
+   "mariachi": 3.6,
+   "banda": 1.9,
+   "norteno": 0.3,
+   "pop_ballad": 0.0,
+   "polka": 0.0,
+   "waltz": 0.0,
+   "bolero": 0.0,
+   "cumbia": 0.0,
+   "ranchera": 0.0,
+   "corrido": 0.0
+  },
+  "bpm": 99.4,
+  "accent_period_corr": {
+   "2": 0.559,
+   "3": -0.056,
+   "4": 0.703
+  }
+ },
+ "project spain/LAB/r6/NP_V2_beat_sax_s42.flac": {
+  "instr": {
+   "ac_guitar": 64.2,
+   "bajo_sexto": 26.3,
+   "accordion": 7.1,
+   "trumpets": 2.3,
+   "requinto": 0.0,
+   "piano": 0.0,
+   "elec_guitar": 0.0,
+   "tuba_brass": 0.0,
+   "elec_bass": 0.0,
+   "drum_kit": 0.0,
+   "voice_duet": 0.0,
+   "sax": 0.0,
+   "upright_bass": 0.0,
+   "violin": 0.0,
+   "synth": 0.0,
+   "voice_male": 0.0
+  },
+  "style": {
+   "rock": 59.5,
+   "sierreno": 28.5,
+   "banda": 7.8,
+   "norteno": 4.2,
+   "mariachi": 0.0,
+   "polka": 0.0,
+   "pop_ballad": 0.0,
+   "waltz": 0.0,
+   "bolero": 0.0,
+   "ranchera": 0.0,
+   "cumbia": 0.0,
+   "corrido": 0.0
+  },
+  "bpm": 95.7,
+  "accent_period_corr": {
+   "2": 0.431,
+   "3": 0.301,
+   "4": 0.338
+  }
+ },
+ "project spain/LAB/r6/NP_V2_beat_sax_s7.flac": {
+  "instr": {
+   "ac_guitar": 54.7,
+   "trumpets": 34.9,
+   "piano": 3.7,
+   "accordion": 3.2,
+   "bajo_sexto": 1.4,
+   "tuba_brass": 0.8,
+   "elec_guitar": 0.6,
+   "requinto": 0.4,
+   "elec_bass": 0.2,
+   "sax": 0.1,
+   "drum_kit": 0.0,
+   "violin": 0.0,
+   "upright_bass": 0.0,
+   "voice_duet": 0.0,
+   "synth": 0.0,
+   "voice_male": 0.0
+  },
+  "style": {
+   "rock": 99.5,
+   "norteno": 0.4,
+   "banda": 0.0,
+   "sierreno": 0.0,
+   "mariachi": 0.0,
+   "pop_ballad": 0.0,
+   "polka": 0.0,
+   "waltz": 0.0,
+   "bolero": 0.0,
+   "ranchera": 0.0,
+   "cumbia": 0.0,
+   "corrido": 0.0
+  },
+  "bpm": 95.7,
+  "accent_period_corr": {
+   "2": 0.402,
+   "3": -0.284,
+   "4": 0.352
+  }
+ },
+ "project spain/LAB/r6/PR_V2_beat_sax_s42.flac": {
+  "instr": {
+   "ac_guitar": 61.3,
+   "trumpets": 29.6,
+   "tuba_brass": 6.9,
+   "bajo_sexto": 0.8,
+   "accordion": 0.7,
+   "piano": 0.3,
+   "sax": 0.3,
+   "elec_bass": 0.0,
+   "elec_guitar": 0.0,
+   "requinto": 0.0,
+   "voice_duet": 0.0,
+   "upright_bass": 0.0,
+   "drum_kit": 0.0,
+   "violin": 0.0,
+   "synth": 0.0,
+   "voice_male": 0.0
+  },
+  "style": {
+   "rock": 99.2,
+   "sierreno": 0.7,
+   "norteno": 0.1,
+   "banda": 0.0,
+   "mariachi": 0.0,
+   "bolero": 0.0,
+   "pop_ballad": 0.0,
+   "polka": 0.0,
+   "waltz": 0.0,
+   "ranchera": 0.0,
+   "cumbia": 0.0,
+   "corrido": 0.0
+  },
+  "bpm": 95.7,
+  "accent_period_corr": {
+   "2": 0.611,
+   "3": -0.328,
+   "4": 0.598
+  }
+ },
+ "project spain/LAB/r6/PR_V2_beat_sax_s7.flac": {
+  "instr": {
+   "trumpets": 39.5,
+   "accordion": 37.0,
+   "ac_guitar": 13.2,
+   "bajo_sexto": 8.5,
+   "piano": 0.8,
+   "requinto": 0.7,
+   "drum_kit": 0.1,
+   "elec_guitar": 0.1,
+   "voice_duet": 0.0,
+   "elec_bass": 0.0,
+   "tuba_brass": 0.0,
+   "sax": 0.0,
+   "upright_bass": 0.0,
+   "violin": 0.0,
+   "synth": 0.0,
+   "voice_male": 0.0
+  },
+  "style": {
+   "rock": 99.8,
+   "norteno": 0.2,
+   "banda": 0.1,
+   "sierreno": 0.0,
+   "mariachi": 0.0,
+   "pop_ballad": 0.0,
+   "bolero": 0.0,
+   "polka": 0.0,
+   "waltz": 0.0,
+   "ranchera": 0.0,
+   "cumbia": 0.0,
+   "corrido": 0.0
+  },
+  "bpm": 95.7,
+  "accent_period_corr": {
+   "2": 0.279,
+   "3": -0.351,
+   "4": 0.303
+  }
+ }
+}

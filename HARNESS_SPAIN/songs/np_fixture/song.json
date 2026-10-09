@@ -1,0 +1,20 @@
+{
+ "id": "np_fixture",
+ "title": "No Pude (bài thử harness)",
+ "inputs": {
+  "original_mp3": "../2 bài/146M - 2003 - No Pude Enamorarme Mas - Los Tigres del Norte - 5k8 VPH.mp3",
+  "stem_inst": "../2 bài/1_146M - 2003 - No Pude Enamorarme Mas - Los Tigres del Norte - 5k8 VPH_(Instrumental).wav",
+  "stem_vocals": "../2 bài/1_146M - 2003 - No Pude Enamorarme Mas - Los Tigres del Norte - 5k8 VPH_(Vocals).wav",
+  "lyrics_txt": "C:/Users/PC/Downloads/No Pude Enamorarme Mas.txt"
+ },
+ "reference": {
+  "suno_beat": null,
+  "suno_vocals": null
+ },
+ "plan": {
+  "shift_semis": -1,
+  "tempo_ratio": 0.96,
+  "gate_sim": 0.62,
+  "vocal_end_s": null
+ }
+}

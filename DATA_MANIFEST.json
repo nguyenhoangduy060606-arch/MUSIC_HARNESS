@@ -1,0 +1,927 @@
+{
+  "source": "C:\\Users\\PC\\Downloads\\project music\\project spain",
+  "repo": "https://github.com/nguyenhoangduy060606-arch/MUSIC_HARNESS",
+  "included_count": 182,
+  "included_bytes": 716431,
+  "excluded_count": 511,
+  "excluded_bytes": 13631128249,
+  "excluded_extensions": [
+    ".flac",
+    ".mp3",
+    ".mp4",
+    ".rar",
+    ".wav"
+  ],
+  "files": [
+    {
+      "path": "HARNESS_SPAIN/AGENTS.md",
+      "bytes": 2132,
+      "sha256": "f16fa33ad072a8e6ea67575b19219c780ce7ad47518fc4d111f403a7539228a5"
+    },
+    {
+      "path": "HARNESS_SPAIN/config/fixes.json",
+      "bytes": 2811,
+      "sha256": "c074725be8c16329b33cc8272e26f706d19994dd648b113ccece50203e72df17"
+    },
+    {
+      "path": "HARNESS_SPAIN/config/gates.json",
+      "bytes": 5897,
+      "sha256": "8996e7c62586a9bff9d16ca6b11efec1112053cf9d68823315923f601287a530"
+    },
+    {
+      "path": "HARNESS_SPAIN/config/gates.sha",
+      "bytes": 64,
+      "sha256": "f6f2ed85ed87aa161c56ff33929cbf90cf00875a839bb47dce6b7dbbf1fe1be2"
+    },
+    {
+      "path": "HARNESS_SPAIN/config/paths.json",
+      "bytes": 1136,
+      "sha256": "0a51f1d865034181e20d17606d4cdb155c591d6267cf48d56e397135366691f6"
+    },
+    {
+      "path": "HARNESS_SPAIN/config/styles.json",
+      "bytes": 1179,
+      "sha256": "9974391b36a3cfda44cdd434fad4027a9856f5a354b448a61907f6845e8dd136"
+    },
+    {
+      "path": "HARNESS_SPAIN/config/workflow.json",
+      "bytes": 4546,
+      "sha256": "63d80a0ac7f5aff7aac11c2e0a5e80881ed7ab25efa129c87cf0fb1e1df3ec45"
+    },
+    {
+      "path": "HARNESS_SPAIN/memory/calibration.json",
+      "bytes": 10236,
+      "sha256": "e0f7a0ebdb51f8f2885ebcf2bcc3a38b74ab43c72a9f03831af2593b9d09fde9"
+    },
+    {
+      "path": "HARNESS_SPAIN/memory/knowledge.md",
+      "bytes": 797,
+      "sha256": "fd9aa49fa9b19f6299d75297b8e4e5b8c7a6470c2c45d9bff5dce004ac808472"
+    },
+    {
+      "path": "HARNESS_SPAIN/memory/lessons.md",
+      "bytes": 10688,
+      "sha256": "9ee970cc2d00b285bb0afe0843196fa44ff2962112a489660b0ddbc4ecce01e9"
+    },
+    {
+      "path": "HARNESS_SPAIN/README.md",
+      "bytes": 8646,
+      "sha256": "f68e2a69d02ff3b434ea2213ad1e3ee6fbdfe0bf8151b225ca6ce24813d32083"
+    },
+    {
+      "path": "HARNESS_SPAIN/RULES.md",
+      "bytes": 2673,
+      "sha256": "bf524d9a31aa03e6cb875677257bed1b1a9a4e04d7c92f015aaef04f574cbddf"
+    },
+    {
+      "path": "HARNESS_SPAIN/run.py",
+      "bytes": 32081,
+      "sha256": "92ae8ecaa34e6aeec39d6f4a5900ec985dc3d0793bc0e04fca3aa4f719314ed9"
+    },
+    {
+      "path": "HARNESS_SPAIN/skills/calibrate/SKILL.md",
+      "bytes": 1717,
+      "sha256": "a6b599f1c9cbfdfd01917d06bce479ada878180fe45327506cdf9127382e08e0"
+    },
+    {
+      "path": "HARNESS_SPAIN/skills/cover-run/SKILL.md",
+      "bytes": 1958,
+      "sha256": "a4547b7223b76131253b3f3c276ae74c34071aa167489fa055c7213ffadefb4b"
+    },
+    {
+      "path": "HARNESS_SPAIN/skills/fix/SKILL.md",
+      "bytes": 3244,
+      "sha256": "f06da316adcf0f2f439a473a1c01a27affc5416986b16ed2233f4b242b8d714c"
+    },
+    {
+      "path": "HARNESS_SPAIN/skills/handoff/SKILL.md",
+      "bytes": 1463,
+      "sha256": "ffeb9810fb453d5f452b1c154314dc2f41aa956f5759c22f0db118433201554d"
+    },
+    {
+      "path": "HARNESS_SPAIN/skills/INDEX.md",
+      "bytes": 921,
+      "sha256": "7e5ab0b1864a775c586e9d8c6d7906e9c153b235ee475d9768801ec948959a8b"
+    },
+    {
+      "path": "HARNESS_SPAIN/skills/lab-ops/SKILL.md",
+      "bytes": 1459,
+      "sha256": "b82a17957a6e2e4837cd870286e8ff5c87f163fb0e80e0cc1106696ed32f0fda"
+    },
+    {
+      "path": "HARNESS_SPAIN/skills/listen-pack/SKILL.md",
+      "bytes": 1418,
+      "sha256": "72fc2d338252036dca591ce864a46c6487390c82933c194cd8c199ac95c0aa05"
+    },
+    {
+      "path": "HARNESS_SPAIN/skills/lyrics/SKILL.md",
+      "bytes": 1204,
+      "sha256": "ec7ea2a06774c08522ce24e1905a59f2eff80e642606a39b44122d566367bdbb"
+    },
+    {
+      "path": "HARNESS_SPAIN/skills/review/SKILL.md",
+      "bytes": 1307,
+      "sha256": "2a5d55ffda27a14287cc6a10d5753f4bac4057dfdbae9d31fe12ba28eb135d4e"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/_template/song.json",
+      "bytes": 647,
+      "sha256": "25f253a59b68b714c2c1eae7703b6bfa5259ddaef3859bb2acf095686e00ea60"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/np_fixture/beat/_clap_r1.json",
+      "bytes": 5034,
+      "sha256": "bb9f8129d2f1ee0070ae8743904dcc07250deda84c0a67c74570d2080b53726d"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/np_fixture/gates/beat_gate_latest.json",
+      "bytes": 13923,
+      "sha256": "39e2b5bce4b98c1f6b016436737100832024c77bbb9a9b82b9098cd929fb3a47"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/np_fixture/gates/intake_r1.json",
+      "bytes": 720,
+      "sha256": "f369afd3ace289390646a1fc05e42667681054f6ca005745435408c89de66353"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/np_fixture/in/facts.json",
+      "bytes": 387,
+      "sha256": "81cf23b58cdeac9d5c498744eb07983732d57cc0fd3295ab6a5c55636b8027d6"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/np_fixture/in/lyrics_ace.txt",
+      "bytes": 1123,
+      "sha256": "990f3c30fbe313d50742002ccf4b180e8152c56aa759312eaff16229ef5cefdc"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/np_fixture/in/lyrics_goc.txt",
+      "bytes": 1296,
+      "sha256": "872d09f03fb460a6fa06c8f708fefd566fc38c534775f300b55048e1866bef0f"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/np_fixture/NGHE/1_beat/dao_dau_25s/nghe.lof",
+      "bytes": 86,
+      "sha256": "01a25d7282d93671dcb33ef101ba7389431cc00b94f0c58cf570345e3200e703"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/np_fixture/NGHE/1_beat/LISTEN.md",
+      "bytes": 730,
+      "sha256": "d477ad078bf2994d291ad7f9fd012f63f8bd3d652b35c0645dfdd4ba2578ac72"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/np_fixture/NGHE/1_beat/nghe.lof",
+      "bytes": 86,
+      "sha256": "70e8abdb83cc73837f370b83bafaf986bfb248c0c57900ec51440e0c109f7e02"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/np_fixture/NHAT_KY.md",
+      "bytes": 1256,
+      "sha256": "0772831c6db33a0990466d41a2626925cebe106738ec7c0f3a122ae02132e35b"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/np_fixture/ref/sections.json",
+      "bytes": 148,
+      "sha256": "ff7740a91cc2e5f26d4e9d172fbef0c5ba1fa7cd1f0be4be780f97e6fcf11ec8"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/np_fixture/song.json",
+      "bytes": 671,
+      "sha256": "98617169e5d569da4ab6c6a26f96b4ad436c0c45ecba76ec70ab547e7608a47d"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/np_fixture/state.json",
+      "bytes": 949,
+      "sha256": "656400f6f0728da703ba48a7d3997e1d8bb0ae200df61c9f0f76334fbc1fb0ed"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/prision/_auto1.log",
+      "bytes": 2668,
+      "sha256": "f08298513ec23e7573b132994c1356a27853d9f8014eb5b3f26ff32ec49bbe4c"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/prision/_auto2.log",
+      "bytes": 4154,
+      "sha256": "d83028483630ff09b72ef8138198bb1c83d4094653fdc69fdcf0cd55cecda55b"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/prision/_auto3.log",
+      "bytes": 3252,
+      "sha256": "cd6291e9e22aa39233ea8435ad0ea0844706de62748c67c68dda828961b3ecc6"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/prision/_intros1.log",
+      "bytes": 2539,
+      "sha256": "f93b9aa008b52a8d1201adb501ec2a9203a77b1f7a48277393f06bf1ff3b1bec"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/prision/abc/prep_full.abc",
+      "bytes": 1967,
+      "sha256": "8847c29215d6bf8c32a5c49bf45c3decc99de38bdb71b65b2d1302a4afadf5e1"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/prision/abc/prep_full_dense.abc",
+      "bytes": 1967,
+      "sha256": "8847c29215d6bf8c32a5c49bf45c3decc99de38bdb71b65b2d1302a4afadf5e1"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/prision/abc/prep_intro_full.abc",
+      "bytes": 399,
+      "sha256": "7b5b8e4db373adadeafcdbb54a47f059bf55629971d7171d782b49ef9af32ed5"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/prision/abc/prep_intro_full_dense.abc",
+      "bytes": 399,
+      "sha256": "7b5b8e4db373adadeafcdbb54a47f059bf55629971d7171d782b49ef9af32ed5"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/prision/abc/stem_full.abc",
+      "bytes": 2007,
+      "sha256": "ced2e9ece44a8adbc52d1497dfc0654b15c928116ad4b4c730712019690de8d5"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/prision/beat/_clap_intro_r1.json",
+      "bytes": 10141,
+      "sha256": "456c0c842f5a8748aad1b092f9a64a385f82fd6206b63308b190858999603d48"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/prision/beat/_clap_r1.json",
+      "bytes": 7534,
+      "sha256": "b2731f80d9a8bcfbee6514610322ca70c018cc6d40466efb6ccc0d8590ce7037"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/prision/gates/abc_r1.json",
+      "bytes": 582,
+      "sha256": "f0b2c6ca5daef1bf602b81b4f6edae963981c76938f8ad7b5832403ad785c9c1"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/prision/gates/beat_gate_latest.json",
+      "bytes": 24242,
+      "sha256": "1a047b4d600a86083b2cca7e81687a134b92f15a3b03a1503e2ecf3480ed0f68"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/prision/gates/intake_r1.json",
+      "bytes": 717,
+      "sha256": "830846530fd774d7007f3e758fd16cb9d0a55a029b6e094bfe8c6bf1774502b0"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/prision/gates/intro_latest.json",
+      "bytes": 3607,
+      "sha256": "4514e9168af3962ebcd5f5cc59c97a425dd383e73b8dce3e86930bfa361c159b"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/prision/gates/mix_latest.json",
+      "bytes": 2429,
+      "sha256": "ea6834858f848747bec144698ce636df307438306ff589e4c40240aa541e28b6"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/prision/gates/vocal_gate_latest.json",
+      "bytes": 4271,
+      "sha256": "8a0056bd350ed4ac2e6032b1dcee1b187c63a85867256f870d550c13cc92f124"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/prision/in/facts.json",
+      "bytes": 482,
+      "sha256": "09516224a2de41045b0327ccdcd52ed3501b380e6c7df7b0b78ea0da8865af43"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/prision/in/lyrics_ace.txt",
+      "bytes": 940,
+      "sha256": "19518c2bd0d3e8bab508418344369a824f549fc36d8739060aebaea3c5c369e7"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/prision/in/lyrics_goc.txt",
+      "bytes": 918,
+      "sha256": "eb58f2d081f947cc56b0b41652628c924fe2e7392ff753d7b5d0ca45f4c638f5"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/prision/NGHE/1_beat/dao_dau_25s/nghe.lof",
+      "bytes": 131,
+      "sha256": "8913c27d2dc8f1201d8d04fdfdbdf795ea05d56fe212bee5c636f9dd81c314d2"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/prision/NGHE/1_beat/LISTEN.md",
+      "bytes": 1016,
+      "sha256": "182be481bc6d8ac9a2192fa791ec7c5d02c3d68902c302dfd8ded26a5f5ae969"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/prision/NGHE/1_beat/nghe.lof",
+      "bytes": 131,
+      "sha256": "d2a5d62c624fd980e0d4f0717b663425b2c5a5bc687a94da8ff825f85c354ee0"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/prision/NGHE/2_ca_bai/LISTEN.md",
+      "bytes": 957,
+      "sha256": "9e2243c634ac07e775eeb340c277697ddbf6e8a874bf54e5553c9d8e4ee57252"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/prision/NGHE/2_ca_bai/nghe.lof",
+      "bytes": 79,
+      "sha256": "3baaa51771915e3e10f5e706430702591a2d66b2f4f091a183485304e390b34c"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/prision/NGHE/_da_duyet_1008_0923/2_ca_bai/LISTEN.md",
+      "bytes": 288,
+      "sha256": "cb6dd1d38196cf135c203e2889b44f2ebbd9014ebe6d1ec12a5ecdbb87151127"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/prision/NGHE/_da_duyet_1008_0923/2_ca_bai/nghe.lof",
+      "bytes": 79,
+      "sha256": "3baaa51771915e3e10f5e706430702591a2d66b2f4f091a183485304e390b34c"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/prision/NHAT_KY.md",
+      "bytes": 7175,
+      "sha256": "be333fb4ced2a481fc89bd07a2a899f8de58aba41c777968f684187f720db0ca"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/prision/ref/sections.json",
+      "bytes": 140,
+      "sha256": "d4a626309d5b8b2b34ffdc02a7be179775e9bc99b36e0f0264aa901bfafff620"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/prision/song.json",
+      "bytes": 631,
+      "sha256": "696f54e79292a2499561482fc3033d3dcc93d4b5406303bc941f98713f7cd71d"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/prision/state.json",
+      "bytes": 3145,
+      "sha256": "1ff4fe3b7a15e59e81fe29d794d8ddc8e1edcf16e644cf84e35980702f2dbd20"
+    },
+    {
+      "path": "HARNESS_SPAIN/songs/prision/vocal/jobs_r1.json",
+      "bytes": 7057,
+      "sha256": "a7079c0ef63a020e3d88806d0ed9a63b9ada5e1c8e8256aaebb66911418f34b2"
+    },
+    {
+      "path": "HARNESS_SPAIN/tools/abc_split.py",
+      "bytes": 4376,
+      "sha256": "b33a33a5b2a3dbc8127e78405713a9cd5b60f854b0dd30f49799d81d8b98c8d0"
+    },
+    {
+      "path": "HARNESS_SPAIN/tools/abc_tools.py",
+      "bytes": 16437,
+      "sha256": "e1f2864cb4e670de614ff22abee0b529376f6fd1e46752bc8ac930f56f5a5f3e"
+    },
+    {
+      "path": "HARNESS_SPAIN/tools/beat_align.py",
+      "bytes": 7556,
+      "sha256": "b9fa1d55893d22f149fa14bd8a297f6ff7720ed73e863dfd0e248be65245ddb6"
+    },
+    {
+      "path": "HARNESS_SPAIN/tools/beat_lock.py",
+      "bytes": 1328,
+      "sha256": "ac8d155985169ec547561d79bfb9bceb2f9d877b393f628090f62a56dfd25bb8"
+    },
+    {
+      "path": "HARNESS_SPAIN/tools/clap_check.py",
+      "bytes": 3921,
+      "sha256": "f2e40a8e0422d80abae1ca589c0d8083db39891be0184fb8afc783df535d185a"
+    },
+    {
+      "path": "HARNESS_SPAIN/tools/hs_common.py",
+      "bytes": 6795,
+      "sha256": "a092f883d224857a4425940622d373a16e71c73d4515ed816f4e3d8f785e0b38"
+    },
+    {
+      "path": "HARNESS_SPAIN/tools/lab_comfy.py",
+      "bytes": 8248,
+      "sha256": "96a1f60ad2f3633015cab83bd52e5a33fa4d527f26de7bae595822e275499e84"
+    },
+    {
+      "path": "HARNESS_SPAIN/tools/lyrics_clean.py",
+      "bytes": 1929,
+      "sha256": "1efe453579adc6950faef316e35979124fcadb8a8feace473ea5b65444d46ce5"
+    },
+    {
+      "path": "HARNESS_SPAIN/tools/measure.py",
+      "bytes": 14605,
+      "sha256": "c657b7ffcc4a0b1567ac9cd415ca2fe80dccc392947af2e3f9a8f8b29268a879"
+    },
+    {
+      "path": "HARNESS_SPAIN/tools/mix.py",
+      "bytes": 7404,
+      "sha256": "c6d871003c41ad2b830090e1c0fc58a971fc91d9d51d279f4051132eee614213"
+    },
+    {
+      "path": "HARNESS_SPAIN/tools/mix_master.py",
+      "bytes": 4710,
+      "sha256": "0900e4f668e3309c727249f803a225697b05528e39f9d45a7199b7c0e73b81c4"
+    },
+    {
+      "path": "HARNESS_SPAIN/tools/pack.py",
+      "bytes": 1165,
+      "sha256": "8c237878fc8588ef3292e4b8838dd3c357cbdf6086747d123e3a2fd7c998c241"
+    },
+    {
+      "path": "HARNESS_SPAIN/tools/stages.py",
+      "bytes": 28217,
+      "sha256": "88395ff8e4703772372f9b8122be8d49ba22f4caba32263a803f63b9a75aa40a"
+    },
+    {
+      "path": "HARNESS_SPAIN/tools/vocal_check.py",
+      "bytes": 1955,
+      "sha256": "a315c033ca4b919722ce53bc3ad067fb47cf00bf16d67e3797c9c18f6c451a0a"
+    },
+    {
+      "path": "HARNESS_SPAIN/tools/vocal_clean.py",
+      "bytes": 3530,
+      "sha256": "b258cb8e5aad3d8dc4c758bcc72dcf21b87234365c39cab43aef9080cfad5e44"
+    },
+    {
+      "path": "HARNESS_SPAIN/tools/vocal_warp.py",
+      "bytes": 4500,
+      "sha256": "75858bd66ab707c3337a8b39577250764c619926d39bce85f57586d784321306"
+    },
+    {
+      "path": "HARNESS_SPAIN/vm/ace_lab_run.py",
+      "bytes": 2836,
+      "sha256": "e0f5f737f4f76397a812a76cffb407526d836ab6c9508a8bc7379077e9a83704"
+    },
+    {
+      "path": "HARNESS_SPAIN/vm/lab_comfy_start.ps1",
+      "bytes": 645,
+      "sha256": "a0d3d91d4417adb2f901b8c645e4e0b6554743ee008ed5493616983352b4351f"
+    },
+    {
+      "path": "HARNESS_SPAIN/vm/spk_sim.py",
+      "bytes": 845,
+      "sha256": "16c234c55c02c0b447a835f122351ff3adb28565919b367e21e29ab56f6e9e47"
+    },
+    {
+      "path": "HARNESS_SPAIN/vm/wer_whisper.py",
+      "bytes": 1603,
+      "sha256": "4520066b824e00f08db2770c20dd2a4eaaeb494e65c93e724dea8a97e671b3db"
+    },
+    {
+      "path": "HARNESS_SPAIN/vm/whisper_words.py",
+      "bytes": 1105,
+      "sha256": "a5fb2e8dfb631321ca9c9d4c0e1663537c7e34f33ef16b89bc3acb6c1163193f"
+    },
+    {
+      "path": "LAB/_ace_r0.log",
+      "bytes": 924,
+      "sha256": "e5076f3c6617b6777ac83e3903a246e7fd42dbb2e748d4f85972ee92d6c62da6"
+    },
+    {
+      "path": "LAB/_genre_ace.json",
+      "bytes": 2837,
+      "sha256": "662781cc78bf49ef6568273068a7bcecf8e44d16f2bb087d7ef29bafdd0ad06f"
+    },
+    {
+      "path": "LAB/_genre_b2.json",
+      "bytes": 5676,
+      "sha256": "dc61389a68ffe4003e7cce2cd3b2c93b668eb542ad2068610363dea3eca80080"
+    },
+    {
+      "path": "LAB/_genre_r0a.json",
+      "bytes": 715,
+      "sha256": "69b427f2c886f484fb20deaef052816a32cebb8ccbebb8f474d438d23b9cc143"
+    },
+    {
+      "path": "LAB/_genre_r0b.json",
+      "bytes": 1432,
+      "sha256": "9441f0de32787e0a672e10bd2cadf8857ce26cabb1646fdc1dece96a2fae4a4a"
+    },
+    {
+      "path": "LAB/_genre_r1np.json",
+      "bytes": 2149,
+      "sha256": "f321699c9031b934126606820a805b9e0834a004b2150569e74c853da5c3ae7d"
+    },
+    {
+      "path": "LAB/_jobs_r0.json",
+      "bytes": 4572,
+      "sha256": "4d9b14f1b1de556c3b89b312332ace28e3ea83d1a24fdaf2b8ed7686aa623000"
+    },
+    {
+      "path": "LAB/_jobs_r1.json",
+      "bytes": 9123,
+      "sha256": "8d552741a2bf70e9df0986aab312573735b248a78a83280bc506eef5de405dd1"
+    },
+    {
+      "path": "LAB/_jobs_suno_beat.json",
+      "bytes": 4593,
+      "sha256": "cee842766fb160029474b7181ed1df4cd63d347890f35f7dc13455693343bf8f"
+    },
+    {
+      "path": "LAB/_jobs_v4.json",
+      "bytes": 6219,
+      "sha256": "52db85b05cc7d0c2e0399b2b41c68cfa0a4f7d694707bc7133ed8d764e58830b"
+    },
+    {
+      "path": "LAB/_jobs_v4b.json",
+      "bytes": 3111,
+      "sha256": "d9f14d18950a49abd4f433acb5f71de778ca111558aa84995accf7f4733a57df"
+    },
+    {
+      "path": "LAB/_labstart.log",
+      "bytes": 96711,
+      "sha256": "15039fbfa2e176c8348b9c40da37832fc82638673c497239a19120a327276027"
+    },
+    {
+      "path": "LAB/_log.jsonl",
+      "bytes": 14654,
+      "sha256": "7a558f341a87de07274875fa16eae97644069cebd376c3f3172cfb6340ba3b77"
+    },
+    {
+      "path": "LAB/_r0.log",
+      "bytes": 2264,
+      "sha256": "7c270924ca7215adb0f718c15a43a6a51560ff5cad5bd9177fa48c229d03adae"
+    },
+    {
+      "path": "LAB/_r1.log",
+      "bytes": 4338,
+      "sha256": "3d5b969ee69e8bbe2aa05cd41e0a4e16646947d0bf56aca255192f62be99a9ad"
+    },
+    {
+      "path": "LAB/_suno_beat.log",
+      "bytes": 5828,
+      "sha256": "69285b478d75f8cf1f98e45b1a74538a6577b8a3a7dd78425377aab9dcc0a3df"
+    },
+    {
+      "path": "LAB/_v4.log",
+      "bytes": 7777,
+      "sha256": "887f8c275e33ee04fedd3ebe26278e89370474c3152c96ddd2eaf10b9a4e1bd4"
+    },
+    {
+      "path": "LAB/_v4_ace.log",
+      "bytes": 940,
+      "sha256": "9fabc50af6cbc7e32647ecfff319e68041c677abf5f466fdbabfd218b0c798e0"
+    },
+    {
+      "path": "LAB/_v4b.log",
+      "bytes": 4019,
+      "sha256": "e18004e051eeaa52d8b3849ce821ab2f62e5eeb26a0704d34ee5b3bc298111c8"
+    },
+    {
+      "path": "LAB/half2/es_no_pude_lyrics_h2.txt",
+      "bytes": 436,
+      "sha256": "049a93062f051a6f83a9d764a596424819f32cc9b9492a3ac7146510d69ed4fc"
+    },
+    {
+      "path": "LAB/half2/es_prision_lyrics_h2.txt",
+      "bytes": 398,
+      "sha256": "d3eb83c92cfbbf19b7bc68bccb412bcbe2a803c66f16721f701531d52da23e6e"
+    },
+    {
+      "path": "LAB/intro_cal/ref_m1.abc",
+      "bytes": 1816,
+      "sha256": "d54c1718c23f7c6da83ff32da29f7c97654d48bc2fc0451628dc7858e2cfe165"
+    },
+    {
+      "path": "LAB/intro_cal/ref_V2.abc",
+      "bytes": 1806,
+      "sha256": "a47e1469acb90d7b9c682428ee36ee88872d43de0abeaf02c48085e643a51584"
+    },
+    {
+      "path": "LAB/intro_cal/su_am_s1.abc",
+      "bytes": 3014,
+      "sha256": "d6a4ace616ba7508c24420eefa24593c7f2769fe598464aca9dd75866e467afb"
+    },
+    {
+      "path": "LAB/intro_cal/su_cl_s2.abc",
+      "bytes": 2145,
+      "sha256": "1669660ec3ab3625f3a36ed1d7a7f561f88dd9ffe1d85feb1dac7c094fccd276"
+    },
+    {
+      "path": "LAB/intro_cal/su_su_s7.abc",
+      "bytes": 2176,
+      "sha256": "1b943ced2d8a28fb6ef1af90d537988673bd1943b782a6f45bfbf80b0bd3304d"
+    },
+    {
+      "path": "LAB/intro_cal/suno_beat_m.abc",
+      "bytes": 2019,
+      "sha256": "b11697542ca499025d74203cde0ecc935bb8b14d1497958f7896e68fae4e094b"
+    },
+    {
+      "path": "LAB/intro_cal/v4_am_s1.abc",
+      "bytes": 1776,
+      "sha256": "fa60476cfb66c43f9e5d3c7b4b4addebdf3d88b13317a3f0491d75ec4d691a81"
+    },
+    {
+      "path": "LAB/intro_cal/v4_am_s2.abc",
+      "bytes": 1819,
+      "sha256": "364ecb503c9bace55ee6f6d95cfff1d80a2c4e7539ad301dad692e0b261dcb04"
+    },
+    {
+      "path": "LAB/intro_cal/v4_cl_s7.abc",
+      "bytes": 1714,
+      "sha256": "c3483fc16e0bbf7b3e0db26b8447c82aa3d2cf5eaeac4f572ad22a5b8f6a0cd6"
+    },
+    {
+      "path": "LAB/NHAT_KY.md",
+      "bytes": 10840,
+      "sha256": "7535ded041184298d5addab75550a1377ef5dd83f9a4357b60360f384fd7d1c0"
+    },
+    {
+      "path": "LAB/r6/_genre.json",
+      "bytes": 12358,
+      "sha256": "aba5312cd7e96ffd455cb3e2109dc81b173dcd3f3af662117315a5eee943f128"
+    },
+    {
+      "path": "LAB/r6/_genre_v3.json",
+      "bytes": 6171,
+      "sha256": "8d3da4ad4e1935871f3769c87fe77d223a01375d04eaf207d37597fe119fd534"
+    },
+    {
+      "path": "LAB/shift/_make.py",
+      "bytes": 790,
+      "sha256": "01eaaae06c79548cb9ec50a8d3696dea97da11529f4a3deaede87691e5efe0c2"
+    },
+    {
+      "path": "LAB/suno/_genre_suno.json",
+      "bytes": 1529,
+      "sha256": "0217da77522963e469d645a30c72f49321aee9897ba3ef1754bf440278f9fc88"
+    },
+    {
+      "path": "LAB/suno/_voz_meas.log",
+      "bytes": 1255,
+      "sha256": "36f03f46efbd6457b2d23606cdf79c8ac9388b14f7b41bf6210b80c700a3d799"
+    },
+    {
+      "path": "LAB/suno/anchors.json",
+      "bytes": 1358,
+      "sha256": "a9eb6f589d43927c0b6541a96c7522a97000a08eef2fb09f51e5fdece427463e"
+    },
+    {
+      "path": "LAB/suno/beat/_genre.json",
+      "bytes": 7008,
+      "sha256": "4b00518386432e7c479b37888bd25b6597d172e4cb77c986201d771548a7f6bc"
+    },
+    {
+      "path": "LAB/suno/beat/_loc.json",
+      "bytes": 3226,
+      "sha256": "e21e6af97893589211827a6dec649fbbd013c2b3d267dd226d1b9e55fa58d119"
+    },
+    {
+      "path": "LAB/suno/beat/_log.jsonl",
+      "bytes": 5433,
+      "sha256": "1eec5dd818ad59084b7be9d04166a4d14999cee97eea3395014fae70a3a6b3f3"
+    },
+    {
+      "path": "LAB/suno/beat/_post.log",
+      "bytes": 3033,
+      "sha256": "073f477cc404524487444cd7f9ccf9564512fc77b6e45be85bb86b59f8e42564"
+    },
+    {
+      "path": "LAB/suno/beat/LOC.md",
+      "bytes": 1468,
+      "sha256": "7335b54e221d4148db002392cd905b12e861b34488ab71bae6d376e808a2b880"
+    },
+    {
+      "path": "LAB/suno/beat/NHAT_KY.md",
+      "bytes": 4376,
+      "sha256": "169d190593eac54e98d2f06c27df94e59d31e6abf72f390cb4c6ce6d3d3d6a06"
+    },
+    {
+      "path": "LAB/suno/lyrics_cut.txt",
+      "bytes": 1091,
+      "sha256": "7685992e9aa90eb393a740e938cdb5dd07f1bd5dc6cda1845cc69fce753dd1cb"
+    },
+    {
+      "path": "LAB/suno/NP_orig_w.json",
+      "bytes": 9507,
+      "sha256": "26f43f36838ef736a0175c62b9c12bf447890e45020c0710ed40919fa395eb7a"
+    },
+    {
+      "path": "LAB/suno/SU_voc_es.json",
+      "bytes": 1235,
+      "sha256": "e3bc9898033f9cca82d0fbdd90466aef7ce05d715992e6ff18e1d56f5dfefe19"
+    },
+    {
+      "path": "LAB/suno/SU_voc_w.json",
+      "bytes": 16915,
+      "sha256": "87a0b100299086e4533e63252e724c84349799506abbb572fe36b07cb7e5745e"
+    },
+    {
+      "path": "LAB/v4/_genre_v4.json",
+      "bytes": 13895,
+      "sha256": "c823a8de5a5ce689e33b378e8a263726163efc9031eb611046f9cf343fc8687c"
+    },
+    {
+      "path": "LAB/v4/_genre_v4a.json",
+      "bytes": 2309,
+      "sha256": "26a7b3b3910c56c4d8d3b6d3b54ca3016e5b9357976513cfac2ec16e1a3b0e2a"
+    },
+    {
+      "path": "LAB/v4/_loc.json",
+      "bytes": 6116,
+      "sha256": "18fb998cc7e079eba498dda8bca85ebf993185ec7c7978725abeb072bfef702b"
+    },
+    {
+      "path": "LAB/v4/_log.jsonl",
+      "bytes": 10856,
+      "sha256": "382885e39a3dff03feeeeffb5a25b43867d1406e1c98207529da20ff2b23a690"
+    },
+    {
+      "path": "LAB/v4/_post.log",
+      "bytes": 4817,
+      "sha256": "cae00cebc094f3bf7deb06c4b2acc7f67a9ae73852bf1cc5e0155110e1790e22"
+    },
+    {
+      "path": "LAB/v4/_voz_meas.log",
+      "bytes": 1326,
+      "sha256": "86230fb72621dcc96af1447874884ad8cedae8a6a33ea2de23cc2daee4d78b42"
+    },
+    {
+      "path": "LAB/v4/aligned/v4_NP_am_s1.json",
+      "bytes": 407,
+      "sha256": "d2b819cf3ef7754db5f6ec8c3313a510e466cfbf5fba69188a7dd49017c07f57"
+    },
+    {
+      "path": "LAB/v4/aligned/v4_NP_am_s2.json",
+      "bytes": 398,
+      "sha256": "6beb2faae719b0be955352332990893d4b5c128c766143307f8c830232d427ee"
+    },
+    {
+      "path": "LAB/v4/aligned/v4_NP_am_s7.json",
+      "bytes": 398,
+      "sha256": "92e67b36213440c85d94f1495bd53774e69fbb8b5310b3d3d38eed3aa99386f1"
+    },
+    {
+      "path": "LAB/v4/aligned/v4_NP_cl_s1.json",
+      "bytes": 406,
+      "sha256": "154a23764e8ad06dc5faa2c72f18731b3b0a4a8ad12e640cdfc7f79ef86450ab"
+    },
+    {
+      "path": "LAB/v4/aligned/v4_NP_cl_s2.json",
+      "bytes": 402,
+      "sha256": "b2efcaa1388bb9cacd1cc5d7be0f38231958106170157e7466b3c8dd1bf1b39d"
+    },
+    {
+      "path": "LAB/v4/aligned/v4_NP_cl_s7.json",
+      "bytes": 403,
+      "sha256": "7f6a033faa017b93f3f7b008e63dcd636c1815ea20d3ef486b4cf43b58eeaf24"
+    },
+    {
+      "path": "LAB/v4/aligned/v4_PR_am_s1.json",
+      "bytes": 388,
+      "sha256": "bba33cc30e4a3b54118446f02fa5bf0e1339b1fa5909dd768fd27852eba5c11e"
+    },
+    {
+      "path": "LAB/v4/aligned/v4_PR_am_s2.json",
+      "bytes": 385,
+      "sha256": "29e4b670219183d4fde11be0182cc0711057b34c5e343a5c858b8f3c5130814a"
+    },
+    {
+      "path": "LAB/v4/aligned/v4_PR_am_s3.json",
+      "bytes": 386,
+      "sha256": "dfe07151c00b88bdd1d624336efa86499157898209dc2683279ca70344a41548"
+    },
+    {
+      "path": "LAB/v4/aligned/v4_PR_am_s4.json",
+      "bytes": 386,
+      "sha256": "542e1fb17785b53b70e4c11601b4732e127dcaa3f64101eb172b3a656933b5b3"
+    },
+    {
+      "path": "LAB/v4/aligned/v4_PR_am_s5.json",
+      "bytes": 393,
+      "sha256": "8f03d300a2881bca1082fef24e2764bd830b48a73926bd1be33f9de2c6082917"
+    },
+    {
+      "path": "LAB/v4/aligned/v4_PR_am_s7.json",
+      "bytes": 397,
+      "sha256": "e975dceb348e6c264eeae5e64f196bd93184eba6fad89aa4e39662040b6ae261"
+    },
+    {
+      "path": "LAB/v4/aligned/v4_PR_cl_s1.json",
+      "bytes": 394,
+      "sha256": "345802801a97ce153333c62f4a512cddb34bb4f6b99c7d64241aa823551795f9"
+    },
+    {
+      "path": "LAB/v4/aligned/v4_PR_cl_s2.json",
+      "bytes": 392,
+      "sha256": "f760fa636f339487eb7d2248bddc5456b9c209b5929c3a83c6106d8f92f7a487"
+    },
+    {
+      "path": "LAB/v4/aligned/v4_PR_cl_s3.json",
+      "bytes": 391,
+      "sha256": "12195fcf4324b464c61e505a5d05972d64ca673f24e42fa0a852f8a8b8b7f16e"
+    },
+    {
+      "path": "LAB/v4/aligned/v4_PR_cl_s4.json",
+      "bytes": 388,
+      "sha256": "762c673038712ca67badb504e22e9f831361f1a8f66a0d997a27471b11adbe93"
+    },
+    {
+      "path": "LAB/v4/aligned/v4_PR_cl_s5.json",
+      "bytes": 390,
+      "sha256": "4bef88056f27c3c1306c90fd8c8bb5fe66022377ab6aa50d25f016b3bb77ec68"
+    },
+    {
+      "path": "LAB/v4/aligned/v4_PR_cl_s7.json",
+      "bytes": 396,
+      "sha256": "41537ac727d27bc6be2256200117818e52139cb27531315a3069ed0236af6864"
+    },
+    {
+      "path": "LAB/v4/LOC.md",
+      "bytes": 2235,
+      "sha256": "808cf639204a4520316476d8b4fe0f1ff2be4f25e21cba99d483609300d119a5"
+    },
+    {
+      "path": "LAB/v4/NHAT_KY.md",
+      "bytes": 8937,
+      "sha256": "733dd8d8c81e58c3cc12b347bcea2e43763bd87e3d44e034ec9d821ef1481d1b"
+    },
+    {
+      "path": "MAPPING.md",
+      "bytes": 7642,
+      "sha256": "5a0498691503043c480cfceb507ff9375a25ab3dc312497d5658dfdc5cd0b889"
+    },
+    {
+      "path": "MAPPING_BEAT_V4.md",
+      "bytes": 5983,
+      "sha256": "6092cade95e48fccbfdc3c0a21d03d7892d247b18fd49bf1c3cc2db4f35a4eb3"
+    },
+    {
+      "path": "NGHE/no_pude/LISTEN.md",
+      "bytes": 1058,
+      "sha256": "6f1efdd41c820a956e3caaba7abc9cf4228d1f39f3972aba6849f0669f273970"
+    },
+    {
+      "path": "NGHE/no_pude/nghe.lof",
+      "bytes": 396,
+      "sha256": "c9bdc91b61bb7488d70985a59121d2d6120ae5742fd8ae7c3eb4a0791ce56a8d"
+    },
+    {
+      "path": "NGHE/prision/LISTEN.md",
+      "bytes": 782,
+      "sha256": "994741fa264f3609790b3a9f8822293c697f697d14d7a77fc804047da59f980f"
+    },
+    {
+      "path": "NGHE/prision/nghe.lof",
+      "bytes": 396,
+      "sha256": "83333ca2450bd68262316affc047a61ff8f501e5600708d2a74997823fadaf30"
+    },
+    {
+      "path": "NGHE/suno_test/1_nghe_ca_bai/nghe.lof",
+      "bytes": 133,
+      "sha256": "15b24b94b0c8e6168d190ffbf61785c30688c6eae6e05471ca6171c22bfca681"
+    },
+    {
+      "path": "NGHE/suno_test/2_nghe_chi_beat/nghe.lof",
+      "bytes": 72,
+      "sha256": "a010f74e5ab2af552a4300bb35cc2727975672c8ab64c629bda6f86d9b90dcbf"
+    },
+    {
+      "path": "NGHE/suno_test/3_them_giong_khac/nghe.lof",
+      "bytes": 78,
+      "sha256": "5317f45d445ee249ff7c7b89db1521d92fd7df9220266f0526228cbc8c5c5077"
+    },
+    {
+      "path": "NGHE/suno_test/LISTEN.md",
+      "bytes": 1504,
+      "sha256": "f8b79e83b0383002a88a2fc40387aa04e072e0d92c7224842a0572d812c48901"
+    },
+    {
+      "path": "NGHE/vong3/no_pude/LISTEN.md",
+      "bytes": 1122,
+      "sha256": "63ceeed12c617c058ffc5c79356c2f51bf53b760354fd8b12aeef87483c20cc3"
+    },
+    {
+      "path": "NGHE/vong3/no_pude/nghe.lof",
+      "bytes": 558,
+      "sha256": "0fcc3c36d3916aebe4870ab69cc45fa3f0f43417f37140f9505422cb07689f0a"
+    },
+    {
+      "path": "NGHE/vong3/prision/LISTEN.md",
+      "bytes": 1122,
+      "sha256": "63ceeed12c617c058ffc5c79356c2f51bf53b760354fd8b12aeef87483c20cc3"
+    },
+    {
+      "path": "NGHE/vong3/prision/nghe.lof",
+      "bytes": 558,
+      "sha256": "e93ce2d2efff7af15e19e4d034e5178e71d7204a655d650514108064e8df461c"
+    },
+    {
+      "path": "NGHE/vong4/LISTEN.md",
+      "bytes": 3025,
+      "sha256": "2a4470cff2c85fcdec911d5a3116e436ba62d8495d7c6220fd26d89d19a4edf3"
+    },
+    {
+      "path": "NGHE/vong4/no_pude/1_nghe_beat/nghe.lof",
+      "bytes": 80,
+      "sha256": "fe021ee1284a3301fa2c63b7f5d3e6143a8b28faf56dc07159a9dda4d9cf01e8"
+    },
+    {
+      "path": "NGHE/vong4/no_pude/2_nghe_ca_bai/nghe.lof",
+      "bytes": 86,
+      "sha256": "fc9d1ef76ba79ea924a815830118f9b2a9ca776ca4ce01b76de3175f4dc3e965"
+    },
+    {
+      "path": "NGHE/vong4/prision/1_nghe_beat/nghe.lof",
+      "bytes": 80,
+      "sha256": "fe021ee1284a3301fa2c63b7f5d3e6143a8b28faf56dc07159a9dda4d9cf01e8"
+    },
+    {
+      "path": "NGHE/vong4/prision/2_nghe_ca_bai/nghe.lof",
+      "bytes": 86,
+      "sha256": "fc9d1ef76ba79ea924a815830118f9b2a9ca776ca4ce01b76de3175f4dc3e965"
+    },
+    {
+      "path": "PHAN_TICH_SUNO.md",
+      "bytes": 5098,
+      "sha256": "b37ef55bf937d92094f8742f661d5200eb8bfb3beb4e6a88a6293963686e0894"
+    }
+  ]
+}

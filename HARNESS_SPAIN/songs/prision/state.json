@@ -1,0 +1,92 @@
+{
+ "stage": "done",
+ "status": {
+  "intake": "passed",
+  "abc": "passed",
+  "beat_render": "passed",
+  "beat_gate": "passed",
+  "HG1": "passed",
+  "finalize_beat": "passed",
+  "vocal_render": "passed",
+  "vocal_gate": "passed",
+  "mix": "passed",
+  "pack": "passed",
+  "HG2": "passed",
+  "memory": "passed"
+ },
+ "attempts": {
+  "intake": 1,
+  "abc": 1,
+  "beat_render": 1,
+  "beat_gate": 1,
+  "finalize_beat": 1,
+  "vocal_render": 1,
+  "vocal_gate": 1,
+  "mix": 1,
+  "pack": 1,
+  "memory": 1
+ },
+ "round_beat": 0,
+ "round_vocal": 0,
+ "pick_beat": "b1_am_s7",
+ "human": {
+  "HG1": {
+   "verdict": "pass",
+   "pick": "b1_am_s7",
+   "note": "Duy: i1_am_s22, i1_am_s23, i1_am_s21 và b1_am_s7 là 3-4 bản hoàn hảo nhất (đều, mượt). b1_cl_s7 cũng ok nhưng có sạn nhỏ ở đoạn tiến đàn sax, chưa đều mượt bằng. Duyệt phần beat.",
+   "at": "2026-10-08 08:52"
+  },
+  "HG2": {
+   "verdict": "pass",
+   "pick": "1_giong_v1_B_s42",
+   "note": "Duy: giọng nghe rõ, giọng hay, beat hay. Content ID chỉ dính MELODY (chấp nhận). Lỗi nhỏ: đoạn VÀO NHẠC hơi không khớp beat, có thể do beat hơi to.",
+   "at": "2026-10-08 09:20"
+  }
+ },
+ "history": [
+  "2026-10-07 18:12:03 init",
+  "2026-10-07 18:12:27 intake đạt: đạt",
+  "2026-10-07 18:13:16 abc lỗi: list indices must be integers or slices, not float",
+  "2026-10-07 18:13:24 abc lỗi: list indices must be integers or slices, not float",
+  "2026-10-07 18:13:32 abc lỗi: list indices must be integers or slices, not float",
+  "2026-10-07 18:13:39 abc lỗi: list indices must be integers or slices, not float",
+  "2026-10-07 18:14:19 unblock abc: sửa lỗi mã: semitone là số thực làm chỉ số danh sách (stages.abc)",
+  "2026-10-07 18:14:28 abc đạt: đạt",
+  "2026-10-07 18:30:46 beat_render xong",
+  "2026-10-07 18:34:00 beat_gate đạt: 2/9 bản đạt. b1_cl_s7: ĐẠT; b1_am_s7: ĐẠT; b1_cl_s2: loại (lock_iqr_ms,beat_skips); b1_su_s2: loại (beat_skips); b1_su_s1: loại (beat_skips); b1_su_s7: loại (accordion_pct,beat_skips); b1_am_s2: loại ",
+  "2026-10-07 18:40:15 vòng dạo đầu 1 seeds (21, 22, 23, 24)",
+  "2026-10-08 08:52:38 HG1 pass b1_am_s7",
+  "2026-10-08 08:52:51 finalize_beat xong",
+  "2026-10-08 08:55:07 vocal_render xong",
+  "2026-10-08 08:58:27 vocal_gate đạt: 2/4 bản đạt. prision_v1_B_s42: ĐẠT; prision_v1_B_s7: ĐẠT; prision_v1_A_s42: loại (wer); prision_v1_A_s7: loại (wer)",
+  "2026-10-08 08:58:58 mix đạt: 2/2 bản đạt. final_b1_am_s7+i1_am_s22__prision_v1_B_s7: ĐẠT; final_b1_am_s7+i1_am_s22__prision_v1_B_s42: ĐẠT",
+  "2026-10-08 08:59:15 pack xong",
+  "2026-10-08 09:20:59 HG2 pass 1_giong_v1_B_s42",
+  "2026-10-08 09:20:59 memory xong"
+ ],
+ "intro_round": 1,
+ "pick_intro": "i1_am_s22",
+ "final_beat": "final/b1_am_s7+i1_am_s22",
+ "join": {
+  "ok": true,
+  "a_ms": 76,
+  "b_pct": -0.98,
+  "n": 12,
+  "lech_truoc_ms": [
+   23,
+   17,
+   0,
+   -23,
+   -64,
+   -116
+  ],
+  "lech_sau_ms": [
+   586,
+   -5,
+   11,
+   -586,
+   5,
+   -5
+  ]
+ }
+}

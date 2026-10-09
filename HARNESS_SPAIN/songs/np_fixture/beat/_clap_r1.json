@@ -1,0 +1,242 @@
+{
+ "C:\\Users\\PC\\Downloads\\project music\\project spain\\HARNESS_SPAIN\\songs\\np_fixture\\beat\\r1\\b1_am_s1.flac": {
+  "instr": {
+   "accordion": 97.9,
+   "sax": 2.0,
+   "trumpets": 0.1,
+   "tuba_brass": 0.0,
+   "drum_kit": 0.0,
+   "piano": 0.0,
+   "requinto": 0.0,
+   "elec_guitar": 0.0,
+   "elec_bass": 0.0,
+   "ac_guitar": 0.0,
+   "voice_duet": 0.0,
+   "synth": 0.0,
+   "bajo_sexto": 0.0,
+   "upright_bass": 0.0,
+   "violin": 0.0,
+   "voice_male": 0.0
+  },
+  "style": {
+   "rock": 82.1,
+   "norteno": 15.3,
+   "pop_ballad": 2.5,
+   "polka": 0.0,
+   "banda": 0.0,
+   "mariachi": 0.0,
+   "sierreno": 0.0,
+   "waltz": 0.0,
+   "bolero": 0.0,
+   "cumbia": 0.0,
+   "ranchera": 0.0,
+   "corrido": 0.0
+  },
+  "bpm": 95.7,
+  "accent_period_corr": {
+   "2": 0.521,
+   "3": -0.134,
+   "4": 0.378
+  }
+ },
+ "C:\\Users\\PC\\Downloads\\project music\\project spain\\HARNESS_SPAIN\\songs\\np_fixture\\beat\\r1\\b1_am_s2.flac": {
+  "instr": {
+   "accordion": 74.0,
+   "trumpets": 19.0,
+   "sax": 6.9,
+   "requinto": 0.1,
+   "tuba_brass": 0.0,
+   "drum_kit": 0.0,
+   "bajo_sexto": 0.0,
+   "ac_guitar": 0.0,
+   "elec_guitar": 0.0,
+   "piano": 0.0,
+   "synth": 0.0,
+   "voice_duet": 0.0,
+   "elec_bass": 0.0,
+   "upright_bass": 0.0,
+   "violin": 0.0,
+   "voice_male": 0.0
+  },
+  "style": {
+   "rock": 66.2,
+   "norteno": 29.3,
+   "banda": 4.3,
+   "polka": 0.2,
+   "pop_ballad": 0.0,
+   "sierreno": 0.0,
+   "mariachi": 0.0,
+   "waltz": 0.0,
+   "bolero": 0.0,
+   "cumbia": 0.0,
+   "ranchera": 0.0,
+   "corrido": 0.0
+  },
+  "bpm": 95.7,
+  "accent_period_corr": {
+   "2": 0.368,
+   "3": 0.162,
+   "4": 0.375
+  }
+ },
+ "C:\\Users\\PC\\Downloads\\project music\\project spain\\HARNESS_SPAIN\\songs\\np_fixture\\beat\\r1\\b1_am_s7.flac": {
+  "instr": {
+   "accordion": 56.6,
+   "sax": 24.0,
+   "trumpets": 19.4,
+   "tuba_brass": 0.0,
+   "requinto": 0.0,
+   "drum_kit": 0.0,
+   "piano": 0.0,
+   "elec_guitar": 0.0,
+   "voice_duet": 0.0,
+   "bajo_sexto": 0.0,
+   "synth": 0.0,
+   "ac_guitar": 0.0,
+   "elec_bass": 0.0,
+   "violin": 0.0,
+   "upright_bass": 0.0,
+   "voice_male": 0.0
+  },
+  "style": {
+   "rock": 83.3,
+   "banda": 8.8,
+   "norteno": 7.4,
+   "polka": 0.4,
+   "pop_ballad": 0.0,
+   "mariachi": 0.0,
+   "sierreno": 0.0,
+   "waltz": 0.0,
+   "cumbia": 0.0,
+   "bolero": 0.0,
+   "ranchera": 0.0,
+   "corrido": 0.0
+  },
+  "bpm": 95.7,
+  "accent_period_corr": {
+   "2": 0.362,
+   "3": 0.039,
+   "4": 0.244
+  }
+ },
+ "C:\\Users\\PC\\Downloads\\project music\\project spain\\HARNESS_SPAIN\\songs\\np_fixture\\beat\\r1\\b1_cl_s1.flac": {
+  "instr": {
+   "accordion": 80.9,
+   "sax": 8.7,
+   "requinto": 7.0,
+   "trumpets": 2.7,
+   "elec_guitar": 0.4,
+   "tuba_brass": 0.2,
+   "elec_bass": 0.1,
+   "drum_kit": 0.0,
+   "ac_guitar": 0.0,
+   "bajo_sexto": 0.0,
+   "piano": 0.0,
+   "synth": 0.0,
+   "upright_bass": 0.0,
+   "violin": 0.0,
+   "voice_duet": 0.0,
+   "voice_male": 0.0
+  },
+  "style": {
+   "rock": 92.6,
+   "banda": 4.5,
+   "norteno": 2.6,
+   "polka": 0.2,
+   "mariachi": 0.0,
+   "sierreno": 0.0,
+   "pop_ballad": 0.0,
+   "waltz": 0.0,
+   "bolero": 0.0,
+   "cumbia": 0.0,
+   "ranchera": 0.0,
+   "corrido": 0.0
+  },
+  "bpm": 95.7,
+  "accent_period_corr": {
+   "2": 0.224,
+   "3": -0.008,
+   "4": -0.06
+  }
+ },
+ "C:\\Users\\PC\\Downloads\\project music\\project spain\\HARNESS_SPAIN\\songs\\np_fixture\\beat\\r1\\b1_cl_s2.flac": {
+  "instr": {
+   "accordion": 79.8,
+   "requinto": 11.8,
+   "sax": 7.3,
+   "bajo_sexto": 0.7,
+   "trumpets": 0.4,
+   "tuba_brass": 0.1,
+   "ac_guitar": 0.0,
+   "drum_kit": 0.0,
+   "elec_guitar": 0.0,
+   "voice_duet": 0.0,
+   "piano": 0.0,
+   "upright_bass": 0.0,
+   "synth": 0.0,
+   "elec_bass": 0.0,
+   "violin": 0.0,
+   "voice_male": 0.0
+  },
+  "style": {
+   "norteno": 51.6,
+   "rock": 43.1,
+   "sierreno": 4.3,
+   "banda": 0.9,
+   "pop_ballad": 0.0,
+   "polka": 0.0,
+   "mariachi": 0.0,
+   "bolero": 0.0,
+   "waltz": 0.0,
+   "cumbia": 0.0,
+   "ranchera": 0.0,
+   "corrido": 0.0
+  },
+  "bpm": 95.7,
+  "accent_period_corr": {
+   "2": 0.235,
+   "3": 0.134,
+   "4": 0.219
+  }
+ },
+ "C:\\Users\\PC\\Downloads\\project music\\project spain\\HARNESS_SPAIN\\songs\\np_fixture\\beat\\r1\\b1_cl_s7.flac": {
+  "instr": {
+   "accordion": 85.3,
+   "sax": 7.3,
+   "trumpets": 6.5,
+   "tuba_brass": 0.5,
+   "drum_kit": 0.3,
+   "piano": 0.0,
+   "synth": 0.0,
+   "requinto": 0.0,
+   "elec_guitar": 0.0,
+   "elec_bass": 0.0,
+   "ac_guitar": 0.0,
+   "violin": 0.0,
+   "bajo_sexto": 0.0,
+   "voice_duet": 0.0,
+   "upright_bass": 0.0,
+   "voice_male": 0.0
+  },
+  "style": {
+   "rock": 92.7,
+   "norteno": 7.3,
+   "banda": 0.0,
+   "pop_ballad": 0.0,
+   "polka": 0.0,
+   "sierreno": 0.0,
+   "mariachi": 0.0,
+   "waltz": 0.0,
+   "bolero": 0.0,
+   "cumbia": 0.0,
+   "ranchera": 0.0,
+   "corrido": 0.0
+  },
+  "bpm": 95.7,
+  "accent_period_corr": {
+   "2": 0.268,
+   "3": 0.259,
+   "4": 0.304
+  }
+ }
+}

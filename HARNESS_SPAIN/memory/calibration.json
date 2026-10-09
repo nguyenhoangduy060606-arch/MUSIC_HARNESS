@@ -1,0 +1,417 @@
+[
+ {
+  "date": "2026-10-07",
+  "song": "no_pude",
+  "gate": "HG1(vòng 4, Duy nghe)",
+  "verdict": "fail",
+  "pick": null,
+  "redo": null,
+  "note": "Duy: cả 3 bản beat vòng 4 đánh lỗi ở dạo đầu (không nói rõ lỗi gì).",
+  "rows": [
+   {
+    "name": "v4_NP_cl_s7",
+    "metrics": {
+     "intro_chroma": 0.8,
+     "intro_onset": 0.38,
+     "intro_note_lcs": 0.73,
+     "intro_first_onset_dev_s": "0.2-0.4",
+     "accordion_pct": 85.3,
+     "sim_orig_max": 0.55
+    }
+   },
+   {
+    "name": "v4_NP_am_s1",
+    "metrics": {
+     "intro_chroma": 0.85,
+     "intro_onset": 0.34,
+     "intro_note_lcs": 0.78,
+     "accordion_pct": 97.9,
+     "sim_orig_max": 0.54
+    }
+   },
+   {
+    "name": "v4_NP_am_s2",
+    "metrics": {
+     "intro_chroma": 0.82,
+     "intro_onset": 0.34,
+     "intro_note_lcs": 0.82,
+     "accordion_pct": 74.0,
+     "sim_orig_max": 0.54
+    }
+   }
+  ],
+  "_use": "Nhóm 'Duy chê intro'."
+ },
+ {
+  "date": "2026-10-07",
+  "song": "no_pude",
+  "gate": "HG1(bản kiểu Suno)",
+  "verdict": "pass",
+  "pick": "beat ta kiểu Suno (cl_s2 / su_s7 / am_s1)",
+  "redo": null,
+  "note": "Duy: beat bạn đánh cover lại theo Suno khá hay; xếp là bản phụ.",
+  "rows": [
+   {
+    "name": "su_cl_s2",
+    "metrics": {
+     "intro_chroma": 0.86,
+     "intro_onset": 0.35,
+     "intro_note_lcs": 0.75,
+     "accordion_pct": 81.7
+    }
+   },
+   {
+    "name": "su_su_s7",
+    "metrics": {
+     "intro_chroma": 0.79,
+     "intro_onset": 0.37,
+     "intro_note_lcs": 0.65,
+     "accordion_pct": 50.5
+    }
+   },
+   {
+    "name": "su_am_s1",
+    "metrics": {
+     "intro_chroma": 0.83,
+     "intro_onset": 0.41,
+     "intro_note_lcs": 0.73,
+     "accordion_pct": 97.5
+    }
+   }
+  ],
+  "_use": "Nhóm 'Duy khen'. So với nhóm chê: số intro không tách được (R8)."
+ },
+ {
+  "date": "2026-10-07",
+  "song": "no_pude+prision",
+  "gate": "vòng 3 → bên yêu cầu",
+  "verdict": "fail",
+  "pick": null,
+  "redo": null,
+  "note": "Bên yêu cầu: rè nhẹ (nghi riêng bản 3_len_nua_cung_sierreno); muốn có accordion; giọng mượt hơn. Duy: nhạc phối 'bắt tai, tạm được'.",
+  "rows": [],
+  "_use": "Nguồn của cổng floor_db, accordion_pct, near_peak_pct."
+ },
+ {
+  "date": "2026-10-08 08:52",
+  "song": "prision",
+  "gate": "HG1",
+  "verdict": "pass",
+  "pick": "b1_am_s7",
+  "intro": null,
+  "redo": null,
+  "note": "Duy: i1_am_s22, i1_am_s23, i1_am_s21 và b1_am_s7 là 3-4 bản hoàn hảo nhất (đều, mượt). b1_cl_s7 cũng ok nhưng có sạn nhỏ ở đoạn tiến đàn sax, chưa đều mượt bằng. Duyệt phần beat.",
+  "rows": [
+   {
+    "name": "b1_cl_s7",
+    "passed": true,
+    "metrics": {
+     "voice_pct": 0.0,
+     "accordion_pct": 91.7,
+     "sax_pct": 8.2,
+     "lock_corr": 0.58,
+     "lock_iqr_ms": 23,
+     "skips": 2,
+     "start_lag_ms": 5,
+     "start_corr": 0.465,
+     "sims": {
+      "loi1": 0.6,
+      "giua": 0.6,
+      "loi2": 0.61
+     },
+     "sim_orig_max": 0.61,
+     "dur_ratio": 0.995,
+     "flat_hf": 0.716,
+     "flat_hf_ref": 0.619,
+     "intro_chroma": 0.709,
+     "intro_onset": 0.371,
+     "intro_first_onset_dev_s": 0.081,
+     "first_onset_beat_s": 0.301859410430839,
+     "first_onset_ref_s": 0.22058956916099773
+    }
+   },
+   {
+    "name": "b1_am_s7",
+    "passed": true,
+    "metrics": {
+     "voice_pct": 0.0,
+     "accordion_pct": 56.8,
+     "sax_pct": 11.6,
+     "lock_corr": 0.62,
+     "lock_iqr_ms": 23,
+     "skips": 1,
+     "start_lag_ms": 5,
+     "start_corr": 0.597,
+     "sims": {
+      "loi1": 0.55,
+      "giua": 0.56,
+      "loi2": 0.52
+     },
+     "sim_orig_max": 0.56,
+     "dur_ratio": 0.994,
+     "flat_hf": 0.623,
+     "flat_hf_ref": 0.619,
+     "intro_chroma": 0.858,
+     "intro_onset": 0.62,
+     "intro_first_onset_dev_s": 0.023,
+     "first_onset_beat_s": 0.2438095238095238,
+     "first_onset_ref_s": 0.22058956916099773
+    }
+   },
+   {
+    "name": "b1_cl_s2",
+    "passed": false,
+    "metrics": {
+     "voice_pct": 0.0,
+     "accordion_pct": 87.0,
+     "sax_pct": 7.3,
+     "lock_corr": 0.58,
+     "lock_iqr_ms": 557,
+     "skips": 5,
+     "start_lag_ms": 0,
+     "start_corr": 0.401,
+     "sims": {
+      "loi1": 0.48,
+      "giua": 0.49,
+      "loi2": 0.48
+     },
+     "sim_orig_max": 0.49,
+     "dur_ratio": 0.996,
+     "flat_hf": 0.65,
+     "flat_hf_ref": 0.619,
+     "intro_chroma": 0.665,
+     "intro_onset": 0.627,
+     "intro_first_onset_dev_s": 0.163,
+     "first_onset_beat_s": 0.058049886621315196,
+     "first_onset_ref_s": 0.22058956916099773
+    }
+   },
+   {
+    "name": "b1_su_s2",
+    "passed": false,
+    "metrics": {
+     "voice_pct": 0.0,
+     "accordion_pct": 40.0,
+     "sax_pct": 23.8,
+     "lock_corr": 0.64,
+     "lock_iqr_ms": 23,
+     "skips": 3,
+     "start_lag_ms": 11,
+     "start_corr": 0.276,
+     "sims": {
+      "loi1": 0.57,
+      "giua": 0.55,
+      "loi2": 0.62
+     },
+     "sim_orig_max": 0.62,
+     "dur_ratio": 0.996,
+     "flat_hf": 0.733,
+     "flat_hf_ref": 0.619,
+     "intro_chroma": 0.881,
+     "intro_onset": 0.548,
+     "intro_first_onset_dev_s": 0.046,
+     "first_onset_beat_s": 0.17414965986394557,
+     "first_onset_ref_s": 0.22058956916099773
+    }
+   },
+   {
+    "name": "b1_su_s1",
+    "passed": false,
+    "metrics": {
+     "voice_pct": 0.0,
+     "accordion_pct": 91.7,
+     "sax_pct": 8.3,
+     "lock_corr": 0.57,
+     "lock_iqr_ms": 23,
+     "skips": 9,
+     "start_lag_ms": 0,
+     "start_corr": 0.621,
+     "sims": {
+      "loi1": 0.53,
+      "giua": 0.53,
+      "loi2": 0.55
+     },
+     "sim_orig_max": 0.55,
+     "dur_ratio": 0.987,
+     "flat_hf": 0.69,
+     "flat_hf_ref": 0.619,
+     "intro_chroma": 0.876,
+     "intro_onset": 0.679,
+     "intro_first_onset_dev_s": 0.012,
+     "first_onset_beat_s": 0.23219954648526078,
+     "first_onset_ref_s": 0.22058956916099773
+    }
+   },
+   {
+    "name": "b1_su_s7",
+    "passed": false,
+    "metrics": {
+     "voice_pct": 0.0,
+     "accordion_pct": 21.5,
+     "sax_pct": 76.8,
+     "lock_corr": 0.62,
+     "lock_iqr_ms": 23,
+     "skips": 3,
+     "start_lag_ms": 290,
+     "start_corr": 0.269,
+     "sims": {
+      "loi1": 0.59,
+      "giua": 0.55,
+      "loi2": 0.58
+     },
+     "sim_orig_max": 0.59,
+     "dur_ratio": 0.99,
+     "flat_hf": 0.73,
+     "flat_hf_ref": 0.619,
+     "intro_chroma": 0.735,
+     "intro_onset": 0.612,
+     "intro_first_onset_dev_s": 0.128,
+     "first_onset_beat_s": 0.09287981859410431,
+     "first_onset_ref_s": 0.22058956916099773
+    }
+   },
+   {
+    "name": "b1_am_s2",
+    "passed": false,
+    "metrics": {
+     "voice_pct": 0.0,
+     "accordion_pct": 66.4,
+     "sax_pct": 25.7,
+     "lock_corr": 0.63,
+     "lock_iqr_ms": 46,
+     "skips": 8,
+     "start_lag_ms": 597,
+     "start_corr": 0.34,
+     "sims": {
+      "loi1": 0.62,
+      "giua": 0.63,
+      "loi2": 0.57
+     },
+     "sim_orig_max": 0.63,
+     "dur_ratio": 0.996,
+     "flat_hf": 0.567,
+     "flat_hf_ref": 0.619,
+     "intro_chroma": 0.879,
+     "intro_onset": 0.769,
+     "intro_first_onset_dev_s": 0.046,
+     "first_onset_beat_s": 0.17414965986394557,
+     "first_onset_ref_s": 0.22058956916099773
+    }
+   },
+   {
+    "name": "b1_cl_s1",
+    "passed": false,
+    "metrics": {
+     "voice_pct": 0.0,
+     "accordion_pct": 13.0,
+     "sax_pct": 84.7,
+     "lock_corr": 0.59,
+     "lock_iqr_ms": 23,
+     "skips": 14,
+     "start_lag_ms": 603,
+     "start_corr": 0.508,
+     "sims": {
+      "loi1": 0.63,
+      "giua": 0.63,
+      "loi2": 0.64
+     },
+     "sim_orig_max": 0.64,
+     "dur_ratio": 0.999,
+     "flat_hf": 0.625,
+     "flat_hf_ref": 0.619,
+     "intro_chroma": 0.627,
+     "intro_onset": 0.329,
+     "intro_first_onset_dev_s": 0.151,
+     "first_onset_beat_s": 0.37151927437641724,
+     "first_onset_ref_s": 0.22058956916099773
+    }
+   },
+   {
+    "name": "b1_am_s1",
+    "passed": false,
+    "metrics": {
+     "voice_pct": 7.4,
+     "accordion_pct": 19.1,
+     "sax_pct": 35.0,
+     "lock_corr": 0.63,
+     "lock_iqr_ms": 23,
+     "skips": 28,
+     "start_lag_ms": 11,
+     "start_corr": 0.549,
+     "sims": {
+      "loi1": 0.6,
+      "giua": 0.6,
+      "loi2": 0.54
+     },
+     "sim_orig_max": 0.6,
+     "dur_ratio": 0.932,
+     "flat_hf": 0.655,
+     "flat_hf_ref": 0.619,
+     "intro_chroma": 0.906,
+     "intro_onset": 0.497,
+     "intro_first_onset_dev_s": 0.035,
+     "first_onset_beat_s": 0.25541950113378686,
+     "first_onset_ref_s": 0.22058956916099773
+    }
+   }
+  ],
+  "_use": "Đối chiếu số đo với tai Duy: cổng 'provisional' chỉ được nâng thành 'hard' khi tách được bản Duy khen/chê (R8)."
+ },
+ {
+  "date": "2026-10-08 09:20",
+  "song": "prision",
+  "gate": "HG2",
+  "verdict": "pass",
+  "pick": "1_giong_v1_B_s42",
+  "intro": "i1_am_s22",
+  "redo": null,
+  "note": "Duy: giọng nghe rõ, giọng hay, beat hay. Content ID chỉ dính MELODY (chấp nhận). Lỗi nhỏ: đoạn VÀO NHẠC hơi không khớp beat, có thể do beat hơi to.",
+  "rows": [
+   {
+    "name": "prision_v1_B_s42",
+    "passed": true,
+    "metrics": {
+     "floor_db": -71.2,
+     "lag_ms": 0,
+     "notes_pct": 79.0,
+     "spk_sim": 0.887,
+     "wer": 0.25
+    }
+   },
+   {
+    "name": "prision_v1_B_s7",
+    "passed": true,
+    "metrics": {
+     "floor_db": -70.2,
+     "lag_ms": 5,
+     "notes_pct": 80.5,
+     "spk_sim": 0.89,
+     "wer": 0.43
+    }
+   },
+   {
+    "name": "prision_v1_A_s42",
+    "passed": false,
+    "metrics": {
+     "floor_db": -71.2,
+     "lag_ms": 0,
+     "notes_pct": 79.3,
+     "spk_sim": 0.891,
+     "wer": 0.59
+    }
+   },
+   {
+    "name": "prision_v1_A_s7",
+    "passed": false,
+    "metrics": {
+     "floor_db": -70.2,
+     "lag_ms": 0,
+     "notes_pct": 80.6,
+     "spk_sim": 0.893,
+     "wer": 2.74
+    }
+   }
+  ],
+  "_use": "Đối chiếu số đo với tai Duy: cổng 'provisional' chỉ được nâng thành 'hard' khi tách được bản Duy khen/chê (R8)."
+ }
+]

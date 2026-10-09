@@ -1,0 +1,26 @@
+[21:20:34] === VÒNG MỚI: 6 bản (_jobs_r1.json). Mỗi bản ~4-5 phút, chạy lần lượt từng bản trên lab ===
+[21:20:34] [1/6] BẮT ĐẦU NP_r1_goc_s2: norteño cung gốc, seed 2 | seed 2 | dài 217 s | nốt: es_no_pude_full.abc
+[21:20:34]     -> ComfyUI: 1) nạp model YuE2  2) YuE2 viết nhạc theo nốt ABC (lâu nhất)  3) KSampler 32 bước tô âm thanh  4) giải mã + lưu FLAC
+[21:22:59]     XONG NP_r1_goc_s2 sau 123 s | giọng hát 54% (CÓ GIỌNG, loại) | giữ giai điệu 0.548 (mức của bản nốt so với bản gốc = 0.488) | máy nghe ra: voice 53%, brass 16%, flute 13%
+{"file": "NP_r1_goc_s2__giong54.flac", "voice_pct": 54, "top": [["voice", 0.527], ["brass", 0.156], ["flute", 0.126], ["lute", 0.035], ["frame_drum", 0.03]]}
+[21:22:59] [2/6] BẮT ĐẦU NP_r1_goc_be_s1: norteño + bè thứ hai + accordion dạo | seed 1406623896 | dài 217 s | nốt: es_no_pude_full.abc
+[21:22:59]     -> ComfyUI: 1) nạp model YuE2  2) YuE2 viết nhạc theo nốt ABC (lâu nhất)  3) KSampler 32 bước tô âm thanh  4) giải mã + lưu FLAC
+[21:25:21]     XONG NP_r1_goc_be_s1 sau 120 s | giọng hát 40% (CÓ GIỌNG, loại) | giữ giai điệu 0.57 (mức của bản nốt so với bản gốc = 0.488) | máy nghe ra: voice 39%, brass 37%, flute 7%
+{"file": "NP_r1_goc_be_s1__giong40.flac", "voice_pct": 40, "top": [["voice", 0.387], ["brass", 0.368], ["flute", 0.066], ["violin_fiddle", 0.034], ["bass", 0.03]]}
+[21:25:21] [3/6] BẮT ĐẦU NP_r1_hacung_s1: hạ 1 cung Ab, GIỮ tốc độ | seed 1406623896 | dài 217 s | nốt: es_no_pude_full_hacung_Ab.abc
+[21:25:21]     -> ComfyUI: 1) nạp model YuE2  2) YuE2 viết nhạc theo nốt ABC (lâu nhất)  3) KSampler 32 bước tô âm thanh  4) giải mã + lưu FLAC
+[21:27:48]     XONG NP_r1_hacung_s1 sau 129 s | giọng hát 54% (CÓ GIỌNG, loại) | giữ giai điệu 0.487 (mức của bản nốt so với bản gốc = 0.169) | máy nghe ra: voice 53%, brass 19%, flute 10%
+{"file": "NP_r1_hacung_s1__giong54.flac", "voice_pct": 54, "top": [["voice", 0.529], ["brass", 0.193], ["flute", 0.104], ["violin_fiddle", 0.038], ["bass", 0.032]]}
+[21:27:48] [4/6] BẮT ĐẦU PR_r1_goc_s2: norteño cung gốc, seed 2 | seed 2 | dài 190 s | nốt: es_prision_full.abc
+[21:27:48]     -> ComfyUI: 1) nạp model YuE2  2) YuE2 viết nhạc theo nốt ABC (lâu nhất)  3) KSampler 32 bước tô âm thanh  4) giải mã + lưu FLAC
+[21:29:50]     XONG PR_r1_goc_s2 sau 104 s | giọng hát 40% (CÓ GIỌNG, loại) | giữ giai điệu 0.701 (mức của bản nốt so với bản gốc = 0.58) | máy nghe ra: voice 39%, brass 18%, flute 11%
+{"file": "PR_r1_goc_s2__giong40.flac", "voice_pct": 40, "top": [["voice", 0.394], ["brass", 0.179], ["flute", 0.107], ["bass", 0.057], ["lute", 0.047]]}
+[21:29:50] [5/6] BẮT ĐẦU PR_r1_goc_be_s1: norteño + bè thứ hai + accordion dạo | seed 1406623896 | dài 190 s | nốt: es_prision_full.abc
+[21:29:50]     -> ComfyUI: 1) nạp model YuE2  2) YuE2 viết nhạc theo nốt ABC (lâu nhất)  3) KSampler 32 bước tô âm thanh  4) giải mã + lưu FLAC
+[21:31:56]     XONG PR_r1_goc_be_s1 sau 108 s | giọng hát 20% (CÓ GIỌNG, loại) | giữ giai điệu 0.677 (mức của bản nốt so với bản gốc = 0.58) | máy nghe ra: brass 52%, voice 20%, frame_drum 8%
+{"file": "PR_r1_goc_be_s1__giong20.flac", "voice_pct": 20, "top": [["brass", 0.524], ["voice", 0.195], ["frame_drum", 0.078], ["flute", 0.053], ["bass", 0.037]]}
+[21:31:56] [6/6] BẮT ĐẦU PR_r1_hacung_s1: hạ 1 cung Gb, GIỮ tốc độ | seed 1406623896 | dài 190 s | nốt: es_prision_full_hacung_Gb.abc
+[21:31:56]     -> ComfyUI: 1) nạp model YuE2  2) YuE2 viết nhạc theo nốt ABC (lâu nhất)  3) KSampler 32 bước tô âm thanh  4) giải mã + lưu FLAC
+[21:33:57]     XONG PR_r1_hacung_s1 sau 104 s | giọng hát 44% (CÓ GIỌNG, loại) | giữ giai điệu 0.424 (mức của bản nốt so với bản gốc = 0.05) | máy nghe ra: voice 43%, brass 27%, frame_drum 8%
+{"file": "PR_r1_hacung_s1__giong44.flac", "voice_pct": 44, "top": [["voice", 0.428], ["brass", 0.272], ["frame_drum", 0.079], ["flute", 0.061], ["lute", 0.036]]}
+[21:33:57] === HẾT VÒNG. Số máy chỉ để lọc lỗi; tai Duy quyết hay/dở ===

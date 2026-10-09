@@ -1,0 +1,26 @@
+[14:12:37] === VÒNG MỚI: 6 bản (_jobs_v4b.json). Mỗi bản ~4-5 phút, chạy lần lượt từng bản trên lab ===
+[14:12:37] [1/6] BẮT ĐẦU v4_PR_cl_s3:  | seed 3 | dài 200 s | nốt: es_prision_beat_v4_G_q96.abc
+[14:12:37]     -> ComfyUI: 1) nạp model YuE2  2) YuE2 viết nhạc theo nốt ABC (lâu nhất)  3) KSampler 32 bước tô âm thanh  4) giải mã + lưu FLAC
+[14:15:06]     XONG v4_PR_cl_s3 sau 113 s | giọng hát 3% (sạch) | giữ giai điệu 0.591 (mức của bản nốt so với bản gốc = 0.118) | máy nghe ra: flute 24%, brass 19%, lute 18%
+{"file": "v4_PR_cl_s3__giong03.flac", "voice_pct": 3, "top": [["flute", 0.245], ["brass", 0.186], ["lute", 0.178], ["violin_fiddle", 0.139], ["electric_guitar", 0.05]]}
+[14:15:06] [2/6] BẮT ĐẦU v4_PR_cl_s4:  | seed 4 | dài 200 s | nốt: es_prision_beat_v4_G_q96.abc
+[14:15:06]     -> ComfyUI: 1) nạp model YuE2  2) YuE2 viết nhạc theo nốt ABC (lâu nhất)  3) KSampler 32 bước tô âm thanh  4) giải mã + lưu FLAC
+[14:17:25]     XONG v4_PR_cl_s4 sau 110 s | giọng hát 1% (sạch) | giữ giai điệu 0.702 (mức của bản nốt so với bản gốc = 0.118) | máy nghe ra: brass 46%, piano 12%, bass 10%
+{"file": "v4_PR_cl_s4__giong01.flac", "voice_pct": 1, "top": [["brass", 0.457], ["piano", 0.116], ["bass", 0.098], ["taiko", 0.085], ["flute", 0.044]]}
+[14:17:25] [3/6] BẮT ĐẦU v4_PR_cl_s5:  | seed 5 | dài 200 s | nốt: es_prision_beat_v4_G_q96.abc
+[14:17:25]     -> ComfyUI: 1) nạp model YuE2  2) YuE2 viết nhạc theo nốt ABC (lâu nhất)  3) KSampler 32 bước tô âm thanh  4) giải mã + lưu FLAC
+[14:20:01]     XONG v4_PR_cl_s5 sau 107 s | giọng hát 1% (sạch) | giữ giai điệu 0.638 (mức của bản nốt so với bản gốc = 0.118) | máy nghe ra: brass 49%, violin_fiddle 11%, frame_drum 10%
+{"file": "v4_PR_cl_s5__giong01.flac", "voice_pct": 1, "top": [["brass", 0.486], ["violin_fiddle", 0.106], ["frame_drum", 0.103], ["flute", 0.063], ["lute", 0.06]]}
+[14:20:01] [4/6] BẮT ĐẦU v4_PR_am_s3:  | seed 3 | dài 200 s | nốt: es_prision_beat_v4_G_q96.abc
+[14:20:01]     -> ComfyUI: 1) nạp model YuE2  2) YuE2 viết nhạc theo nốt ABC (lâu nhất)  3) KSampler 32 bước tô âm thanh  4) giải mã + lưu FLAC
+[14:22:14]     XONG v4_PR_am_s3 sau 110 s | giọng hát 1% (sạch) | giữ giai điệu 0.457 (mức của bản nốt so với bản gốc = 0.118) | máy nghe ra: frame_drum 56%, flute 11%, brass 11%
+{"file": "v4_PR_am_s3__giong01.flac", "voice_pct": 1, "top": [["frame_drum", 0.563], ["flute", 0.109], ["brass", 0.109], ["violin_fiddle", 0.05], ["lute", 0.042]]}
+[14:22:14] [5/6] BẮT ĐẦU v4_PR_am_s4:  | seed 4 | dài 200 s | nốt: es_prision_beat_v4_G_q96.abc
+[14:22:14]     -> ComfyUI: 1) nạp model YuE2  2) YuE2 viết nhạc theo nốt ABC (lâu nhất)  3) KSampler 32 bước tô âm thanh  4) giải mã + lưu FLAC
+[14:24:28]     XONG v4_PR_am_s4 sau 110 s | giọng hát 1% (sạch) | giữ giai điệu 0.705 (mức của bản nốt so với bản gốc = 0.118) | máy nghe ra: flute 19%, brass 17%, bass 13%
+{"file": "v4_PR_am_s4__giong01.flac", "voice_pct": 1, "top": [["flute", 0.186], ["brass", 0.168], ["bass", 0.126], ["lute", 0.106], ["frame_drum", 0.1]]}
+[14:24:28] [6/6] BẮT ĐẦU v4_PR_am_s5:  | seed 5 | dài 200 s | nốt: es_prision_beat_v4_G_q96.abc
+[14:24:28]     -> ComfyUI: 1) nạp model YuE2  2) YuE2 viết nhạc theo nốt ABC (lâu nhất)  3) KSampler 32 bước tô âm thanh  4) giải mã + lưu FLAC
+[14:26:40]     XONG v4_PR_am_s5 sau 110 s | giọng hát 4% (sạch) | giữ giai điệu 0.51 (mức của bản nốt so với bản gốc = 0.118) | máy nghe ra: lute 18%, brass 18%, flute 14%
+{"file": "v4_PR_am_s5__giong04.flac", "voice_pct": 4, "top": [["lute", 0.182], ["brass", 0.179], ["flute", 0.138], ["piano", 0.103], ["frame_drum", 0.069]]}
+[14:26:40] === HẾT VÒNG. Số máy chỉ để lọc lỗi; tai Duy quyết hay/dở ===

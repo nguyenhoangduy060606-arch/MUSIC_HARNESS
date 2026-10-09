@@ -1,0 +1,28 @@
+** WARNING: connection is not using a post-quantum key exchange algorithm.
+** This session may be vulnerable to "store now, decrypt later" attacks.
+** The server may need to be upgraded. See https://openssh.com/pq.html
+--- vs ca si goc
+
+su_V1_vozA_s42.wav giong_giong_goc 0.915
+su_V1_vozA_s7.wav giong_giong_goc 0.922
+su_V1_vozB_s42.wav giong_giong_goc 0.917
+su_V2_vozA_s42.wav giong_giong_goc 0.848
+su_V2_vozA_s7.wav giong_giong_goc 0.847
+su_V2_vozB_s42.wav giong_giong_goc 0.849
+--- vs giong Suno
+su_V1_vozA_s42.wav giong_giong_goc 0.852
+su_V1_vozA_s7.wav giong_giong_goc 0.863
+su_V1_vozB_s42.wav giong_giong_goc 0.854
+su_V2_vozA_s42.wav giong_giong_goc 0.903
+su_V2_vozA_s7.wav giong_giong_goc 0.913
+su_V2_vozB_s42.wav giong_giong_goc 0.906
+es_no_pude_vocals.wav giong_giong_goc 0.852
+su_V1_vozA_s42.wav WER 0.85 | số từ nghe được 277 / 190
+su_V1_vozA_s7.wav WER 0.39 | số từ nghe được 195 / 190
+su_V1_vozB_s42.wav WER 0.41 | số từ nghe được 177 / 190
+su_V2_vozA_s42.wav WER 2.22 | số từ nghe được 571 / 190
+su_V2_vozA_s7.wav WER 0.07 | số từ nghe được 198 / 190
+su_V2_vozB_s42.wav WER 1.69 | số từ nghe được 441 / 190
+SU_voc.wav WER 0.08 | số từ nghe được 194 / 190
+
+

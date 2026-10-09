@@ -1,0 +1,37 @@
+{
+ "stage": "vocal_render",
+ "status": {
+  "intake": "passed",
+  "abc": "passed",
+  "beat_render": "passed",
+  "beat_gate": "passed",
+  "HG1": "passed",
+  "vocal_render": "pending",
+  "vocal_gate": "pending",
+  "mix": "pending",
+  "pack": "pending",
+  "HG2": "pending",
+  "memory": "pending"
+ },
+ "attempts": {
+  "intake": 1,
+  "beat_gate": 1
+ },
+ "round_beat": 0,
+ "round_vocal": 0,
+ "pick_beat": "b1_am_s1",
+ "human": {
+  "HG1": {
+   "verdict": "pass",
+   "pick": "b1_am_s1",
+   "note": "(THỬ harness, không phải lời Duy)",
+   "at": "2026-10-07 17:26"
+  }
+ },
+ "history": [
+  "2026-10-07 17:19:35 init",
+  "2026-10-07 17:20:12 intake đạt: đạt",
+  "2026-10-07 17:25:53 beat_gate đạt: 3/6 bản đạt. b1_am_s1: ĐẠT; b1_cl_s7: ĐẠT; b1_am_s2: ĐẠT; b1_am_s7: loại (beat_skips); b1_cl_s2: loại (beat_skips); b1_cl_s1: loại (beat_skips)",
+  "2026-10-07 17:26:05 HG1 pass b1_am_s1"
+ ]
+}

@@ -1,0 +1,123 @@
+X:1
+T:
+M:4/4
+L:1/32
+Q:1/4=100
+V: Vocal clef=treble name="Vocal Melody" snm="Vocal"
+V: Ins clef=treble name="Ins Melody" snm="Inst."
+K:A
+% intro
+V: Vocal
+Z2|
+V: Ins
+z24z4A4|c4c4c4c4d2d8z2B4|
+V: Vocal
+M:3/4
+Z|
+V: Ins
+M:3/4
+B4c4d2d8z2B4|
+V: Vocal
+M:4/4
+Z4|
+V: Ins
+M:4/4
+c2c16z2E2E2A4c4|e4e4e4e4f2f8z2f4|e2e16c2e4e2d4c2|e6d12d4d2d2c4B2|
+V: Vocal
+Z3|
+V: Ins
+c6B2A8z2F,2C2E2c2B4A2|c6B12A2A2A2A2G4A2|A2B2B2G2G2F2d2F2E2C2E2E2D2D2B2D2|
+% verse
+V: Vocal
+Z4|
+V: Ins
+C16z4C4C4C4-|C16-C4C8C4|C2C16z2C4C4C2E2-|E24-E6z2|
+V: Vocal
+Z4|
+V: Ins
+D12A4G4E4E4G4|B4A8E2^E2F16|z8G4B8F4A4F4|G12E2F2G4F2F2E4D4|
+V: Vocal
+Z4|
+V: Ins
+E16z4E4E4A4-|A12z4c4c2e2d2c2A2B2|A16z4A4A4A4-|A24-A4z4|
+V: Vocal
+Z4|
+V: Ins
+F12A4G4E4F4E4|E12E4F16|z4B8B8B4A4c4|G4c2c2a4c2c2g4c2c2f4e4|
+% chorus
+V: Vocal
+Z4|
+V: Ins
+e4e4e4e4f4e4e4d4|e4e8c2d2c16|c4e4c4c4f4e4g4c4|g12g2f2e16|
+V: Vocal
+Z4|
+V: Ins
+f4e4f4f4e4e4e4d4|e4c8e4f8c4c4|B4B4B4B8B4B4B4|e4c2c2a4c2c2g4c2c2f4e4|
+V: Vocal
+Z4|
+V: Ins
+e4e4e4e4f4e4e4d4|e4e8c2d2c16|c4c4c4c4f4e4e4c4|g12g2f2e16|
+V: Vocal
+Z4|
+V: Ins
+f4f4f4f4e4e4e4d4|e4c8e4f8c4c4|B16z4B4B4B4|A16z4E2E2E4A4|
+% verse
+V: Vocal
+Z4|
+V: Ins
+c4c4c4c4d12B4|c16z4E2E2A4c4|e4e4e4e4f12f4|e16z2c2e4e2d4c2|
+V: Vocal
+Z4|
+V: Ins
+e6d12d4d2d2c4B2|c6B2A8z2F,2C2E2c2B4A2|c6B12A2A2A2A2G4A2|A2B2B2G2G2F2d2F2E2C2E2E2D2D2B2D2|
+V: Vocal
+Z4|
+V: Ins
+C16z4C4C4C4|C24z4E4|C16z4C4C4C4|E32|
+V: Vocal
+Z4|
+V: Ins
+F12F4F4F4F4D4|E12E2^E2F16|F16z16|z4c2c2a4c2c2g4c2c2f4e4|
+% interlude
+V: Vocal
+Z4|
+V: Ins
+e8e8f8d8|e12c2d2c8c4e4|c8c8f8c8|g12g2f2e16|
+V: Vocal
+Z4|
+V: Ins
+f12f4e8c4d4|c12e4f8c4e4|d16z4e4c4d4|e4c2c2a4c2c2g4c2c2f4e4|
+V: Vocal
+Z4|
+V: Ins
+e4e4e4e4f12g4|e12c2d2c8c4e4|g4g4g4g4a4a4a4g4|g12e2f2=g16|
+V: Vocal
+Z4|
+V: Ins
+f4f4f8e4f4f4d4|e4c8e4f8c4e4|d16z4e4c4d4|A16z4E2E2E4A4|
+% verse
+V: Vocal
+Z4|
+V: Ins
+c4c4c4c4d12B4|c16z4E4A4c4|e4e4e4e4f12f4|e16z2c2e4e2d4c2|
+V: Vocal
+Z3|
+V: Ins
+e6d12d4d2d2c4B2|c6B2A8z4C2E2c2B4A2|c6B12z2D2E2F2=G2^G2B2|
+% outro
+V: Vocal
+M:2/4
+Z|
+V: Ins
+M:2/4
+A8A4G2B2|
+V: Vocal
+M:4/4
+Z4|
+V: Ins
+M:4/4
+A8A16z4G2B2|A8A16z4G2B2|A8A16z4G2B2|A8A16z4G2B2|
+V: Vocal
+Z4|
+V: Ins
+A8A16z4G2B2|A8A24-|A24z8|Z|

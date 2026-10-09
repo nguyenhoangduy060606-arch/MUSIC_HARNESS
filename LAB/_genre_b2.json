@@ -1,0 +1,298 @@
+{
+ "project spain/LAB/ace/NP_B2_full_k00.flac": {
+  "instr": {
+   "trumpets": 36.4,
+   "ac_guitar": 36.2,
+   "accordion": 11.6,
+   "bajo_sexto": 11.3,
+   "piano": 2.6,
+   "elec_guitar": 1.4,
+   "elec_bass": 0.4,
+   "drum_kit": 0.1,
+   "tuba_brass": 0.0,
+   "voice_duet": 0.0,
+   "synth": 0.0,
+   "upright_bass": 0.0,
+   "violin": 0.0,
+   "voice_male": 0.0
+  },
+  "style": {
+   "rock": 59.6,
+   "banda": 39.4,
+   "norteno": 0.9,
+   "mariachi": 0.0,
+   "pop_ballad": 0.0,
+   "polka": 0.0,
+   "waltz": 0.0,
+   "ranchera": 0.0,
+   "bolero": 0.0,
+   "cumbia": 0.0,
+   "corrido": 0.0
+  },
+  "bpm": 99.4,
+  "accent_period_corr": {
+   "2": 0.391,
+   "3": 0.371,
+   "4": 0.352
+  }
+ },
+ "project spain/LAB/ace/NP_B2_full_k05.flac": {
+  "instr": {
+   "trumpets": 35.2,
+   "ac_guitar": 34.9,
+   "bajo_sexto": 14.3,
+   "accordion": 13.8,
+   "piano": 0.8,
+   "elec_guitar": 0.6,
+   "elec_bass": 0.2,
+   "drum_kit": 0.1,
+   "tuba_brass": 0.0,
+   "voice_duet": 0.0,
+   "synth": 0.0,
+   "upright_bass": 0.0,
+   "violin": 0.0,
+   "voice_male": 0.0
+  },
+  "style": {
+   "rock": 59.6,
+   "banda": 36.9,
+   "norteno": 3.5,
+   "mariachi": 0.1,
+   "pop_ballad": 0.0,
+   "polka": 0.0,
+   "waltz": 0.0,
+   "bolero": 0.0,
+   "ranchera": 0.0,
+   "cumbia": 0.0,
+   "corrido": 0.0
+  },
+  "bpm": 99.4,
+  "accent_period_corr": {
+   "2": 0.459,
+   "3": 0.422,
+   "4": 0.401
+  }
+ },
+ "project spain/LAB/ace/NP_B2_moc_k00.flac": {
+  "instr": {
+   "bajo_sexto": 90.5,
+   "voice_duet": 8.2,
+   "ac_guitar": 1.3,
+   "accordion": 0.0,
+   "trumpets": 0.0,
+   "elec_guitar": 0.0,
+   "tuba_brass": 0.0,
+   "synth": 0.0,
+   "piano": 0.0,
+   "upright_bass": 0.0,
+   "elec_bass": 0.0,
+   "voice_male": 0.0,
+   "violin": 0.0,
+   "drum_kit": 0.0
+  },
+  "style": {
+   "norteno": 53.8,
+   "rock": 46.0,
+   "banda": 0.2,
+   "mariachi": 0.0,
+   "polka": 0.0,
+   "pop_ballad": 0.0,
+   "bolero": 0.0,
+   "ranchera": 0.0,
+   "waltz": 0.0,
+   "cumbia": 0.0,
+   "corrido": 0.0
+  },
+  "bpm": 99.4,
+  "accent_period_corr": {
+   "2": 0.602,
+   "3": 0.533,
+   "4": 0.465
+  }
+ },
+ "project spain/LAB/ace/NP_B2_moc_k05.flac": {
+  "instr": {
+   "bajo_sexto": 88.8,
+   "voice_duet": 10.6,
+   "ac_guitar": 0.6,
+   "accordion": 0.0,
+   "trumpets": 0.0,
+   "tuba_brass": 0.0,
+   "elec_guitar": 0.0,
+   "piano": 0.0,
+   "synth": 0.0,
+   "voice_male": 0.0,
+   "upright_bass": 0.0,
+   "elec_bass": 0.0,
+   "violin": 0.0,
+   "drum_kit": 0.0
+  },
+  "style": {
+   "rock": 51.1,
+   "norteno": 48.6,
+   "banda": 0.3,
+   "mariachi": 0.0,
+   "polka": 0.0,
+   "pop_ballad": 0.0,
+   "bolero": 0.0,
+   "ranchera": 0.0,
+   "waltz": 0.0,
+   "cumbia": 0.0,
+   "corrido": 0.0
+  },
+  "bpm": 99.4,
+  "accent_period_corr": {
+   "2": 0.522,
+   "3": 0.472,
+   "4": 0.463
+  }
+ },
+ "project spain/LAB/ace/PR_B2_full_k00.flac": {
+  "instr": {
+   "trumpets": 45.3,
+   "ac_guitar": 36.2,
+   "accordion": 16.3,
+   "piano": 2.1,
+   "tuba_brass": 0.0,
+   "bajo_sexto": 0.0,
+   "elec_guitar": 0.0,
+   "drum_kit": 0.0,
+   "elec_bass": 0.0,
+   "voice_duet": 0.0,
+   "violin": 0.0,
+   "upright_bass": 0.0,
+   "synth": 0.0,
+   "voice_male": 0.0
+  },
+  "style": {
+   "rock": 68.9,
+   "banda": 25.0,
+   "mariachi": 6.0,
+   "norteno": 0.1,
+   "pop_ballad": 0.0,
+   "polka": 0.0,
+   "waltz": 0.0,
+   "bolero": 0.0,
+   "ranchera": 0.0,
+   "cumbia": 0.0,
+   "corrido": 0.0
+  },
+  "bpm": 99.4,
+  "accent_period_corr": {
+   "2": 0.351,
+   "3": 0.226,
+   "4": 0.453
+  }
+ },
+ "project spain/LAB/ace/PR_B2_full_k05.flac": {
+  "instr": {
+   "trumpets": 48.9,
+   "ac_guitar": 34.1,
+   "accordion": 14.1,
+   "piano": 2.9,
+   "bajo_sexto": 0.0,
+   "elec_guitar": 0.0,
+   "tuba_brass": 0.0,
+   "elec_bass": 0.0,
+   "drum_kit": 0.0,
+   "voice_duet": 0.0,
+   "upright_bass": 0.0,
+   "synth": 0.0,
+   "violin": 0.0,
+   "voice_male": 0.0
+  },
+  "style": {
+   "rock": 72.2,
+   "banda": 25.4,
+   "mariachi": 2.1,
+   "norteno": 0.3,
+   "pop_ballad": 0.0,
+   "polka": 0.0,
+   "waltz": 0.0,
+   "bolero": 0.0,
+   "ranchera": 0.0,
+   "cumbia": 0.0,
+   "corrido": 0.0
+  },
+  "bpm": 99.4,
+  "accent_period_corr": {
+   "2": 0.343,
+   "3": 0.209,
+   "4": 0.442
+  }
+ },
+ "project spain/LAB/ace/PR_B2_moc_k00.flac": {
+  "instr": {
+   "ac_guitar": 68.7,
+   "bajo_sexto": 19.3,
+   "accordion": 10.5,
+   "trumpets": 1.5,
+   "elec_guitar": 0.0,
+   "piano": 0.0,
+   "voice_duet": 0.0,
+   "tuba_brass": 0.0,
+   "drum_kit": 0.0,
+   "elec_bass": 0.0,
+   "upright_bass": 0.0,
+   "synth": 0.0,
+   "violin": 0.0,
+   "voice_male": 0.0
+  },
+  "style": {
+   "rock": 59.3,
+   "norteno": 19.7,
+   "mariachi": 11.5,
+   "banda": 9.5,
+   "pop_ballad": 0.0,
+   "polka": 0.0,
+   "bolero": 0.0,
+   "waltz": 0.0,
+   "ranchera": 0.0,
+   "cumbia": 0.0,
+   "corrido": 0.0
+  },
+  "bpm": 99.4,
+  "accent_period_corr": {
+   "2": 0.338,
+   "3": 0.2,
+   "4": 0.623
+  }
+ },
+ "project spain/LAB/ace/PR_B2_moc_k05.flac": {
+  "instr": {
+   "ac_guitar": 79.1,
+   "bajo_sexto": 13.3,
+   "accordion": 6.7,
+   "trumpets": 0.9,
+   "piano": 0.0,
+   "elec_guitar": 0.0,
+   "drum_kit": 0.0,
+   "voice_duet": 0.0,
+   "tuba_brass": 0.0,
+   "elec_bass": 0.0,
+   "upright_bass": 0.0,
+   "synth": 0.0,
+   "violin": 0.0,
+   "voice_male": 0.0
+  },
+  "style": {
+   "rock": 69.2,
+   "mariachi": 14.9,
+   "norteno": 9.2,
+   "banda": 6.7,
+   "pop_ballad": 0.0,
+   "polka": 0.0,
+   "bolero": 0.0,
+   "waltz": 0.0,
+   "cumbia": 0.0,
+   "ranchera": 0.0,
+   "corrido": 0.0
+  },
+  "bpm": 99.4,
+  "accent_period_corr": {
+   "2": 0.346,
+   "3": 0.251,
+   "4": 0.678
+  }
+ }
+}

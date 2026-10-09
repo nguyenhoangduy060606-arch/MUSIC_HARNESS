@@ -1,0 +1,34 @@
+[18:12:04] ▶ intake — Nhận bài: đo nhịp/cung/bố cục, dọn lời
+[18:12:27] Nhận bài xong: 100.36 phách/phút, giọng vào 0.0 s, dạo giữa [96.0, 114.0], 30 dòng lời (không in). Lưới chuẩn: dời -1.0 nửa cung, tốc độ x1.0.
+[18:12:27]    cổng intake: ĐẠT — đạt
+[18:12:27] ▶ abc — Chép nốt beat gốc (SheetSage2) → bản nốt dời cung
+[18:12:44] Lab đã bật (ComfyUI :8288 qua tunnel 28288).
+[18:13:16] LỖI abc: list indices must be integers or slices, not float
+[18:13:16] ▶ abc — Chép nốt beat gốc (SheetSage2) → bản nốt dời cung
+[18:13:24] LỖI abc: list indices must be integers or slices, not float
+[18:13:24] ▶ abc — Chép nốt beat gốc (SheetSage2) → bản nốt dời cung
+[18:13:32] LỖI abc: list indices must be integers or slices, not float
+[18:13:32] ▶ abc — Chép nốt beat gốc (SheetSage2) → bản nốt dời cung
+[18:13:39] LỖI abc: list indices must be integers or slices, not float
+--- review độc lập ---
+ ĐẠT  R10: ngưỡng cổng không bị sửa ngoài gate-set
+ ĐẠT  R14: có nhật ký (13 dòng)
+ ĐẠT  R1: log/state không nhắc tới tool thật
+ ĐẠT  R6: log/state không chứa 5 từ liền của lời bài
+ ĐẠT  R2: không có khóa lab bị bỏ quên
+ ĐẠT  cổng: intake: có hồ sơ chấm cổng
+KẾT LUẬN: ĐẠT
+== prision ==  vòng beat 1/3, vòng giọng 1/3
+  ✔ intake                Nhận bài: đo nhịp/cung/bố cục, dọn lời (thử 1/2)
+ ▶■ abc                   Chép nốt beat gốc (SheetSage2) → bản nốt dời cung (thử 4/3)
+  · beat_render           YuE2 đánh beat (một vòng = vài seed × kiểu)
+  · beat_gate             Căn phách + lọc máy; không đủ bản đạt → vòng mới
+  · HG1           [NGƯỜI] TAI DUY #1: nghe beat (dạo đầu trước)
+  · finalize_beat         Ghép dạo đầu đã chọn vào beat đã chọn (cùng lưới phách)
+  · vocal_render          ACE hát lại giọng (lời chuẩn) trên giờ của beat đã chọn
+  · vocal_gate            Làm sạch xì + đo giọng; không đạt → vòng mới
+  · mix                   Trộn beat + giọng, master -14 LUFS
+  · pack                  Đóng gói nghe (Audacity .lof) + bản giao
+  · HG2           [NGƯỜI] TAI DUY #2 + bên yêu cầu: nghe cả bài, upload thử Content ID
+  · memory                Ghi bài học + hiệu chuẩn
+NEXT: BLOCKED — lỗi chạy abc: list indices must be integers or slices, not float → báo Duy 5 dòng (bước/đã thử/số đo/vấn đề/cần gì).

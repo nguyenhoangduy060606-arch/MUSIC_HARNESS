@@ -1,0 +1,138 @@
+{
+ "round": 1,
+ "n_pass": 2,
+ "n_total": 2,
+ "stage_ok": true,
+ "rows": [
+  {
+   "name": "final_b1_am_s7+i1_am_s22__prision_v1_B_s42",
+   "metrics": {
+    "lufs": -14.0,
+    "true_peak": -1.0,
+    "near_peak_pct": 0.0,
+    "crest_db": 16.5,
+    "bal_db": -4.2,
+    "bal_goc_db": -5.2,
+    "bal_err_db": 1.0
+   },
+   "score": 16.5,
+   "passed": true,
+   "results": [
+    {
+     "id": "lufs",
+     "mode": "hard",
+     "x": -14.0,
+     "op": "between",
+     "v": [
+      -14.5,
+      -13.5
+     ],
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "true_peak",
+     "mode": "hard",
+     "x": -1.0,
+     "op": "<=",
+     "v": -1.0,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "near_peak_pct",
+     "mode": "hard",
+     "x": 0.0,
+     "op": "<=",
+     "v": 0.01,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "crest_db",
+     "mode": "hard",
+     "x": 16.5,
+     "op": ">=",
+     "v": 14,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "bal_vs_orig",
+     "mode": "report",
+     "x": 1.0,
+     "op": "<=",
+     "v": 1.0,
+     "pass": true,
+     "provisional": true
+    }
+   ],
+   "fails": []
+  },
+  {
+   "name": "final_b1_am_s7+i1_am_s22__prision_v1_B_s7",
+   "metrics": {
+    "lufs": -14.0,
+    "true_peak": -1.0,
+    "near_peak_pct": 0.0,
+    "crest_db": 16.5,
+    "bal_db": -4.2,
+    "bal_goc_db": -5.2,
+    "bal_err_db": 1.0
+   },
+   "score": 16.5,
+   "passed": true,
+   "results": [
+    {
+     "id": "lufs",
+     "mode": "hard",
+     "x": -14.0,
+     "op": "between",
+     "v": [
+      -14.5,
+      -13.5
+     ],
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "true_peak",
+     "mode": "hard",
+     "x": -1.0,
+     "op": "<=",
+     "v": -1.0,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "near_peak_pct",
+     "mode": "hard",
+     "x": 0.0,
+     "op": "<=",
+     "v": 0.01,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "crest_db",
+     "mode": "hard",
+     "x": 16.5,
+     "op": ">=",
+     "v": 14,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "bal_vs_orig",
+     "mode": "report",
+     "x": 1.0,
+     "op": "<=",
+     "v": 1.0,
+     "pass": true,
+     "provisional": true
+    }
+   ],
+   "fails": []
+  }
+ ]
+}

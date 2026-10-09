@@ -1,0 +1,47 @@
+{
+ "metrics": {
+  "files_ok": 1,
+  "lyrics_lines": 30,
+  "stem_len_diff_s": 0.0,
+  "tempo_dev_ms": 19
+ },
+ "results": [
+  {
+   "id": "files_ok",
+   "mode": "hard",
+   "x": 1,
+   "op": "==",
+   "v": 1,
+   "pass": true,
+   "provisional": false
+  },
+  {
+   "id": "lyrics_lines",
+   "mode": "hard",
+   "x": 30,
+   "op": ">=",
+   "v": 8,
+   "pass": true,
+   "provisional": false
+  },
+  {
+   "id": "stem_len_diff_s",
+   "mode": "hard",
+   "x": 0.0,
+   "op": "<=",
+   "v": 1.0,
+   "pass": true,
+   "provisional": false
+  },
+  {
+   "id": "tempo_steady_ms",
+   "mode": "report",
+   "x": 19,
+   "op": "<=",
+   "v": 80,
+   "pass": true,
+   "provisional": false
+  }
+ ],
+ "ok": true
+}

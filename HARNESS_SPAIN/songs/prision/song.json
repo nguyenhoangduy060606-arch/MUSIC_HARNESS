@@ -1,0 +1,20 @@
+{
+ "id": "prision",
+ "title": "Prisión de Amor",
+ "inputs": {
+  "original_mp3": "../2 bài/184M - 1999 - Prisión De Amor - Los Tigres del Norte - 7k3 VPH.mp3",
+  "stem_inst": "../2 bài/2_184M - 1999 - Prisión De Amor - Los Tigres del Norte - 7k3 VPH_(Instrumental).wav",
+  "stem_vocals": "../2 bài/2_184M - 1999 - Prisión De Amor - Los Tigres del Norte - 7k3 VPH_(Vocals).wav",
+  "lyrics_txt": "C:/Users/PC/Downloads/Prisión De Amor.txt"
+ },
+ "reference": {
+  "suno_beat": null,
+  "suno_vocals": null
+ },
+ "plan": {
+  "shift_semis": -1,
+  "tempo_ratio": 1.0,
+  "gate_sim": 0.62,
+  "vocal_end_s": null
+ }
+}

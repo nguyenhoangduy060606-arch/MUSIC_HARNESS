@@ -1,0 +1,482 @@
+{
+ "C:\\Users\\PC\\Downloads\\project music\\project spain\\HARNESS_SPAIN\\songs\\prision\\beat\\intro\\r1\\i1_am_s21.flac": {
+  "instr": {
+   "accordion": 50.2,
+   "trumpets": 49.0,
+   "tuba_brass": 0.7,
+   "sax": 0.1,
+   "requinto": 0.0,
+   "bajo_sexto": 0.0,
+   "violin": 0.0,
+   "drum_kit": 0.0,
+   "ac_guitar": 0.0,
+   "piano": 0.0,
+   "upright_bass": 0.0,
+   "elec_guitar": 0.0,
+   "elec_bass": 0.0,
+   "voice_duet": 0.0,
+   "synth": 0.0,
+   "voice_male": 0.0
+  },
+  "style": {
+   "banda": 62.6,
+   "norteno": 37.3,
+   "rock": 0.1,
+   "polka": 0.0,
+   "mariachi": 0.0,
+   "sierreno": 0.0,
+   "waltz": 0.0,
+   "ranchera": 0.0,
+   "cumbia": 0.0,
+   "pop_ballad": 0.0,
+   "bolero": 0.0,
+   "corrido": 0.0
+  },
+  "bpm": 99.4,
+  "accent_period_corr": {
+   "2": 0.047,
+   "3": -0.046,
+   "4": -0.12
+  }
+ },
+ "C:\\Users\\PC\\Downloads\\project music\\project spain\\HARNESS_SPAIN\\songs\\prision\\beat\\intro\\r1\\i1_am_s22.flac": {
+  "instr": {
+   "accordion": 51.9,
+   "sax": 47.8,
+   "tuba_brass": 0.3,
+   "trumpets": 0.1,
+   "requinto": 0.0,
+   "bajo_sexto": 0.0,
+   "drum_kit": 0.0,
+   "piano": 0.0,
+   "ac_guitar": 0.0,
+   "elec_guitar": 0.0,
+   "elec_bass": 0.0,
+   "violin": 0.0,
+   "voice_duet": 0.0,
+   "upright_bass": 0.0,
+   "synth": 0.0,
+   "voice_male": 0.0
+  },
+  "style": {
+   "rock": 96.8,
+   "norteno": 3.1,
+   "banda": 0.2,
+   "sierreno": 0.0,
+   "polka": 0.0,
+   "mariachi": 0.0,
+   "pop_ballad": 0.0,
+   "bolero": 0.0,
+   "waltz": 0.0,
+   "cumbia": 0.0,
+   "ranchera": 0.0,
+   "corrido": 0.0
+  },
+  "bpm": 103.4,
+  "accent_period_corr": {
+   "2": 0.002,
+   "3": -0.074,
+   "4": -0.066
+  }
+ },
+ "C:\\Users\\PC\\Downloads\\project music\\project spain\\HARNESS_SPAIN\\songs\\prision\\beat\\intro\\r1\\i1_am_s23.flac": {
+  "instr": {
+   "accordion": 99.6,
+   "sax": 0.2,
+   "trumpets": 0.1,
+   "tuba_brass": 0.0,
+   "requinto": 0.0,
+   "bajo_sexto": 0.0,
+   "drum_kit": 0.0,
+   "piano": 0.0,
+   "elec_guitar": 0.0,
+   "violin": 0.0,
+   "ac_guitar": 0.0,
+   "upright_bass": 0.0,
+   "voice_duet": 0.0,
+   "synth": 0.0,
+   "elec_bass": 0.0,
+   "voice_male": 0.0
+  },
+  "style": {
+   "norteno": 87.2,
+   "banda": 12.7,
+   "rock": 0.1,
+   "polka": 0.1,
+   "mariachi": 0.0,
+   "sierreno": 0.0,
+   "pop_ballad": 0.0,
+   "cumbia": 0.0,
+   "bolero": 0.0,
+   "waltz": 0.0,
+   "ranchera": 0.0,
+   "corrido": 0.0
+  },
+  "bpm": 99.4,
+  "accent_period_corr": {
+   "2": 0.135,
+   "3": -0.383,
+   "4": -0.124
+  }
+ },
+ "C:\\Users\\PC\\Downloads\\project music\\project spain\\HARNESS_SPAIN\\songs\\prision\\beat\\intro\\r1\\i1_am_s24.flac": {
+  "instr": {
+   "accordion": 99.3,
+   "sax": 0.3,
+   "tuba_brass": 0.3,
+   "trumpets": 0.0,
+   "requinto": 0.0,
+   "drum_kit": 0.0,
+   "piano": 0.0,
+   "bajo_sexto": 0.0,
+   "upright_bass": 0.0,
+   "elec_guitar": 0.0,
+   "violin": 0.0,
+   "ac_guitar": 0.0,
+   "synth": 0.0,
+   "voice_duet": 0.0,
+   "elec_bass": 0.0,
+   "voice_male": 0.0
+  },
+  "style": {
+   "norteno": 90.5,
+   "banda": 6.4,
+   "rock": 3.1,
+   "polka": 0.0,
+   "mariachi": 0.0,
+   "sierreno": 0.0,
+   "waltz": 0.0,
+   "pop_ballad": 0.0,
+   "bolero": 0.0,
+   "ranchera": 0.0,
+   "cumbia": 0.0,
+   "corrido": 0.0
+  },
+  "bpm": 99.4,
+  "accent_period_corr": {
+   "2": -0.045,
+   "3": -0.064,
+   "4": -0.159
+  }
+ },
+ "C:\\Users\\PC\\Downloads\\project music\\project spain\\HARNESS_SPAIN\\songs\\prision\\beat\\intro\\r1\\i1_cl_s21.flac": {
+  "instr": {
+   "accordion": 91.8,
+   "tuba_brass": 6.5,
+   "trumpets": 1.1,
+   "sax": 0.6,
+   "requinto": 0.0,
+   "bajo_sexto": 0.0,
+   "elec_guitar": 0.0,
+   "voice_duet": 0.0,
+   "piano": 0.0,
+   "drum_kit": 0.0,
+   "ac_guitar": 0.0,
+   "elec_bass": 0.0,
+   "upright_bass": 0.0,
+   "synth": 0.0,
+   "violin": 0.0,
+   "voice_male": 0.0
+  },
+  "style": {
+   "norteno": 45.6,
+   "rock": 38.9,
+   "banda": 15.5,
+   "sierreno": 0.0,
+   "polka": 0.0,
+   "mariachi": 0.0,
+   "ranchera": 0.0,
+   "pop_ballad": 0.0,
+   "bolero": 0.0,
+   "waltz": 0.0,
+   "cumbia": 0.0,
+   "corrido": 0.0
+  },
+  "bpm": 99.4,
+  "accent_period_corr": {
+   "2": 0.099,
+   "3": -0.467,
+   "4": -0.33
+  }
+ },
+ "C:\\Users\\PC\\Downloads\\project music\\project spain\\HARNESS_SPAIN\\songs\\prision\\beat\\intro\\r1\\i1_cl_s22.flac": {
+  "instr": {
+   "trumpets": 50.8,
+   "sax": 42.2,
+   "tuba_brass": 4.3,
+   "accordion": 2.7,
+   "requinto": 0.0,
+   "ac_guitar": 0.0,
+   "piano": 0.0,
+   "elec_guitar": 0.0,
+   "voice_duet": 0.0,
+   "elec_bass": 0.0,
+   "drum_kit": 0.0,
+   "bajo_sexto": 0.0,
+   "upright_bass": 0.0,
+   "synth": 0.0,
+   "voice_male": 0.0,
+   "violin": 0.0
+  },
+  "style": {
+   "rock": 93.2,
+   "banda": 6.2,
+   "norteno": 0.5,
+   "sierreno": 0.0,
+   "mariachi": 0.0,
+   "bolero": 0.0,
+   "pop_ballad": 0.0,
+   "polka": 0.0,
+   "waltz": 0.0,
+   "ranchera": 0.0,
+   "cumbia": 0.0,
+   "corrido": 0.0
+  },
+  "bpm": 99.4,
+  "accent_period_corr": {
+   "2": 0.245,
+   "3": -0.173,
+   "4": -0.09
+  }
+ },
+ "C:\\Users\\PC\\Downloads\\project music\\project spain\\HARNESS_SPAIN\\songs\\prision\\beat\\intro\\r1\\i1_cl_s23.flac": {
+  "instr": {
+   "trumpets": 90.7,
+   "tuba_brass": 5.8,
+   "sax": 3.6,
+   "accordion": 0.0,
+   "requinto": 0.0,
+   "piano": 0.0,
+   "upright_bass": 0.0,
+   "drum_kit": 0.0,
+   "ac_guitar": 0.0,
+   "elec_guitar": 0.0,
+   "bajo_sexto": 0.0,
+   "elec_bass": 0.0,
+   "voice_duet": 0.0,
+   "synth": 0.0,
+   "violin": 0.0,
+   "voice_male": 0.0
+  },
+  "style": {
+   "banda": 95.3,
+   "rock": 4.5,
+   "norteno": 0.2,
+   "mariachi": 0.0,
+   "sierreno": 0.0,
+   "polka": 0.0,
+   "pop_ballad": 0.0,
+   "bolero": 0.0,
+   "waltz": 0.0,
+   "cumbia": 0.0,
+   "ranchera": 0.0,
+   "corrido": 0.0
+  },
+  "bpm": 99.4,
+  "accent_period_corr": {
+   "2": 0.107,
+   "3": -0.038,
+   "4": -0.114
+  }
+ },
+ "C:\\Users\\PC\\Downloads\\project music\\project spain\\HARNESS_SPAIN\\songs\\prision\\beat\\intro\\r1\\i1_cl_s24.flac": {
+  "instr": {
+   "trumpets": 48.4,
+   "sax": 15.6,
+   "tuba_brass": 12.4,
+   "accordion": 11.2,
+   "voice_duet": 10.6,
+   "requinto": 1.9,
+   "bajo_sexto": 0.0,
+   "voice_male": 0.0,
+   "drum_kit": 0.0,
+   "upright_bass": 0.0,
+   "ac_guitar": 0.0,
+   "piano": 0.0,
+   "violin": 0.0,
+   "elec_guitar": 0.0,
+   "synth": 0.0,
+   "elec_bass": 0.0
+  },
+  "style": {
+   "banda": 98.7,
+   "norteno": 1.3,
+   "rock": 0.0,
+   "sierreno": 0.0,
+   "ranchera": 0.0,
+   "polka": 0.0,
+   "mariachi": 0.0,
+   "waltz": 0.0,
+   "bolero": 0.0,
+   "cumbia": 0.0,
+   "pop_ballad": 0.0,
+   "corrido": 0.0
+  },
+  "bpm": 99.4,
+  "accent_period_corr": {
+   "2": 0.065,
+   "3": -0.266,
+   "4": 0.026
+  }
+ },
+ "C:\\Users\\PC\\Downloads\\project music\\project spain\\HARNESS_SPAIN\\songs\\prision\\beat\\intro\\r1\\i1_su_s21.flac": {
+  "instr": {
+   "sax": 100.0,
+   "trumpets": 0.0,
+   "tuba_brass": 0.0,
+   "accordion": 0.0,
+   "requinto": 0.0,
+   "drum_kit": 0.0,
+   "bajo_sexto": 0.0,
+   "elec_guitar": 0.0,
+   "piano": 0.0,
+   "voice_duet": 0.0,
+   "elec_bass": 0.0,
+   "upright_bass": 0.0,
+   "ac_guitar": 0.0,
+   "violin": 0.0,
+   "synth": 0.0,
+   "voice_male": 0.0
+  },
+  "style": {
+   "norteno": 77.9,
+   "rock": 15.0,
+   "banda": 7.2,
+   "polka": 0.0,
+   "mariachi": 0.0,
+   "sierreno": 0.0,
+   "pop_ballad": 0.0,
+   "waltz": 0.0,
+   "bolero": 0.0,
+   "cumbia": 0.0,
+   "ranchera": 0.0,
+   "corrido": 0.0
+  },
+  "bpm": 99.4,
+  "accent_period_corr": {
+   "2": 0.104,
+   "3": -0.152,
+   "4": 0.032
+  }
+ },
+ "C:\\Users\\PC\\Downloads\\project music\\project spain\\HARNESS_SPAIN\\songs\\prision\\beat\\intro\\r1\\i1_su_s22.flac": {
+  "instr": {
+   "trumpets": 65.0,
+   "sax": 34.8,
+   "tuba_brass": 0.1,
+   "accordion": 0.0,
+   "requinto": 0.0,
+   "drum_kit": 0.0,
+   "bajo_sexto": 0.0,
+   "piano": 0.0,
+   "ac_guitar": 0.0,
+   "elec_guitar": 0.0,
+   "elec_bass": 0.0,
+   "upright_bass": 0.0,
+   "violin": 0.0,
+   "voice_duet": 0.0,
+   "synth": 0.0,
+   "voice_male": 0.0
+  },
+  "style": {
+   "rock": 99.5,
+   "banda": 0.5,
+   "norteno": 0.0,
+   "polka": 0.0,
+   "mariachi": 0.0,
+   "sierreno": 0.0,
+   "pop_ballad": 0.0,
+   "waltz": 0.0,
+   "bolero": 0.0,
+   "cumbia": 0.0,
+   "ranchera": 0.0,
+   "corrido": 0.0
+  },
+  "bpm": 99.4,
+  "accent_period_corr": {
+   "2": 0.368,
+   "3": 0.075,
+   "4": 0.251
+  }
+ },
+ "C:\\Users\\PC\\Downloads\\project music\\project spain\\HARNESS_SPAIN\\songs\\prision\\beat\\intro\\r1\\i1_su_s23.flac": {
+  "instr": {
+   "trumpets": 78.2,
+   "sax": 15.8,
+   "accordion": 3.7,
+   "tuba_brass": 2.0,
+   "requinto": 0.3,
+   "bajo_sexto": 0.0,
+   "drum_kit": 0.0,
+   "elec_guitar": 0.0,
+   "piano": 0.0,
+   "ac_guitar": 0.0,
+   "elec_bass": 0.0,
+   "upright_bass": 0.0,
+   "voice_duet": 0.0,
+   "violin": 0.0,
+   "synth": 0.0,
+   "voice_male": 0.0
+  },
+  "style": {
+   "banda": 97.8,
+   "rock": 2.1,
+   "norteno": 0.1,
+   "polka": 0.0,
+   "sierreno": 0.0,
+   "mariachi": 0.0,
+   "cumbia": 0.0,
+   "pop_ballad": 0.0,
+   "bolero": 0.0,
+   "ranchera": 0.0,
+   "waltz": 0.0,
+   "corrido": 0.0
+  },
+  "bpm": 99.4,
+  "accent_period_corr": {
+   "2": 0.367,
+   "3": 0.031,
+   "4": -0.044
+  }
+ },
+ "C:\\Users\\PC\\Downloads\\project music\\project spain\\HARNESS_SPAIN\\songs\\prision\\beat\\intro\\r1\\i1_su_s24.flac": {
+  "instr": {
+   "trumpets": 59.1,
+   "sax": 26.6,
+   "accordion": 14.0,
+   "tuba_brass": 0.3,
+   "requinto": 0.0,
+   "drum_kit": 0.0,
+   "bajo_sexto": 0.0,
+   "ac_guitar": 0.0,
+   "elec_guitar": 0.0,
+   "piano": 0.0,
+   "elec_bass": 0.0,
+   "violin": 0.0,
+   "voice_duet": 0.0,
+   "upright_bass": 0.0,
+   "synth": 0.0,
+   "voice_male": 0.0
+  },
+  "style": {
+   "rock": 62.0,
+   "banda": 37.9,
+   "norteno": 0.1,
+   "polka": 0.0,
+   "sierreno": 0.0,
+   "mariachi": 0.0,
+   "pop_ballad": 0.0,
+   "cumbia": 0.0,
+   "waltz": 0.0,
+   "bolero": 0.0,
+   "ranchera": 0.0,
+   "corrido": 0.0
+  },
+  "bpm": 99.4,
+  "accent_period_corr": {
+   "2": 0.021,
+   "3": 0.14,
+   "4": -0.153
+  }
+ }
+}

@@ -1,0 +1,113 @@
+{
+ "project spain/LAB/NP_r1_goc_be_s1__giong40.flac": {
+  "instr": {
+   "voice_duet": 69.3,
+   "accordion": 18.2,
+   "trumpets": 11.1,
+   "tuba_brass": 1.3,
+   "drum_kit": 0.0,
+   "bajo_sexto": 0.0,
+   "piano": 0.0,
+   "elec_guitar": 0.0,
+   "ac_guitar": 0.0,
+   "voice_male": 0.0,
+   "elec_bass": 0.0,
+   "synth": 0.0,
+   "violin": 0.0,
+   "upright_bass": 0.0
+  },
+  "style": {
+   "rock": 62.7,
+   "banda": 29.3,
+   "norteno": 8.0,
+   "polka": 0.0,
+   "pop_ballad": 0.0,
+   "mariachi": 0.0,
+   "ranchera": 0.0,
+   "bolero": 0.0,
+   "waltz": 0.0,
+   "cumbia": 0.0,
+   "corrido": 0.0
+  },
+  "bpm": 99.4,
+  "accent_period_corr": {
+   "2": 0.079,
+   "3": 0.148,
+   "4": 0.052
+  }
+ },
+ "project spain/LAB/NP_r1_goc_s2__giong54.flac": {
+  "instr": {
+   "voice_duet": 71.4,
+   "accordion": 26.6,
+   "trumpets": 1.8,
+   "tuba_brass": 0.2,
+   "bajo_sexto": 0.0,
+   "drum_kit": 0.0,
+   "ac_guitar": 0.0,
+   "piano": 0.0,
+   "elec_guitar": 0.0,
+   "synth": 0.0,
+   "elec_bass": 0.0,
+   "violin": 0.0,
+   "voice_male": 0.0,
+   "upright_bass": 0.0
+  },
+  "style": {
+   "banda": 52.0,
+   "norteno": 27.2,
+   "rock": 20.8,
+   "mariachi": 0.0,
+   "polka": 0.0,
+   "pop_ballad": 0.0,
+   "waltz": 0.0,
+   "ranchera": 0.0,
+   "bolero": 0.0,
+   "cumbia": 0.0,
+   "corrido": 0.0
+  },
+  "bpm": 99.4,
+  "accent_period_corr": {
+   "2": 0.126,
+   "3": 0.112,
+   "4": 0.287
+  }
+ },
+ "project spain/LAB/NP_r1_hacung_s1__giong54.flac": {
+  "instr": {
+   "voice_duet": 71.4,
+   "trumpets": 11.9,
+   "accordion": 10.2,
+   "tuba_brass": 6.5,
+   "drum_kit": 0.0,
+   "bajo_sexto": 0.0,
+   "piano": 0.0,
+   "elec_guitar": 0.0,
+   "ac_guitar": 0.0,
+   "violin": 0.0,
+   "elec_bass": 0.0,
+   "synth": 0.0,
+   "voice_male": 0.0,
+   "upright_bass": 0.0
+  },
+  "style": {
+   "rock": 82.3,
+   "banda": 16.4,
+   "norteno": 1.2,
+   "pop_ballad": 0.0,
+   "polka": 0.0,
+   "mariachi": 0.0,
+   "bolero": 0.0,
+   "ranchera": 0.0,
+   "cumbia": 0.0,
+   "waltz": 0.0,
+   "corrido": 0.0
+  },
+  "bpm": 99.4,
+  "accent_period_corr": {
+   "2": 0.185,
+   "3": -0.212,
+   "4": 0.256
+  }
+ }
+}

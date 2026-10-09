@@ -1,0 +1,150 @@
+{
+ "project spain/LAB/ace/NP_B_beat_a18.flac": {
+  "instr": {
+   "accordion": 61.1,
+   "tuba_brass": 32.5,
+   "elec_bass": 4.4,
+   "elec_guitar": 0.7,
+   "bajo_sexto": 0.6,
+   "trumpets": 0.4,
+   "ac_guitar": 0.1,
+   "piano": 0.0,
+   "drum_kit": 0.0,
+   "voice_duet": 0.0,
+   "upright_bass": 0.0,
+   "violin": 0.0,
+   "voice_male": 0.0,
+   "synth": 0.0
+  },
+  "style": {
+   "rock": 78.6,
+   "norteno": 21.3,
+   "banda": 0.0,
+   "bolero": 0.0,
+   "mariachi": 0.0,
+   "pop_ballad": 0.0,
+   "waltz": 0.0,
+   "polka": 0.0,
+   "ranchera": 0.0,
+   "corrido": 0.0,
+   "cumbia": 0.0
+  },
+  "bpm": 99.4,
+  "accent_period_corr": {
+   "2": 0.448,
+   "3": -0.04,
+   "4": 0.367
+  }
+ },
+ "project spain/LAB/ace/NP_B_beat_a35.flac": {
+  "instr": {
+   "accordion": 59.4,
+   "tuba_brass": 30.9,
+   "trumpets": 4.3,
+   "elec_bass": 2.8,
+   "bajo_sexto": 0.9,
+   "elec_guitar": 0.9,
+   "ac_guitar": 0.9,
+   "piano": 0.0,
+   "drum_kit": 0.0,
+   "voice_duet": 0.0,
+   "upright_bass": 0.0,
+   "violin": 0.0,
+   "voice_male": 0.0,
+   "synth": 0.0
+  },
+  "style": {
+   "rock": 77.9,
+   "norteno": 21.9,
+   "banda": 0.2,
+   "bolero": 0.0,
+   "mariachi": 0.0,
+   "pop_ballad": 0.0,
+   "polka": 0.0,
+   "waltz": 0.0,
+   "ranchera": 0.0,
+   "corrido": 0.0,
+   "cumbia": 0.0
+  },
+  "bpm": 99.4,
+  "accent_period_corr": {
+   "2": 0.419,
+   "3": 0.034,
+   "4": 0.385
+  }
+ },
+ "project spain/LAB/ace/PR_B_beat_a18.flac": {
+  "instr": {
+   "accordion": 78.8,
+   "tuba_brass": 16.9,
+   "trumpets": 4.2,
+   "ac_guitar": 0.0,
+   "piano": 0.0,
+   "bajo_sexto": 0.0,
+   "elec_guitar": 0.0,
+   "elec_bass": 0.0,
+   "voice_duet": 0.0,
+   "drum_kit": 0.0,
+   "violin": 0.0,
+   "upright_bass": 0.0,
+   "synth": 0.0,
+   "voice_male": 0.0
+  },
+  "style": {
+   "rock": 83.3,
+   "norteno": 16.7,
+   "banda": 0.0,
+   "mariachi": 0.0,
+   "pop_ballad": 0.0,
+   "polka": 0.0,
+   "bolero": 0.0,
+   "waltz": 0.0,
+   "ranchera": 0.0,
+   "corrido": 0.0,
+   "cumbia": 0.0
+  },
+  "bpm": 99.4,
+  "accent_period_corr": {
+   "2": 0.287,
+   "3": -0.172,
+   "4": 0.598
+  }
+ },
+ "project spain/LAB/ace/PR_B_beat_a35.flac": {
+  "instr": {
+   "accordion": 79.4,
+   "tuba_brass": 18.0,
+   "trumpets": 2.5,
+   "ac_guitar": 0.0,
+   "bajo_sexto": 0.0,
+   "piano": 0.0,
+   "elec_guitar": 0.0,
+   "elec_bass": 0.0,
+   "voice_duet": 0.0,
+   "violin": 0.0,
+   "drum_kit": 0.0,
+   "upright_bass": 0.0,
+   "synth": 0.0,
+   "voice_male": 0.0
+  },
+  "style": {
+   "rock": 83.3,
+   "norteno": 16.7,
+   "banda": 0.0,
+   "mariachi": 0.0,
+   "pop_ballad": 0.0,
+   "polka": 0.0,
+   "bolero": 0.0,
+   "waltz": 0.0,
+   "ranchera": 0.0,
+   "corrido": 0.0,
+   "cumbia": 0.0
+  },
+  "bpm": 99.4,
+  "accent_period_corr": {
+   "2": 0.292,
+   "3": -0.188,
+   "4": 0.568
+  }
+ }
+}

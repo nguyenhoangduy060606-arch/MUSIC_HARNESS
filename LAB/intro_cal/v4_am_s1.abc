@@ -1,0 +1,104 @@
+X:1
+T:
+M:4/4
+L:1/16
+Q:1/4=96
+V: Vocal clef=treble name="Vocal Melody" snm="Vocal"
+V: Ins clef=treble name="Ins Melody" snm="Inst."
+K:A
+% intro
+V: Vocal
+Z4|
+V: Ins
+z6E2E2E2E2A2|c2c2c2c2d6B2|c8zEE2A2c2|cee2e2e2ef4zf2-|
+V: Vocal
+Z4|
+V: Ins
+feeee4zce2edc2|ee3d6d2dcB2|cc3A4zc2c2BAA|c3B6AA2A2GA-|
+V: Vocal
+Z4|
+V: Ins
+ABBBBBBBBBBBBBB2|c2c2c2c2E2c2c2c2|c2c2c2c2E2c2c2c2|c2c2c2c2E2c2c2c2|
+V: Vocal
+Z4|
+V: Ins
+G2G2G2E2E2G2G2G2|F8G8|c8A8|d8z2B2B2B2-|
+V: Vocal
+Z|
+V: Ins
+B2G2G2G2F2G2G2G2|
+% verse
+V: Vocal
+Z4|
+V: Ins
+A2A2A2A2E2A2A2A2|A2A2A2A2E2A2A2A2|A2A2A2A2E2A2A2A2|E2G2G2E2E2G2G2G2|
+V: Vocal
+Z4|
+V: Ins
+F8G8|c8A8|d16|z2c2a2c2g2c2f2c2|
+V: Vocal
+Z4|
+V: Ins
+A8B8|c16|e8f8|g16|
+V: Vocal
+Z4|
+V: Ins
+F2F2z2F2E2G2G2G2|A2A2A2A2F2^A2A2A2|B2B2B2B4B2B2B2-|B2c2a2c2g2c2f2c2|
+V: Vocal
+Z4|
+V: Ins
+A8B8|c16|e8f8|g16|
+V: Vocal
+Z4|
+V: Ins
+F2F2z2F2E2G2G2G2|A2A2A2A2F2^A2A2A2|B2B2B2B2G2G2G2G2|A2A2A2A2F2E2E2A2|
+% interlude
+V: Vocal
+Z4|
+V: Ins
+ccccc4d6B2|ccccc4zEE2A2c2|eee2e2e2ef4zf2-|feeee4zce2edc2|
+V: Vocal
+Z4|
+V: Ins
+ee3d6d2dccB|Bc3E6A2cBAA|c4B4zAA2A2GA-|A2BBBBBBBBBBBBB2|
+V: Vocal
+Z4|
+V: Ins
+A2A2A2A2E2A2A2A2|A2A2A2A2E2A2A2A2|A2A2A2A2E2A2A2A2|E2G2G2E2E2G2G2G2|
+V: Vocal
+Z4|
+V: Ins
+F8G8|c8A8|d16|z2c2a2c2g2c2f2c2|
+V: Vocal
+Z4|
+V: Ins
+A8B8|c16|e8f8|g16|
+V: Vocal
+Z4|
+V: Ins
+F2F2z2F2E2G2G2G2|A2A2A2A2F2^A2A2A2|d2d2d2d2d2d2d2d2-|d2c2a2c2g2c2f2c2|
+V: Vocal
+Z4|
+V: Ins
+A8B8|c16|e8f8|g16|
+V: Vocal
+Z4|
+V: Ins
+F2F2F2F2E2G2G2G2|A2A2A2A2F2^A2A2A2|d2d2d2d2E2G2G2G2|A2c2a2c2g2c2f2c2|
+V: Vocal
+Z4|
+V: Ins
+A8B8|c16|e8f8|g16|
+V: Vocal
+Z4|
+V: Ins
+F2F2F2F2E2G2G2G2|A2A2A2A2F2^A2A2A2|d2d2d2d2c2B2B2B2-|B2c2a2c2g2c2f2c2|
+% outro
+V: Vocal
+Z4|
+V: Ins
+A8B8|c16|e8f8|g16|
+V: Vocal
+Z3|
+V: Ins
+f2z6e2z6|c12cBAA|B4B8z4|

@@ -1,0 +1,252 @@
+{
+ "round": 1,
+ "n_pass": 2,
+ "n_total": 4,
+ "stage_ok": true,
+ "rows": [
+  {
+   "name": "prision_v1_B_s42",
+   "metrics": {
+    "floor_db": -71.2,
+    "lag_ms": 0,
+    "notes_pct": 79.0,
+    "spk_sim": 0.887,
+    "wer": 0.25
+   },
+   "score": 1.01,
+   "passed": true,
+   "results": [
+    {
+     "id": "floor_db",
+     "mode": "hard",
+     "x": -71.2,
+     "op": "<=",
+     "v": -60,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "notes_pct",
+     "mode": "hard",
+     "x": 79.0,
+     "op": ">=",
+     "v": 70,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "wer",
+     "mode": "hard",
+     "x": 0.25,
+     "op": "<=",
+     "v": 0.45,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "spk_sim",
+     "mode": "hard",
+     "x": 0.887,
+     "op": ">=",
+     "v": 0.88,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "lag_ms",
+     "mode": "hard",
+     "x": 0,
+     "op": "<=",
+     "v": 80,
+     "pass": true,
+     "provisional": false
+    }
+   ],
+   "fails": []
+  },
+  {
+   "name": "prision_v1_B_s7",
+   "metrics": {
+    "floor_db": -70.2,
+    "lag_ms": 5,
+    "notes_pct": 80.5,
+    "spk_sim": 0.89,
+    "wer": 0.43
+   },
+   "score": 0.962,
+   "passed": true,
+   "results": [
+    {
+     "id": "floor_db",
+     "mode": "hard",
+     "x": -70.2,
+     "op": "<=",
+     "v": -60,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "notes_pct",
+     "mode": "hard",
+     "x": 80.5,
+     "op": ">=",
+     "v": 70,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "wer",
+     "mode": "hard",
+     "x": 0.43,
+     "op": "<=",
+     "v": 0.45,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "spk_sim",
+     "mode": "hard",
+     "x": 0.89,
+     "op": ">=",
+     "v": 0.88,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "lag_ms",
+     "mode": "hard",
+     "x": 5,
+     "op": "<=",
+     "v": 80,
+     "pass": true,
+     "provisional": false
+    }
+   ],
+   "fails": []
+  },
+  {
+   "name": "prision_v1_A_s42",
+   "metrics": {
+    "floor_db": -71.2,
+    "lag_ms": 0,
+    "notes_pct": 79.3,
+    "spk_sim": 0.891,
+    "wer": 0.59
+   },
+   "score": 0.912,
+   "passed": false,
+   "results": [
+    {
+     "id": "floor_db",
+     "mode": "hard",
+     "x": -71.2,
+     "op": "<=",
+     "v": -60,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "notes_pct",
+     "mode": "hard",
+     "x": 79.3,
+     "op": ">=",
+     "v": 70,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "wer",
+     "mode": "hard",
+     "x": 0.59,
+     "op": "<=",
+     "v": 0.45,
+     "pass": false,
+     "provisional": false
+    },
+    {
+     "id": "spk_sim",
+     "mode": "hard",
+     "x": 0.891,
+     "op": ">=",
+     "v": 0.88,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "lag_ms",
+     "mode": "hard",
+     "x": 0,
+     "op": "<=",
+     "v": 80,
+     "pass": true,
+     "provisional": false
+    }
+   ],
+   "fails": [
+    "wer"
+   ]
+  },
+  {
+   "name": "prision_v1_A_s7",
+   "metrics": {
+    "floor_db": -70.2,
+    "lag_ms": 0,
+    "notes_pct": 80.6,
+    "spk_sim": 0.893,
+    "wer": 2.74
+   },
+   "score": 0.495,
+   "passed": false,
+   "results": [
+    {
+     "id": "floor_db",
+     "mode": "hard",
+     "x": -70.2,
+     "op": "<=",
+     "v": -60,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "notes_pct",
+     "mode": "hard",
+     "x": 80.6,
+     "op": ">=",
+     "v": 70,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "wer",
+     "mode": "hard",
+     "x": 2.74,
+     "op": "<=",
+     "v": 0.45,
+     "pass": false,
+     "provisional": false
+    },
+    {
+     "id": "spk_sim",
+     "mode": "hard",
+     "x": 0.893,
+     "op": ">=",
+     "v": 0.88,
+     "pass": true,
+     "provisional": false
+    },
+    {
+     "id": "lag_ms",
+     "mode": "hard",
+     "x": 0,
+     "op": "<=",
+     "v": 80,
+     "pass": true,
+     "provisional": false
+    }
+   ],
+   "fails": [
+    "wer"
+   ]
+  }
+ ]
+}

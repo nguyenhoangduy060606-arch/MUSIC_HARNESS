@@ -1,0 +1,36 @@
+{
+ "bpm": 100.36,
+ "tempo_dev_ms": 19,
+ "inst_dur_s": 188.16,
+ "voc_dur_s": 188.16,
+ "first_onset_s": 0.23219954648526078,
+ "voice_first_s": 0.0,
+ "voice_last_s": 174.0,
+ "gap": [
+  96.0,
+  114.0
+ ],
+ "sections": {
+  "intro": [
+   0.0,
+   2.0
+  ],
+  "loi1": [
+   3.0,
+   93.0
+  ],
+  "giua": [
+   97.0,
+   113.0
+  ],
+  "loi2": [
+   117.0,
+   171.0
+  ]
+ },
+ "intro_end_s": 21.6,
+ "key_src": "Ab",
+ "key_new": "G",
+ "q": 100,
+ "keyscale": "G major"
+}

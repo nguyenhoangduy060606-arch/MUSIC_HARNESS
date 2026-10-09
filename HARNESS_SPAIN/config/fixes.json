@@ -1,0 +1,49 @@
+{
+  "_doc": "Bảng SỬA LỖI: triệu chứng (Duy/bên yêu cầu nói) → việc harness làm. Dùng: python run.py fix <bài> <triệu_chứng>. Mỗi việc là một hành động có tên: plan (đổi tham số bài), redo (chạy lại bước), goto (quay về bước + sang vòng sau), patch (đổi thang vòng kế), intros (render thêm dạo đầu). Bản đã duyệt luôn được chép sang NGHE/_da_duyet_<giờ>/ trước khi sửa (R12).",
+  "vao_nhac_lech": {
+    "mo_ta": "Chỗ giọng vào nhạc nghe không khớp beat (thường: dạo đầu ghép vào lệch pha với beat chính).",
+    "do": "joincheck",
+    "lam": [{"redo": ["finalize_beat", "mix", "pack"]}],
+    "luu_y": "finalize_beat luôn khớp pha dạo đầu với beat chính rồi mới ghép; nếu vẫn lệch: thử dạo đầu khác (--intro) ở HG1."
+  },
+  "beat_to": {
+    "mo_ta": "Beat lấn giọng.",
+    "lam": [{"plan": {"mix.bal_offset_db": "+1.5", "mix.duck_db": "+1.0"}}, {"redo": ["mix", "pack"]}]
+  },
+  "giong_nho": {
+    "mo_ta": "Giọng nhỏ/chìm so với beat.",
+    "lam": [{"plan": {"mix.bal_offset_db": "+2.0"}}, {"redo": ["mix", "pack"]}]
+  },
+  "re_xi": {
+    "mo_ta": "Nghe rè/xì (đo: nền xì giọng, master quá to).",
+    "lam": [{"plan": {"clean_hf": "=6"}}, {"redo": ["vocal_gate", "mix", "pack"]}]
+  },
+  "giong_khong_ro": {
+    "mo_ta": "Giọng nghe không rõ chữ.",
+    "lam": [{"patch": {"vocal": {"captions": ["B"], "acs": 0.6}}}, {"goto": "vocal_render", "round_vocal": "+1"}]
+  },
+  "giong_gat": {
+    "mo_ta": "Giọng gắt/chói.",
+    "lam": [{"patch": {"vocal": {"captions": ["B"]}}}, {"plan": {"clean_hf": "=6"}}, {"goto": "vocal_render", "round_vocal": "+1"}]
+  },
+  "intro_sai": {
+    "mo_ta": "Vài giây đầu khác bản gốc / nghe như đánh lỗi.",
+    "lam": [{"intros": {"seeds": "31,32,33,34"}}]
+  },
+  "sax_san": {
+    "mo_ta": "Đàn sax có sạn, không đều (Duy 2026-10-08: kiểu 'am' không sax mượt hơn).",
+    "lam": [{"patch": {"beat": {"styles": ["am"]}}}, {"goto": "beat_render", "round_beat": "+1"}]
+  },
+  "beat_hut_phach": {
+    "mo_ta": "Beat lúc nhanh lúc chậm / mất nhịp (YuE2 hụt-thừa phách).",
+    "lam": [{"patch": {"beat": {"abc": "full_dense"}}}, {"goto": "beat_render", "round_beat": "+1"}]
+  },
+  "thieu_accordion": {
+    "mo_ta": "Beat không nghe ra accordion.",
+    "lam": [{"patch": {"beat": {"styles": ["am", "cl"]}}}, {"goto": "beat_render", "round_beat": "+1"}]
+  },
+  "bi_chan": {
+    "mo_ta": "Bước bị BLOCKED (hết lượt).",
+    "lam": [{"huong_dan": "Đọc state.blocked_reason. Lỗi mã → sửa mã rồi `run.py unblock <bài> --why ...`. Hết thang vòng → báo Duy 5 dòng, xin hướng mới (đổi kiểu/ABC), KHÔNG tự nới ngưỡng (R10)."}]
+  }
+}

@@ -1,0 +1,68 @@
+[
+ {
+  "audio": "songs\\es_no_pude\\00_source\\es_no_pude.mp3",
+  "abc": "songs\\es_no_pude\\abc\\es_no_pude_full.abc",
+  "style": "Norteño, Mexican regional music, male tenor singing in Spanish, bright nasal heartfelt norteño vocal, button accordion fills between phrases, bajo sexto strumming, bass on the downbeat, light drums, romantic, warm natural sound.",
+  "lyrics": "[Intro]\n\n[Verse 1]\nTú me robaste el alba\nTú me robaste el amor\nTú, esa vez que te fuiste\nTambién me dejaste sin mi corazón\n\n[Verse 2]\nHoy que de nuevo te encuentro\nQuiero sentir otra vez\nTus manos sobre mi cuerpo\nTu aliento y tus labios quemando mi piel\n\n[Chorus]\nPorque no pude enamorarme más\nTú te adueñaste de mi voluntad\nEn todo este tiempo he guardado deseos\nY quiero saciarme en ti nada más\nVen a mis brazos, vuélveme a querer\nEscucha lo que tengo para ti\nMi cuerpo te espera, te quiero de veras\nSi tú no regresas me voy a morir\n\n[Bridge]\n\n[Verse 2]\nHoy que de nuevo te encuentro\nQuiero sentir otra vez\nTus manos sobre mi cuerpo\nTu aliento y tus labios quemando mi piel\n\n[Chorus]\nPorque no pude enamorarme más\nTú te adueñaste de mi voluntad\nEn todo este tiempo he guardado deseos\nY quiero saciarme en ti nada más\nVen a mis brazos, vuélveme a querer\nEscucha lo que tengo para ti\nMi cuerpo te espera, te quiero de veras\nSi tú no regresas me voy a morir\n\n[Outro]\n",
+  "seed": 2,
+  "max": "auto",
+  "cfg": 1.0,
+  "name": "NP_r1_goc_s2",
+  "note": "norteño cung gốc, seed 2"
+ },
+ {
+  "audio": "songs\\es_no_pude\\00_source\\es_no_pude.mp3",
+  "abc": "songs\\es_no_pude\\abc\\es_no_pude_full.abc",
+  "style": "Norteño romántico, Mexican regional, accordion intro solo and accordion answers between vocal lines, male lead vocal in Spanish with a second male voice harmonizing in thirds on the chorus, bajo sexto, bass, light drums, two-step rhythm, warm and heartfelt.",
+  "lyrics": "[Intro]\n\n[Verse 1]\nTú me robaste el alba\nTú me robaste el amor\nTú, esa vez que te fuiste\nTambién me dejaste sin mi corazón\n\n[Verse 2]\nHoy que de nuevo te encuentro\nQuiero sentir otra vez\nTus manos sobre mi cuerpo\nTu aliento y tus labios quemando mi piel\n\n[Chorus]\nPorque no pude enamorarme más\nTú te adueñaste de mi voluntad\nEn todo este tiempo he guardado deseos\nY quiero saciarme en ti nada más\nVen a mis brazos, vuélveme a querer\nEscucha lo que tengo para ti\nMi cuerpo te espera, te quiero de veras\nSi tú no regresas me voy a morir\n\n[Bridge]\n\n[Verse 2]\nHoy que de nuevo te encuentro\nQuiero sentir otra vez\nTus manos sobre mi cuerpo\nTu aliento y tus labios quemando mi piel\n\n[Chorus]\nPorque no pude enamorarme más\nTú te adueñaste de mi voluntad\nEn todo este tiempo he guardado deseos\nY quiero saciarme en ti nada más\nVen a mis brazos, vuélveme a querer\nEscucha lo que tengo para ti\nMi cuerpo te espera, te quiero de veras\nSi tú no regresas me voy a morir\n\n[Outro]\n",
+  "seed": 1406623896,
+  "max": "auto",
+  "cfg": 1.0,
+  "name": "NP_r1_goc_be_s1",
+  "note": "norteño + bè thứ hai + accordion dạo"
+ },
+ {
+  "audio": "songs\\es_no_pude\\00_source\\es_no_pude.mp3",
+  "abc": "songs\\es_no_pude\\abc\\es_no_pude_full_hacung_Ab.abc",
+  "style": "Norteño, Mexican regional music, male tenor singing in Spanish, bright nasal heartfelt norteño vocal, button accordion fills between phrases, bajo sexto strumming, bass on the downbeat, light drums, romantic, warm natural sound.",
+  "lyrics": "[Intro]\n\n[Verse 1]\nTú me robaste el alba\nTú me robaste el amor\nTú, esa vez que te fuiste\nTambién me dejaste sin mi corazón\n\n[Verse 2]\nHoy que de nuevo te encuentro\nQuiero sentir otra vez\nTus manos sobre mi cuerpo\nTu aliento y tus labios quemando mi piel\n\n[Chorus]\nPorque no pude enamorarme más\nTú te adueñaste de mi voluntad\nEn todo este tiempo he guardado deseos\nY quiero saciarme en ti nada más\nVen a mis brazos, vuélveme a querer\nEscucha lo que tengo para ti\nMi cuerpo te espera, te quiero de veras\nSi tú no regresas me voy a morir\n\n[Bridge]\n\n[Verse 2]\nHoy que de nuevo te encuentro\nQuiero sentir otra vez\nTus manos sobre mi cuerpo\nTu aliento y tus labios quemando mi piel\n\n[Chorus]\nPorque no pude enamorarme más\nTú te adueñaste de mi voluntad\nEn todo este tiempo he guardado deseos\nY quiero saciarme en ti nada más\nVen a mis brazos, vuélveme a querer\nEscucha lo que tengo para ti\nMi cuerpo te espera, te quiero de veras\nSi tú no regresas me voy a morir\n\n[Outro]\n",
+  "seed": 1406623896,
+  "max": "auto",
+  "cfg": 1.0,
+  "name": "NP_r1_hacung_s1",
+  "note": "hạ 1 cung Ab, GIỮ tốc độ"
+ },
+ {
+  "audio": "songs\\es_prision\\00_source\\es_prision.mp3",
+  "abc": "songs\\es_prision\\abc\\es_prision_full.abc",
+  "style": "Norteño, Mexican regional music, male tenor singing in Spanish, bright nasal heartfelt norteño vocal, button accordion fills between phrases, bajo sexto strumming, bass on the downbeat, light drums, romantic, warm natural sound.",
+  "lyrics": "[Intro]\n\n[Verse 1]\nMi amor no es pasajero, verás\nQue todo te lo voy a entregar\nY nada yo te voy a ocultar\nPorque te quiero en verdad, lo juro\nRegálame tus besos de miel\nImprégname tu aroma en la piel\nY hazme que me sienta soñar\nCon esa forma de amar, cariño\n\n[Chorus]\nEsta entrega será diferente\nSer el uno del otro por siempre\nNo como esos que dan y enseguida se van\nY que te hacen llorar, llorar\nA nosotros nos sobran motivos\nEs por eso que estamos cautivos\nEn esta prisión donde hay solo amor, cariño\n\n[Bridge]\n\n[Verse 2]\nRegálame tus besos de miel\nImprégname tu aroma en la piel\nY hazme que me sienta soñar\nCon esa forma de amar, cariño\n\n[Chorus]\nEsta entrega será diferente\nSer el uno del otro por siempre\nNo como esos que dan y enseguida se van\nY que te hacen llorar, llorar\nA nosotros nos sobran motivos\nEs por eso que estamos cautivos\nEn esta prisión donde hay solo amor, cariño\n\n[Outro]\n",
+  "seed": 2,
+  "max": "auto",
+  "cfg": 1.0,
+  "name": "PR_r1_goc_s2",
+  "note": "norteño cung gốc, seed 2"
+ },
+ {
+  "audio": "songs\\es_prision\\00_source\\es_prision.mp3",
+  "abc": "songs\\es_prision\\abc\\es_prision_full.abc",
+  "style": "Norteño romántico, Mexican regional, accordion intro solo and accordion answers between vocal lines, male lead vocal in Spanish with a second male voice harmonizing in thirds on the chorus, bajo sexto, bass, light drums, two-step rhythm, warm and heartfelt.",
+  "lyrics": "[Intro]\n\n[Verse 1]\nMi amor no es pasajero, verás\nQue todo te lo voy a entregar\nY nada yo te voy a ocultar\nPorque te quiero en verdad, lo juro\nRegálame tus besos de miel\nImprégname tu aroma en la piel\nY hazme que me sienta soñar\nCon esa forma de amar, cariño\n\n[Chorus]\nEsta entrega será diferente\nSer el uno del otro por siempre\nNo como esos que dan y enseguida se van\nY que te hacen llorar, llorar\nA nosotros nos sobran motivos\nEs por eso que estamos cautivos\nEn esta prisión donde hay solo amor, cariño\n\n[Bridge]\n\n[Verse 2]\nRegálame tus besos de miel\nImprégname tu aroma en la piel\nY hazme que me sienta soñar\nCon esa forma de amar, cariño\n\n[Chorus]\nEsta entrega será diferente\nSer el uno del otro por siempre\nNo como esos que dan y enseguida se van\nY que te hacen llorar, llorar\nA nosotros nos sobran motivos\nEs por eso que estamos cautivos\nEn esta prisión donde hay solo amor, cariño\n\n[Outro]\n",
+  "seed": 1406623896,
+  "max": "auto",
+  "cfg": 1.0,
+  "name": "PR_r1_goc_be_s1",
+  "note": "norteño + bè thứ hai + accordion dạo"
+ },
+ {
+  "audio": "songs\\es_prision\\00_source\\es_prision.mp3",
+  "abc": "songs\\es_prision\\abc\\es_prision_full_hacung_Gb.abc",
+  "style": "Norteño, Mexican regional music, male tenor singing in Spanish, bright nasal heartfelt norteño vocal, button accordion fills between phrases, bajo sexto strumming, bass on the downbeat, light drums, romantic, warm natural sound.",
+  "lyrics": "[Intro]\n\n[Verse 1]\nMi amor no es pasajero, verás\nQue todo te lo voy a entregar\nY nada yo te voy a ocultar\nPorque te quiero en verdad, lo juro\nRegálame tus besos de miel\nImprégname tu aroma en la piel\nY hazme que me sienta soñar\nCon esa forma de amar, cariño\n\n[Chorus]\nEsta entrega será diferente\nSer el uno del otro por siempre\nNo como esos que dan y enseguida se van\nY que te hacen llorar, llorar\nA nosotros nos sobran motivos\nEs por eso que estamos cautivos\nEn esta prisión donde hay solo amor, cariño\n\n[Bridge]\n\n[Verse 2]\nRegálame tus besos de miel\nImprégname tu aroma en la piel\nY hazme que me sienta soñar\nCon esa forma de amar, cariño\n\n[Chorus]\nEsta entrega será diferente\nSer el uno del otro por siempre\nNo como esos que dan y enseguida se van\nY que te hacen llorar, llorar\nA nosotros nos sobran motivos\nEs por eso que estamos cautivos\nEn esta prisión donde hay solo amor, cariño\n\n[Outro]\n",
+  "seed": 1406623896,
+  "max": "auto",
+  "cfg": 1.0,
+  "name": "PR_r1_hacung_s1",
+  "note": "hạ 1 cung Gb, GIỮ tốc độ"
+ }
+]

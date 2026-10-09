@@ -1,0 +1,39 @@
+{
+ "project spain/LAB/NP_r0_goc_s1__giong48.flac": {
+  "instr": {
+   "voice_duet": 74.3,
+   "accordion": 25.7,
+   "trumpets": 0.0,
+   "bajo_sexto": 0.0,
+   "tuba_brass": 0.0,
+   "drum_kit": 0.0,
+   "ac_guitar": 0.0,
+   "synth": 0.0,
+   "elec_guitar": 0.0,
+   "violin": 0.0,
+   "voice_male": 0.0,
+   "piano": 0.0,
+   "elec_bass": 0.0,
+   "upright_bass": 0.0
+  },
+  "style": {
+   "norteno": 61.9,
+   "banda": 34.8,
+   "rock": 3.3,
+   "polka": 0.0,
+   "pop_ballad": 0.0,
+   "mariachi": 0.0,
+   "ranchera": 0.0,
+   "bolero": 0.0,
+   "waltz": 0.0,
+   "cumbia": 0.0,
+   "corrido": 0.0
+  },
+  "bpm": 99.4,
+  "accent_period_corr": {
+   "2": 0.187,
+   "3": 0.114,
+   "4": 0.127
+  }
+ }
+}

@@ -1,0 +1,174 @@
+{
+ "round": 1,
+ "intro_end_s": 21.6,
+ "rows": [
+  {
+   "name": "i1_am_s22",
+   "metrics": {
+    "voice_pct": 0.0,
+    "accordion_pct": 51.9,
+    "intro_match": 0.717,
+    "intro_cos": 0.856,
+    "intro_first_onset_dev_s": 0.163,
+    "intro_off_s": 0.627,
+    "intro_score": 1.089
+   },
+   "score": 1.573,
+   "passed": true
+  },
+  {
+   "name": "i1_am_s21",
+   "metrics": {
+    "voice_pct": 0.0,
+    "accordion_pct": 50.2,
+    "intro_match": 0.662,
+    "intro_cos": 0.832,
+    "intro_first_onset_dev_s": 0.046,
+    "intro_off_s": 0.302,
+    "intro_score": 1.011
+   },
+   "score": 1.494,
+   "passed": true
+  },
+  {
+   "name": "i1_am_s23",
+   "metrics": {
+    "voice_pct": 0.0,
+    "accordion_pct": 99.6,
+    "intro_match": 0.649,
+    "intro_cos": 0.837,
+    "intro_first_onset_dev_s": 0.163,
+    "intro_off_s": 0.673,
+    "intro_score": 1.264
+   },
+   "score": 1.486,
+   "passed": true
+  },
+  {
+   "name": "i1_am_s24",
+   "metrics": {
+    "voice_pct": 0.0,
+    "accordion_pct": 99.3,
+    "intro_match": 0.634,
+    "intro_cos": 0.815,
+    "intro_first_onset_dev_s": 0.151,
+    "intro_off_s": 0.488,
+    "intro_score": 1.294
+   },
+   "score": 1.4489999999999998,
+   "passed": true
+  },
+  {
+   "name": "i1_cl_s21",
+   "metrics": {
+    "voice_pct": 0.0,
+    "accordion_pct": 91.8,
+    "intro_match": 0.501,
+    "intro_cos": 0.791,
+    "intro_first_onset_dev_s": 0.302,
+    "intro_off_s": -0.046,
+    "intro_score": 1.222
+   },
+   "score": 1.292,
+   "passed": true
+  },
+  {
+   "name": "i1_cl_s22",
+   "metrics": {
+    "voice_pct": 0.0,
+    "accordion_pct": 2.7,
+    "intro_match": 0.68,
+    "intro_cos": 0.846,
+    "intro_first_onset_dev_s": 0.163,
+    "intro_off_s": 0.743,
+    "intro_score": 1.074
+   },
+   "score": 1.526,
+   "passed": false
+  },
+  {
+   "name": "i1_cl_s23",
+   "metrics": {
+    "voice_pct": 0.0,
+    "accordion_pct": 0.0,
+    "intro_match": 0.726,
+    "intro_cos": 0.784,
+    "intro_first_onset_dev_s": 0.023,
+    "intro_off_s": 1.045,
+    "intro_score": 1.113
+   },
+   "score": 1.51,
+   "passed": false
+  },
+  {
+   "name": "i1_su_s24",
+   "metrics": {
+    "voice_pct": 0.0,
+    "accordion_pct": 14.0,
+    "intro_match": 0.66,
+    "intro_cos": 0.85,
+    "intro_first_onset_dev_s": 0.163,
+    "intro_off_s": 0.511,
+    "intro_score": 1.004
+   },
+   "score": 1.51,
+   "passed": false
+  },
+  {
+   "name": "i1_cl_s24",
+   "metrics": {
+    "voice_pct": 10.6,
+    "accordion_pct": 11.2,
+    "intro_match": 0.543,
+    "intro_cos": 0.806,
+    "intro_first_onset_dev_s": 0.163,
+    "intro_off_s": 0.186,
+    "intro_score": 1.152
+   },
+   "score": 1.3490000000000002,
+   "passed": false
+  },
+  {
+   "name": "i1_su_s23",
+   "metrics": {
+    "voice_pct": 0.0,
+    "accordion_pct": 3.7,
+    "intro_match": 0.512,
+    "intro_cos": 0.825,
+    "intro_first_onset_dev_s": 0.093,
+    "intro_off_s": 0.952,
+    "intro_score": 0.992
+   },
+   "score": 1.337,
+   "passed": false
+  },
+  {
+   "name": "i1_su_s22",
+   "metrics": {
+    "voice_pct": 0.0,
+    "accordion_pct": 0.0,
+    "intro_match": 0.528,
+    "intro_cos": 0.794,
+    "intro_first_onset_dev_s": 0.163,
+    "intro_off_s": 0.697,
+    "intro_score": 1.383
+   },
+   "score": 1.322,
+   "passed": false
+  },
+  {
+   "name": "i1_su_s21",
+   "metrics": {
+    "voice_pct": 0.0,
+    "accordion_pct": 0.0,
+    "intro_match": 0.499,
+    "intro_cos": 0.783,
+    "intro_first_onset_dev_s": 0.267,
+    "intro_off_s": 0.0,
+    "intro_score": 1.208
+   },
+   "score": 1.282,
+   "passed": false
+  }
+ ]
+}

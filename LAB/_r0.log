@@ -1,0 +1,14 @@
+[21:06:14] === VÒNG MỚI: 3 bản (_jobs_r0.json). Mỗi bản ~4-5 phút, chạy lần lượt từng bản trên lab ===
+[21:06:14] [1/3] BẮT ĐẦU NP_r0_goc_s1: norteño, giữ cung gốc | seed 1406623896 | dài 217 s | nốt: es_no_pude_full.abc
+[21:06:14]     -> ComfyUI: 1) nạp model YuE2  2) YuE2 viết nhạc theo nốt ABC (lâu nhất)  3) KSampler 32 bước tô âm thanh  4) giải mã + lưu FLAC
+[21:08:42]     XONG NP_r0_goc_s1 sau 126 s | giọng hát 48% (CÓ GIỌNG, loại) | giữ giai điệu 0.578 (mức của bản nốt so với bản gốc = 0.488) | máy nghe ra: voice 47%, brass 27%, flute 9%
+{"file": "NP_r0_goc_s1__giong48.flac", "voice_pct": 48, "top": [["voice", 0.47], ["brass", 0.269], ["flute", 0.09], ["violin_fiddle", 0.038], ["choir", 0.029]]}
+[21:08:42] [2/3] BẮT ĐẦU NP_r0_doicung_s1: norteño, hạ 1 cung Ab chậm 10% 91 | seed 1406623896 | dài 240 s | nốt: es_no_pude_full_doicung_Ab_q91.abc
+[21:08:42]     -> ComfyUI: 1) nạp model YuE2  2) YuE2 viết nhạc theo nốt ABC (lâu nhất)  3) KSampler 32 bước tô âm thanh  4) giải mã + lưu FLAC
+[21:11:22]     XONG NP_r0_doicung_s1 sau 141 s | giọng hát 52% (CÓ GIỌNG, loại) | giữ giai điệu 0.534 (mức của bản nốt so với bản gốc = 0.144) | máy nghe ra: voice 51%, brass 14%, flute 8%
+{"file": "NP_r0_doicung_s1__giong52.flac", "voice_pct": 52, "top": [["voice", 0.51], ["brass", 0.136], ["flute", 0.083], ["bass", 0.056], ["lute", 0.042]]}
+[21:11:22] [3/3] BẮT ĐẦU PR_r0_goc_s1: norteño, giữ cung gốc | seed 1406623896 | dài 190 s | nốt: es_prision_full.abc
+[21:11:22]     -> ComfyUI: 1) nạp model YuE2  2) YuE2 viết nhạc theo nốt ABC (lâu nhất)  3) KSampler 32 bước tô âm thanh  4) giải mã + lưu FLAC
+[21:13:25]     XONG PR_r0_goc_s1 sau 104 s | giọng hát 38% (CÓ GIỌNG, loại) | giữ giai điệu 0.65 (mức của bản nốt so với bản gốc = 0.58) | máy nghe ra: voice 37%, brass 25%, flute 11%
+{"file": "PR_r0_goc_s1__giong38.flac", "voice_pct": 38, "top": [["voice", 0.368], ["brass", 0.25], ["flute", 0.106], ["frame_drum", 0.054], ["bass", 0.044]]}
+[21:13:25] === HẾT VÒNG. Số máy chỉ để lọc lỗi; tai Duy quyết hay/dở ===

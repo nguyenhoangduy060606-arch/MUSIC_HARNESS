@@ -1,0 +1,12 @@
+{
+  "id": "ten_bai_khong_dau",
+  "title": "Tên bài",
+  "inputs": {
+    "original_mp3": "đường dẫn bài gốc .mp3",
+    "stem_inst": "đường dẫn beat đã tách (.wav)",
+    "stem_vocals": "đường dẫn giọng đã tách (.wav)",
+    "lyrics_txt": "file lời chuẩn Duy gửi (.txt, có thể có nhãn [Verse]...)"
+  },
+  "reference": {"suno_beat": null, "suno_vocals": null, "note": "tùy chọn: bản cover Suno đã tách, dùng làm mốc giờ/so sánh"},
+  "plan": {"shift_semis": -1, "tempo_ratio": 1.0, "gate_sim": 0.62, "vocal_end_s": null, "mix": {"bal_offset_db": 0.0, "duck_db": 1.0}, "clean_hf": 4}
+}

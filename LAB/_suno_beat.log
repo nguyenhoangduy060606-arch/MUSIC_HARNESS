@@ -1,0 +1,38 @@
+[15:03:26] === VÒNG MỚI: 9 bản (_jobs_suno_beat.json). Mỗi bản ~4-5 phút, chạy lần lượt từng bản trên lab ===
+[15:03:26] [1/9] BẮT ĐẦU su_B_su_s1:  | seed 1 | dài 209 s | nốt: suno_beat_A_q98.abc
+[15:03:26]     -> ComfyUI: 1) nạp model YuE2  2) YuE2 viết nhạc theo nốt ABC (lâu nhất)  3) KSampler 32 bước tô âm thanh  4) giải mã + lưu FLAC
+[15:05:50]     XONG su_B_su_s1 sau 119 s | giọng hát 3% (sạch) | giữ giai điệu 0.652 (mức của bản nốt so với bản gốc = 0.15) | máy nghe ra: brass 35%, flute 21%, lute 17%
+{"file": "su_B_su_s1__giong03.flac", "voice_pct": 3, "top": [["brass", 0.35], ["flute", 0.214], ["lute", 0.173], ["violin_fiddle", 0.074], ["piano", 0.038]]}
+[15:05:50] [2/9] BẮT ĐẦU su_B_su_s2:  | seed 2 | dài 209 s | nốt: suno_beat_A_q98.abc
+[15:05:50]     -> ComfyUI: 1) nạp model YuE2  2) YuE2 viết nhạc theo nốt ABC (lâu nhất)  3) KSampler 32 bước tô âm thanh  4) giải mã + lưu FLAC
+[15:08:03]     XONG su_B_su_s2 sau 113 s | giọng hát 2% (sạch) | giữ giai điệu 0.543 (mức của bản nốt so với bản gốc = 0.15) | máy nghe ra: brass 41%, flute 19%, violin_fiddle 9%
+{"file": "su_B_su_s2__giong02.flac", "voice_pct": 2, "top": [["brass", 0.414], ["flute", 0.186], ["violin_fiddle", 0.087], ["frame_drum", 0.061], ["bass", 0.058]]}
+[15:08:03] [3/9] BẮT ĐẦU su_B_su_s7:  | seed 7 | dài 209 s | nốt: suno_beat_A_q98.abc
+[15:08:03]     -> ComfyUI: 1) nạp model YuE2  2) YuE2 viết nhạc theo nốt ABC (lâu nhất)  3) KSampler 32 bước tô âm thanh  4) giải mã + lưu FLAC
+[15:10:17]     XONG su_B_su_s7 sau 113 s | giọng hát 0% (sạch) | giữ giai điệu 0.528 (mức của bản nốt so với bản gốc = 0.15) | máy nghe ra: brass 41%, flute 28%, violin_fiddle 9%
+{"file": "su_B_su_s7__giong00.flac", "voice_pct": 0, "top": [["brass", 0.411], ["flute", 0.277], ["violin_fiddle", 0.087], ["lute", 0.072], ["piano", 0.044]]}
+[15:10:17] [4/9] BẮT ĐẦU su_B_cl_s1:  | seed 1 | dài 209 s | nốt: suno_beat_A_q98.abc
+[15:10:17]     -> ComfyUI: 1) nạp model YuE2  2) YuE2 viết nhạc theo nốt ABC (lâu nhất)  3) KSampler 32 bước tô âm thanh  4) giải mã + lưu FLAC
+[15:12:30]     XONG su_B_cl_s1 sau 113 s | giọng hát 0% (sạch) | giữ giai điệu 0.496 (mức của bản nốt so với bản gốc = 0.15) | máy nghe ra: brass 57%, violin_fiddle 12%, flute 9%
+{"file": "su_B_cl_s1__giong00.flac", "voice_pct": 0, "top": [["brass", 0.566], ["violin_fiddle", 0.123], ["flute", 0.09], ["frame_drum", 0.064], ["lute", 0.044]]}
+[15:12:30] [5/9] BẮT ĐẦU su_B_cl_s2:  | seed 2 | dài 209 s | nốt: suno_beat_A_q98.abc
+[15:12:30]     -> ComfyUI: 1) nạp model YuE2  2) YuE2 viết nhạc theo nốt ABC (lâu nhất)  3) KSampler 32 bước tô âm thanh  4) giải mã + lưu FLAC
+[15:14:54]     XONG su_B_cl_s2 sau 113 s | giọng hát 1% (sạch) | giữ giai điệu 0.521 (mức của bản nốt so với bản gốc = 0.15) | máy nghe ra: brass 49%, flute 12%, piano 10%
+{"file": "su_B_cl_s2__giong01.flac", "voice_pct": 1, "top": [["brass", 0.494], ["flute", 0.125], ["piano", 0.1], ["lute", 0.065], ["violin_fiddle", 0.051]]}
+[15:14:54] [6/9] BẮT ĐẦU su_B_cl_s7:  | seed 7 | dài 209 s | nốt: suno_beat_A_q98.abc
+[15:14:54]     -> ComfyUI: 1) nạp model YuE2  2) YuE2 viết nhạc theo nốt ABC (lâu nhất)  3) KSampler 32 bước tô âm thanh  4) giải mã + lưu FLAC
+[15:17:12]     XONG su_B_cl_s7 sau 110 s | giọng hát 2% (sạch) | giữ giai điệu 0.309 (mức của bản nốt so với bản gốc = 0.15) | máy nghe ra: brass 53%, flute 9%, frame_drum 9%
+{"file": "su_B_cl_s7__giong02.flac", "voice_pct": 2, "top": [["brass", 0.529], ["flute", 0.09], ["frame_drum", 0.089], ["violin_fiddle", 0.063], ["piano", 0.039]]}
+[15:17:12] [7/9] BẮT ĐẦU su_B_am_s1:  | seed 1 | dài 209 s | nốt: suno_beat_A_q98.abc
+[15:17:12]     -> ComfyUI: 1) nạp model YuE2  2) YuE2 viết nhạc theo nốt ABC (lâu nhất)  3) KSampler 32 bước tô âm thanh  4) giải mã + lưu FLAC
+[15:19:35]     XONG su_B_am_s1 sau 113 s | giọng hát 4% (sạch) | giữ giai điệu 0.468 (mức của bản nốt so với bản gốc = 0.15) | máy nghe ra: brass 38%, flute 22%, violin_fiddle 7%
+{"file": "su_B_am_s1__giong04.flac", "voice_pct": 4, "top": [["brass", 0.383], ["flute", 0.222], ["violin_fiddle", 0.072], ["frame_drum", 0.072], ["lute", 0.065]]}
+[15:19:35] [8/9] BẮT ĐẦU su_B_am_s2:  | seed 2 | dài 209 s | nốt: suno_beat_A_q98.abc
+[15:19:35]     -> ComfyUI: 1) nạp model YuE2  2) YuE2 viết nhạc theo nốt ABC (lâu nhất)  3) KSampler 32 bước tô âm thanh  4) giải mã + lưu FLAC
+[15:21:57]     XONG su_B_am_s2 sau 113 s | giọng hát 2% (sạch) | giữ giai điệu 0.556 (mức của bản nốt so với bản gốc = 0.15) | máy nghe ra: brass 34%, flute 18%, lute 10%
+{"file": "su_B_am_s2__giong02.flac", "voice_pct": 2, "top": [["brass", 0.335], ["flute", 0.185], ["lute", 0.098], ["violin_fiddle", 0.096], ["piano", 0.07]]}
+[15:21:57] [9/9] BẮT ĐẦU su_B_am_s7:  | seed 7 | dài 209 s | nốt: suno_beat_A_q98.abc
+[15:21:57]     -> ComfyUI: 1) nạp model YuE2  2) YuE2 viết nhạc theo nốt ABC (lâu nhất)  3) KSampler 32 bước tô âm thanh  4) giải mã + lưu FLAC
+[15:24:20]     XONG su_B_am_s7 sau 113 s | giọng hát 5% (sạch) | giữ giai điệu 0.436 (mức của bản nốt so với bản gốc = 0.15) | máy nghe ra: brass 28%, flute 26%, lute 10%
+{"file": "su_B_am_s7__giong05.flac", "voice_pct": 5, "top": [["brass", 0.284], ["flute", 0.258], ["lute", 0.104], ["piano", 0.074], ["frame_drum", 0.062]]}
+[15:24:20] === HẾT VÒNG. Số máy chỉ để lọc lỗi; tai Duy quyết hay/dở ===
