@@ -1,0 +1,12 @@
+{
+  "beat": {
+    "cl": "Norteño instrumental, Mexican regional, button accordion lead playing the intro melody and answering phrases, bajo sexto strumming on the offbeat, electric bass on the downbeat, light drums, two-step polka rhythm, warm clean studio recording.",
+    "am": "Norteño romántico instrumental, warm expressive button accordion lead, bajo sexto and acoustic bass, soft light drums, two-step rhythm, smooth heartfelt, clean polished recording.",
+    "su": "Norteño pop instrumental, Mexican regional, button accordion and alto saxophone trading melody phrases, drum kit with snare, bajo sexto strumming, electric bass on the downbeat, two-step rhythm, bright modern studio mix."
+  },
+  "beat_lyrics": "[Intro]\n\n[Verse]\n\n[Chorus]\n\n[Bridge]\n\n[Verse]\n\n[Chorus]\n\n[Outro]\n",
+  "vocal": {
+    "A": "A cappella male norteño vocal, no instruments, dry close-mic studio vocal, bright nasal Mexican tenor, heartfelt, natural vibrato, singing in Spanish",
+    "B": "A cappella male norteño vocal, no instruments, warm smooth polished studio vocal, rich mellow Mexican tenor, legato phrasing, gentle vibrato, soft and heartfelt, singing in Spanish"
+  }
+}

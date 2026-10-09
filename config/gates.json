@@ -1,0 +1,250 @@
+{
+  "_doc": "mode: hard = loại bản không đạt; report = chỉ ghi số (đang hiệu chuẩn bằng tai Duy, R8); stage = điều kiện cả vòng. Đổi ngưỡng chỉ qua `run.py gate-set` (R10).",
+  "intake": [
+    {
+      "id": "files_ok",
+      "metric": "files_ok",
+      "op": "==",
+      "value": 1,
+      "mode": "hard"
+    },
+    {
+      "id": "lyrics_lines",
+      "metric": "lyrics_lines",
+      "op": ">=",
+      "value": 8,
+      "mode": "hard"
+    },
+    {
+      "id": "stem_len_diff_s",
+      "metric": "stem_len_diff_s",
+      "op": "<=",
+      "value": 1.0,
+      "mode": "hard"
+    },
+    {
+      "id": "tempo_steady_ms",
+      "metric": "tempo_dev_ms",
+      "op": "<=",
+      "value": 80,
+      "mode": "report"
+    }
+  ],
+  "abc": [
+    {
+      "id": "abc_density",
+      "metric": "notes_per_s",
+      "op": ">=",
+      "value": 1.3,
+      "mode": "hard",
+      "why": "dưới ~0.65 YuE2 bịa giọng/dừng sớm; dưới 1.3 dễ thưa"
+    },
+    {
+      "id": "abc_dur_ratio",
+      "metric": "abc_dur_ratio",
+      "op": ">=",
+      "value": 0.9,
+      "mode": "hard"
+    },
+    {
+      "id": "abc_first_note_gap_s",
+      "metric": "first_note_gap_s",
+      "op": "<=",
+      "value": 0.35,
+      "mode": "report",
+      "provisional": true,
+      "why": "No Pude vòng 4: nốt đầu của bản nốt trễ 0.6 s so với tiếng đầu thật; Suno 0.0 s. Chưa biết có liên quan lỗi intro Duy nghe"
+    }
+  ],
+  "beat": [
+    {
+      "id": "voice_pct",
+      "metric": "voice_pct",
+      "op": "<=",
+      "value": 15,
+      "mode": "hard"
+    },
+    {
+      "id": "accordion_pct",
+      "metric": "accordion_pct",
+      "op": ">=",
+      "value": 40,
+      "mode": "hard",
+      "why": "bên yêu cầu: bắt buộc có accordion"
+    },
+    {
+      "id": "lock_corr",
+      "metric": "lock_corr",
+      "op": ">=",
+      "value": 0.3,
+      "mode": "hard"
+    },
+    {
+      "id": "lock_iqr_ms",
+      "metric": "lock_iqr_ms",
+      "op": "<=",
+      "value": 60,
+      "mode": "hard"
+    },
+    {
+      "id": "beat_skips",
+      "metric": "skips",
+      "op": "<=",
+      "value": 2,
+      "mode": "hard"
+    },
+    {
+      "id": "dur_ratio",
+      "metric": "dur_ratio",
+      "op": ">=",
+      "value": 0.9,
+      "mode": "hard"
+    },
+    {
+      "id": "sim_orig_max",
+      "metric": "sim_orig_max",
+      "op": "<=",
+      "value": "song.gate_sim",
+      "mode": "hard",
+      "why": "giống bản thu gốc: full ~0.73, chỉ-melody 0.48-0.62 (đo 2026-10-07)"
+    },
+    {
+      "id": "start_lag_ms",
+      "metric": "start_lag_ms",
+      "op": "<=",
+      "value": 120,
+      "mode": "report",
+      "why": "6 s đầu lệch so với bản gốc. Đo 2026-10-07: 5/6 beat vòng 4 lệch ~0.6 s (1 phách). CHƯA tin để loại bản: xcorr nhầm đỉnh 1 phách (ví dụ lệch đúng/sai khi sửa thử), nên chỉ báo cáo; dạo đầu xử lý bằng ứng viên intro riêng + tai Duy.",
+      "provisional": true
+    },
+    {
+      "id": "start_corr",
+      "metric": "start_corr",
+      "op": ">=",
+      "value": 0.2,
+      "mode": "report",
+      "provisional": true
+    },
+    {
+      "id": "n_pass_min",
+      "metric": "n_pass",
+      "op": ">=",
+      "value": 2,
+      "mode": "stage"
+    },
+    {
+      "id": "intro_chroma",
+      "metric": "intro_chroma",
+      "op": ">=",
+      "value": 0.8,
+      "mode": "report",
+      "provisional": true,
+      "why": "v4 (Duy chê) 0.80-0.85, Suno-based (Duy khen) 0.79-0.86: KHÔNG phân biệt được"
+    },
+    {
+      "id": "intro_onset",
+      "metric": "intro_onset",
+      "op": ">=",
+      "value": 0.33,
+      "mode": "report",
+      "provisional": true
+    },
+    {
+      "id": "intro_first_onset_dev_s",
+      "metric": "intro_first_onset_dev_s",
+      "op": "<=",
+      "value": 0.2,
+      "mode": "report",
+      "provisional": true
+    }
+  ],
+  "vocal": [
+    {
+      "id": "floor_db",
+      "metric": "floor_db",
+      "op": "<=",
+      "value": -60,
+      "mode": "hard",
+      "why": "nền xì: gốc -43..-48, ACE thô -24..-32"
+    },
+    {
+      "id": "notes_pct",
+      "metric": "notes_pct",
+      "op": ">=",
+      "value": 70,
+      "mode": "hard"
+    },
+    {
+      "id": "wer",
+      "metric": "wer",
+      "op": "<=",
+      "value": 0.45,
+      "mode": "hard"
+    },
+    {
+      "id": "spk_sim",
+      "metric": "spk_sim",
+      "op": ">=",
+      "value": 0.88,
+      "mode": "hard",
+      "why": "ca sĩ với chính mình giữa 2 bài = 0.91"
+    },
+    {
+      "id": "lag_ms",
+      "metric": "lag_ms",
+      "op": "<=",
+      "value": 80,
+      "mode": "hard"
+    },
+    {
+      "id": "n_pass_min",
+      "metric": "n_pass",
+      "op": ">=",
+      "value": 1,
+      "mode": "stage"
+    }
+  ],
+  "mix": [
+    {
+      "id": "lufs",
+      "metric": "lufs",
+      "op": "between",
+      "value": [
+        -14.5,
+        -13.5
+      ],
+      "mode": "hard"
+    },
+    {
+      "id": "true_peak",
+      "metric": "true_peak",
+      "op": "<=",
+      "value": -1.0,
+      "mode": "hard"
+    },
+    {
+      "id": "near_peak_pct",
+      "metric": "near_peak_pct",
+      "op": "<=",
+      "value": 0.01,
+      "mode": "hard",
+      "why": "vòng 3 có 0.036-0.086% nên rè; gốc 0.003%"
+    },
+    {
+      "id": "crest_db",
+      "metric": "crest_db",
+      "op": ">=",
+      "value": 14,
+      "mode": "hard"
+    },
+    {
+      "id": "bal_vs_orig",
+      "metric": "bal_err_db",
+      "op": "<=",
+      "value": 1.0,
+      "mode": "report",
+      "provisional": true,
+      "why": "giọng−beat so với bản gốc (Duy: 'beat hơi to'; Prisión vòng 1 lệch −2.0 dB)"
+    }
+  ]
+}

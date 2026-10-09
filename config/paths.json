@@ -1,0 +1,17 @@
+{
+  "py": {
+    "tx":   "C:/Users/PC/Downloads/project music/harness/.venv_tx/Scripts/python.exe",
+    "mix":  "C:/Users/PC/Downloads/project music/harness/.venv/Scripts/python.exe",
+    "clap": "C:/Users/PC/Downloads/project music/harness/tools/seed-vc/.venv/Scripts/python.exe"
+  },
+  "py_note": "Env dùng chung CHỈ-ĐỌC (torch/pedalboard rất nặng, không chép). Code, luật, bộ nhớ, trạng thái đều tách riêng.",
+  "ffmpeg_glob": "~/AppData/Local/Microsoft/WinGet/Packages/Gyan.FFmpeg*/*/bin/ffmpeg.exe",
+  "vm": {
+    "ssh": "ezycloudx-admin@100.120.64.51", "key": "~/.ssh/ace_vm_ed25519", "tunnel_port": 28288, "lab_port": 8288,
+    "lab_root": "C:/claude_lab", "ace_run": "C:/claude_lab/ace/run", "ace_py": "C:/claude_lab/ace/venv/Scripts/python.exe",
+    "spk_py": "C:/claude_work/vocal/soulx/.venv/Scripts/python.exe", "inputs": "C:/claude_lab/inputs/spain", "outputs": "C:/claude_lab/outputs/ace",
+    "start_script": "C:/Users/ezycloudx-admin/lab_comfy_start.ps1"
+  },
+  "deny_substrings": ["C:\\EZAISinger", "C:/EZAISinger", "C:\\EZAISONG", "C:/EZAISONG", ":8188", "18188"],
+  "min_free_gpu_mb": 6000
+}

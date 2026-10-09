@@ -1,0 +1,210 @@
+{
+  "stages": [
+    {
+      "id": "intake",
+      "kind": "auto",
+      "gates": "intake",
+      "max_attempts": 2,
+      "title": "Nhận bài: đo nhịp/cung/bố cục, dọn lời"
+    },
+    {
+      "id": "abc",
+      "kind": "auto",
+      "gates": "abc",
+      "max_attempts": 3,
+      "title": "Chép nốt beat gốc (SheetSage2) → bản nốt dời cung"
+    },
+    {
+      "id": "beat_render",
+      "kind": "auto",
+      "gates": null,
+      "max_attempts": 3,
+      "title": "YuE2 đánh beat (một vòng = vài seed × kiểu)",
+      "ladder": "beat"
+    },
+    {
+      "id": "beat_gate",
+      "kind": "auto",
+      "gates": "beat",
+      "max_attempts": 3,
+      "title": "Căn phách + lọc máy; không đủ bản đạt → vòng mới",
+      "on_fail_goto": "beat_render"
+    },
+    {
+      "id": "HG1",
+      "kind": "human",
+      "title": "TAI DUY #1: nghe beat (dạo đầu trước)",
+      "on_fail_goto": "beat_render",
+      "ask": "Nghe NGHE/1_beat. Dạo đầu 25 s: so với beat gốc (file 0). Chọn beat chính (--pick) và, nếu thích, một dạo đầu riêng (--intro i1_...). Chê thì nói chỗ nào/giây nào (--note)."
+    },
+    {
+      "id": "finalize_beat",
+      "kind": "auto",
+      "gates": null,
+      "max_attempts": 2,
+      "title": "Ghép dạo đầu đã chọn vào beat đã chọn (cùng lưới phách)"
+    },
+    {
+      "id": "vocal_render",
+      "kind": "auto",
+      "gates": null,
+      "max_attempts": 3,
+      "title": "ACE hát lại giọng (lời chuẩn) trên giờ của beat đã chọn",
+      "ladder": "vocal"
+    },
+    {
+      "id": "vocal_gate",
+      "kind": "auto",
+      "gates": "vocal",
+      "max_attempts": 3,
+      "title": "Làm sạch xì + đo giọng; không đạt → vòng mới",
+      "on_fail_goto": "vocal_render"
+    },
+    {
+      "id": "mix",
+      "kind": "auto",
+      "gates": "mix",
+      "max_attempts": 2,
+      "title": "Trộn beat + giọng, master -14 LUFS"
+    },
+    {
+      "id": "pack",
+      "kind": "auto",
+      "gates": null,
+      "max_attempts": 1,
+      "title": "Đóng gói nghe (Audacity .lof) + bản giao"
+    },
+    {
+      "id": "HG2",
+      "kind": "human",
+      "title": "TAI DUY #2 + bên yêu cầu: nghe cả bài, upload thử Content ID",
+      "on_fail_goto": "beat_render",
+      "ask": "Nghe NGHE/2_ca_bai. Báo: ổn/không, rè không, accordion đủ không, giọng mượt không, kết quả Content ID."
+    },
+    {
+      "id": "memory",
+      "kind": "auto",
+      "gates": null,
+      "max_attempts": 1,
+      "title": "Ghi bài học + hiệu chuẩn"
+    }
+  ],
+  "ladders": {
+    "beat": [
+      {
+        "styles": [
+          "cl",
+          "am",
+          "su"
+        ],
+        "seeds": [
+          1,
+          2,
+          7
+        ],
+        "abc": "full"
+      },
+      {
+        "styles": [
+          "cl",
+          "am",
+          "su"
+        ],
+        "seeds": [
+          3,
+          4,
+          5
+        ],
+        "abc": "full"
+      },
+      {
+        "styles": [
+          "cl",
+          "am"
+        ],
+        "seeds": [
+          11,
+          12,
+          13
+        ],
+        "abc": "full_dense"
+      }
+    ],
+    "vocal": [
+      {
+        "captions": [
+          "A",
+          "B"
+        ],
+        "seeds": [
+          42,
+          7
+        ],
+        "acs": 0.8
+      },
+      {
+        "captions": [
+          "A",
+          "B"
+        ],
+        "seeds": [
+          11,
+          23
+        ],
+        "acs": 0.6
+      },
+      {
+        "captions": [
+          "B"
+        ],
+        "seeds": [
+          5,
+          9,
+          13
+        ],
+        "acs": 0.8
+      }
+    ]
+  },
+  "hints": {
+    "beat": {
+      "skips": {
+        "abc": "full_dense"
+      },
+      "lock_corr": {
+        "abc": "full_dense"
+      },
+      "accordion_pct": {
+        "styles": [
+          "am",
+          "cl"
+        ]
+      },
+      "sim_orig_max": {
+        "styles": [
+          "am"
+        ]
+      },
+      "voice_pct": {
+        "cfg": 3.0
+      },
+      "dur_ratio": {
+        "abc": "full_dense"
+      }
+    },
+    "vocal": {
+      "floor_db": {
+        "acs": 0.6
+      },
+      "wer": {
+        "acs": 0.6
+      },
+      "spk_sim": {
+        "acs": 0.8
+      },
+      "notes_pct": {
+        "acs": 0.8
+      }
+    }
+  }
+}
